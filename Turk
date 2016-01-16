@@ -1,0 +1,127 @@
+#EXTM3U
+
+#EXTINF:-1,EURO STAR TV HD
+http://www.iptvsaga.com/play/tv3/0063.m3u8
+#EXTINF:-1,ATV HD
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1,SHOW TV HD
+http://www.iptvsaga.com/play/tv3/0045.m3u8
+#EXTINF:-1,KANAL D HD
+http://www.iptvsaga.com/play/tv3/0038.m3u8
+#EXTINF:-1,TV8 HD 
+http://ls.viviso.tv/i/tv8sdi_1@349694/master.m3u8
+#EXTINF:-1,FOX HD
+http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+#EXTINF:-1,SAMANYOLU TV HD
+http://www.iptvsaga.com/play/tv3/0039.m3u8
+#EXTINF:-1,FLASH TV HD
+http://www.iptvsaga.com/play/tv3/0042.m3u8
+#EXTINF:-1,Kanal 7 HD
+http://www.iptvsaga.com/play/tv3/0043.m3u8
+#EXTINF:-1,BUGÜN TV HD
+http://www.iptvsaga.com/play/tv3/0052.m3u8
+#EXTINF:-1,TV EM 
+http://www.iptvsaga.com/play/tv3/0046.m3u8
+#EXTINF:-1,TRT HD
+http://www.iptvsaga.com/play/tv3/0036.m3u8
+‪#‎EXTINF‬:-1,TRT 1 HD
+http://www.iptvsaga.com/play/tv3/0030.m3u8
+#EXTINF:-1,TRT KURDİ HD
+http://www.iptvsaga.com/play/tv3/0033.m3u8
+#EXTINF:-1,TRT BELGESEL HD
+http://www.iptvsaga.com/play/tv3/0061.m3u8
+#EXTINF:-1,KANALTÜRK HD
+http://kanalturk-live.ercdn.com/kanalturk.m3u8
+#EXTINF:-1,CNN TURK HD
+http://www.iptvsaga.com/play/tv3/0051.m3u8
+#EXTINF:-1,HABERTÜRK HD
+http://www.iptvsaga.com/play/tv3/0073.m3u8
+#EXTINF:-1,TV 2 HD
+http://www.iptvsaga.com/play/tv3/0047.m3u8
+#EXTINF:-1,FIL TV HD
+http://www.iptvsaga.com/play/tv3/0067.m3u8
+#EXTINF:-1,BLOOMBERG HD
+http://www.iptvsaga.com/play/tv3/0066.m3u8
+#EXTINF:-1,NTV SPOR HD
+http://www.iptvsaga.com/play/tv3/0057.m3u8
+#EXTINF:-1,POWERTURK HD
+http://185.28.3.10/powertv/powerturktvh.stream/chunklist.m3u8
+#EXTINF:-1,24 TV
+http://bit.do/24tv
+#EXTINF:-1,A SINEMA TV
+http://bit.do/acinema
+#EXTINF:-1,AVANTAJ TV HD
+http://bit.do/avantajtv
+#EXTINF:-1,BEST TV HD
+http://bit.do/besttv
+#EXTINF:-1,DOGU TV HD
+http://bit.do/dogutv
+#EXTINF:-1,E2 TV
+http://bit.do/E-2
+#EXTINF:-1,FHM TV
+http://bit.do/fhmtv
+#EXTINF:-1,PLUS MUSIC TV
+http://bit.do/osmanlitv
+#EXTINF:-1,PMC
+http://bit.do/pmctv
+#EXTINF:-1,SKY SWR HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5534.m3u8
+#EXTINF:-1,WDR HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5530.m3u8
+#EXTINF:-1,SKY CINEMA HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5550.m3u8
+#EXTINF:-1,SKY CINEMA 1 HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5549.m3u8
+#EXTINF:-1,SKY CINEMA 24 HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5548.m3u8
+#EXTINF:-1,SKY AKTION HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5552.m3u8
+#EXTINF:-1,SKY EMOTION HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5547.m3u8
+#EXTINF:-1,SKY HITS HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5545.m3u8
+#EXTINF:-1,SKY HITS 2 HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5546.m3u8
+#EXTINF:-1,SKY ATLANTIC HD
+http://185.59.222.34:8000/live/WSS2/support@wsswebhost.com/74.m3u8
+#EXTINF:-1,SKY KRIMI HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5544.m3u8
+#EXTINF:-1,SKY-13TH STREET HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5553.m3u8
+#EXTINF:-1,SKY 13TH STREET 2 HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5554.m3u8
+#EXTINF:-1,SKY TNT SERIE HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5533.m3u8
+#EXTINF:-1,SKY DISNEY JUNIOR HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5561.m3u8
+#EXTINF:-1,SKY SPORT 1 HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5535.m3u8
+#EXTINF:-1,SKY BUNDESLIGA HD1
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5551.m3u8
+#EXTINF:-1,SKY NAT GEO WILD HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5556.m3u8
+#EXTINF:-1,SKY NAT GEO WILD 2 HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5557.m3u8
+#EXTINF:-1,SKY NAT GEO HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5558.m3u8
+#EXTINF:-1,SKY DISCOVERY CHANNEL HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/3534.m3u8
+#EXTINF:-1,SKY SELECT 1 HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5542.m3u8
+#EXTINF:-1,SKY SELECT 2 HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5541.m3u8
+#EXTINF:-1,SKY SELECT 3 HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5540.m3u8
+#EXTINF:-1,SKY SELECT 4 HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5539.m3u8
+#EXTINF:-1,SKY SELECT 5 HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5538.m3u8
+#EXTINF:-1,SKY SELECT 6 HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5537.m3u8
+#EXTINF:-1,SKY SELECT 7 HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5536.m3u8
+#EXTINF:-1,SKY SELECT 8 HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5543.m3u8
+
+
+
