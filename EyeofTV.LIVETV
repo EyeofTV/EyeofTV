@@ -12,6 +12,8 @@ http://www.iptvsaga.com/play/tv3/0038.m3u8
 http://ls.viviso.tv/i/tv8sdi_1@349694/master.m3u8
 #EXTINF:-1,FOX HD
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+#EXTINF: -1, FOX TV
+http://188.72.131.226/fox.m3u8
 #EXTINF:-1,SAMANYOLU TV HD
 http://www.iptvsaga.com/play/tv3/0039.m3u8
 #EXTINF:-1,FLASH TV HD
@@ -46,120 +48,10 @@ http://www.iptvsaga.com/play/tv3/0066.m3u8
 http://www.iptvsaga.com/play/tv3/0057.m3u8
 #EXTINF:-1,POWERTURK HD
 http://185.28.3.10/powertv/powerturktvh.stream/chunklist.m3u8
-#EXTINF:-1,——UPDATE——
-http://185.28.3.10/powertv/powerturktvh.stream/chnklist.m3u8
-#EXTINF:-1,TRT1
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/1.ts
-#EXTINF:-1,ATV
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/3.ts
-#EXTINF:-1,Star TV
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/2.ts
-#EXTINF:-1,Show TV
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/4.ts
-#EXTINF:-1,KanalD
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/8.ts
-#EXTINF:-1,Kanal7
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/7.ts
-#EXTINF:-1,TV8
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/5.ts
-#EXTINF:-1,FilTV
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/9.ts
-#EXTINF:-1,FilmaxPremier
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/21.ts
-#EXTINF:-1,FilmaxFamily
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/20.ts
-#EXTINF:-1,KanalA
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/19.ts
-#EXTINF:-1,KanalTürk
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/6.ts
-#EXTINF:-1,TRT Cocuk
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/11.ts
-#EXTINF:-1,Yumurcak TV
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/12.ts
-#EXTINF:-1,TRT Müzik
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/13.ts
-#EXTINF:-1,Ülke TV
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/10.ts
-#EXTINF:-1,TRT Haber
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/14.ts
-#EXTINF:-1,TRT Diyanet
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/15.ts
-#EXTINF:-1,TRT Belgesel
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/16.ts
-#EXTINF:-1,Lalegül TV
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/17.ts
-#EXTINF:-1,TRT Spor
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/22.ts
-#EXTINF:-1,SüperSpor
-http://188.165.150.249:8000/live/0XUFAdEi4c/DjH5sBsnw8/18.ts
-#EXTINF:-1,======GERMANY LIVE CHANNELS======
-http://iptv-supplier.com:8000/live/test1/test1/451.m3u8
-#EXTINF:-1,DE:RTL
-http://iptv-supplier.com:8000/live/test1/test1/377.m3u8
-#EXTINF:-1,DE:ZDF
-http://iptv-supplier.com:8000/live/test1/test1/372.m3u8
-#EXTINF:-1,DE:TNT_SERIE
-http://iptv-supplier.com:8000/live/test1/test1/376.m3u8
-#EXTINF:-1,DE:ORF2
-http://iptv-supplier.com:8000/live/test1/test1/374.m3u8
-#EXTINF:-1,DE:SIXX
-http://iptv-supplier.com:8000/live/test1/test1/1500.m3u8
-#EXTINF:-1,DE:PRO7
-http://iptv-supplier.com:8000/live/test1/test1/1501.m3u8
-#EXTINF:-1,DE:NDR
-http://iptv-supplier.com:8000/live/test1/test1/1502.m3u8
-#EXTINF:-1,DE:N24
-http://iptv-supplier.com:8000/live/test1/test1/1503.m3u8
-#EXTINF:-1,DE:N-TV
-http://iptv-supplier.com:8000/live/test1/test1/1504.m3u8
-#EXTINF:-1,DE:KABEL1
-http://iptv-supplier.com:8000/live/test1/test1/1506.m3u8
-#EXTINF:-1,DE:ARTE
-http://iptv-supplier.com:8000/live/test1/test1/1508.m3u8
-#EXTINF:-1,DE:KIKA
-http://iptv-supplier.com:8000/live/test1/test1/378.m3u8
-#EXTINF:-1,DE:SKY_CINEMA+1
-http://iptv-supplier.com:8000/live/test1/test1/371.m3u8
-#EXTINF:-1,DE:SKY_CINEMA_24HD
-http://iptv-supplier.com:8000/live/test1/test1/361.m3u8
-#EXTINF:-1,DE:SKY_ATLANTIC
-http://iptv-supplier.com:8000/live/test1/test1/362.m3u8
-#EXTINF:-1,DE:SKY_EMOTION
-http://iptv-supplier.com:8000/live/test1/test1/360.m3u8
-#EXTINF:-1,DE:SKY_COMEDY
-http://iptv-supplier.com:8000/live/test1/test1/370.m3u8
-#EXTINF:-1,DE:Sky_KRIMI
-http://iptv-supplier.com:8000/live/test1/test1/942.m3u8
-#EXTINF:-1,DE:SKY_HITS
-http://iptv-supplier.com:8000/live/test1/test1/369.m3u8
-#EXTINF:-1,DE:13TH_STREETHD
-http://iptv-supplier.com:8000/live/test1/test1/946.m3u8
-#EXTINF:-1,DE:SYFY
-http://iptv-supplier.com:8000/live/test1/test1/945.m3u8
-#EXTINF:-1,DE:NATGEO_WILD
-http://iptv-supplier.com:8000/live/test1/test1/943.m3u8
-#EXTINF:-1,DE:HISTORYHD
-http://iptv-supplier.com:8000/live/test1/test1/944.m3u8
-#EXTINF:-1,DE:NATGEO
-http://iptv-supplier.com:8000/live/test1/test1/375.m3u8
-#EXTINF:-1,DE:SKY_SELECT6
-http://iptv-supplier.com:8000/live/test1/test1/363.m3u8
-#EXTINF:-1,DE:SKY_SELECT5
-http://iptv-supplier.com:8000/live/test1/test1/364.m3u8
-#EXTINF:-1,DE:SKY_SELECT4
-http://iptv-supplier.com:8000/live/test1/test1/365.m3u8
-#EXTINF:-1,DE:SKY_SELECT3
-http://iptv-supplier.com:8000/live/test1/test1/366.m3u8
-#EXTINF:-1,DE:SKY_SELECT2
-http://iptv-supplier.com:8000/live/test1/test1/367.m3u8
-#EXTINF:-1,DE:SKY_SELECT1
-http://iptv-supplier.com:8000/live/test1/test1/368.m3u8
-#EXTINF:-1,DE:SKY_BUNDESLIGA_HD
-http://iptv-supplier.com:8000/live/test1/test1/359.m3u8
-#EXTINF:-1,DE:SKY_SPORTS_HD1
-http://iptv-supplier.com:8000/live/test1/test1/357.m3u8
-#EXTINF:-1,DE:SKY_SPORTS_HD2
-http://iptv-supplier.com:8000/live/test1/test1/358.m3u8
+#EXTINF: -1, Az Tv
+http://188.72.131.226/aztv.m3u8
+#EXTINF: -1, IDMAN TV HD
+
 
 
 
