@@ -1,0 +1,320 @@
+#EXTINF:-1, KANAL D HD
+http://212.224.108.78/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1, ATV HD
+http://origin.live.web.tv.streamprovider.net/streams/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
+#EXTINF:-1, ATV HD
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1, ATV AVRUPA HD
+http://trkvz-m.ercdn.net/trkvz-temp/atvavrupam.m3u8
+#EXTINF:-1, STAR TV HD
+http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
+#EXTINF:-1, SHOW TV HD
+http://mn-l.mncdn.com/showtv/showtv2/playlist.m3u8
+#EXTINF:-1, SHOW TURK HD
+http://mn-l.mncdn.com/showturktv/showturktv1/HasBahCa.m3u8
+#EXTINF:-1, FOX HD
+http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+#EXTINF:-1, SAMANYOLU HD
+http://vivisolivegrp01-lh.akamaihd.net/i/stv_1@398177/index_360_av-b.m3u8
+#EXTINF:-1, SAMANYOLU AVRUPA HD
+http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_270_av-b.m3u8
+#EXTINF:-1, SAMANYOLU HABER HD
+http://vivisolivegrp01-lh.akamaihd.net/i/shabertv_1@398173/index_360_av-b.m3u8
+#EXTINF:-1, TV8 HD
+http://tv8.viviso.tv/staging_live_stream.m3u8
+#EXTINF:-1, FLASH TV HD
+http://origin.live.web.tv.streamprovider.net/streams/e576f7fb1645893450446d3722613c5d_live_0_0/index.m3u8
+#EXTINF:-1, KANAL 7 HD
+http://livetr.gostream.nl/kanal7hq/kanal7hq/HasBahCa.m3u8
+#EXTINF:-1, KANAL 7 HD
+http://livetr.gostream.nl/kanal7int/kanal7int/HasBahCa.m3u8
+#EXTINF:-1, KANALTÜRK HD
+http://kanalturk-live.ercdn.com/kanalturk.m3u8
+#EXTINF:-1, CINE 5 HD
+rtmp://cine5.stream.cubecdn.net/cine5/stream_1
+#EXTINF:-1, SINEMA TV HD
+http://origin.live.web.tv.streamprovider.net/streams/0fbf2b4871485d41c22604eef2a26646_live_0_0/index.m3u8
+#EXTINF:-1, TLC TÜRKIYE HD
+http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
+#EXTINF:-1, FIL TV HD 
+http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/playlist.m3u8
+#EXTINF:-1, KRAL TV HD
+http://149.255.152.69/hls-live/livepkgr/kral/kral/kral.m3u8
+#EXTINF:-1, POWERTÜRK HD
+http://cdn2.powergroup.com.tr/powertv/powerturktv.smil/playlist.m3u8
+#EXTINF:-1, DREAM TÜRK HD
+http://212.224.108.76/S1/HLS_LIVE/dreamturktv/index.m3u8
+#EXTINF:-1, POWER TV HD
+http://origin.live.web.tv.streamprovider.net/streams/2437cef0ef9439f113ac1299e5974ab2_live_0_0/index.m3u8
+#EXTINF:-1, BEST TV HD
+http://origin.live.web.tv.streamprovider.net/streams/86ebe1c298d11029a92cadd9ab24f337_live_0_0/index.m3u8
+#EXTINF:-1, CIVAN TV HD
+http://origin.live.web.tv.streamprovider.net/streams/67e549d113af70425ad2b3283d2ddb2b_live_0_0/index.m3u8
+#EXTINF:-1, NR1 TV HD
+rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp
+#EXTINF:-1, ZEYNO TV HD
+http://origin2.live.web.tv.streamprovider.net/streams/f9804150295e0d67755899b3e55134e1/index.m3u8
+#EXTINF:-1, ANADOLU TV HD
+http://origin.live.web.tv.streamprovider.net/streams/1336b1bfa0acb81ede8b16b07167cefa_live_0_0/index.m3u8
+#EXTINF:-1, NET CINEMA TV HD
+http://origin.live.web.tv.streamprovider.net/streams/0b9695a3ad63aa2c72d9d265694cfd23_live_0_0/index.m3u8
+#EXTINF:-1, DREAM TV HD 
+http://212.224.108.76/S1/HLS_LIVE/dreamtv/index.m3u8
+#EXTINF:-1, GENC TV HD
+http://origin.live.web.tv.streamprovider.net/streams/45b3a774008e07aa0958f4c63addf718_live_0_0/index.m3u8
+#EXTINF:-1, CNBC-E TV HD 
+http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
+#EXTINF:-1, TRT HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
+#EXTINF:-1, TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1, TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1, TRT TÜRK HD
+http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/playlist.m3u8
+#EXTINF:-1, AKAMAI HD
+http://meclistv-lh.akamaihd.net/i/event_1@190503/master.m3u8
+#EXTINF:-1, TRT COCUK HD 
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
+#EXTINF:-1, TRT AVAZ HD
+http://sol.trtcdn.com/tv/trtavaz/smil:trtavaz.smil/playlist.m3u8
+#EXTINF:-1, TRT SPOR HD
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+#EXTINF:-1, TRT BELGESEL HD
+http://sol.trtcdn.com/tv/trtbelgesel/smil:trtbelgesel.smil/playlist.m3u8
+#EXTINF:-1, TRT OKUL HD
+http://sol.trtcdn.com/tv/trtokul/smil:trtokul.smil/playlist.m3u8
+#EXTINF:-1, TRT MUZIK HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1, TRT 6 HD
+http://sol.trtcdn.com/tv/trt6/smil:trt6.smil/playlist.m3u8
+#EXTINF:-1, CIVAN TV HD
+http://origin.live.web.tv.streamprovider.net/streams/67e549d113af70425ad2b3283d2ddb2b_live_0_0/index.m3u8
+#EXTINF:-1, TV 2 HD 
+http://212.224.109.107/S1/HLS_LIVE/tv2/256/prog_index.m3u8
+#EXTINF:-1, BRT1 TV HD 
+rtmp://wms.brtk.net:1935/live/brt1
+play
+(tr) Van TV
+http://origin.live.web.tv.streamprovider.net/streams/d9d7ee96913217bbc757f40d4de65c29_live_0_0/index.m3u8
+play
+(tr) IST TV
+http://wowza.istweb.tv:1935/webtv/_definst_/arizatv/webtv_wowza1/playlist.m3u8
+play
+(tr) Ulke TV
+rtmp://stream.gostream.nl:443/ulketvhq/ulketvhq
+play
+(tr) GTV
+rtmp://stream.taksimbilisim.com/tarsusguneytv/bant1
+play
+(tr) SRT
+http://stream.taksimbilisim.com:1935/srt/smil:srt.smil/playlist.m3u8
+play
+(tr) Beyaz
+rtmp://beyaztv.mediatriple.net:1935/beyazliveedge/beyaztv1
+play
+(tr) Bengu Turk
+rtmp://yayin8.canliyayin.org:1935/benguturk/benguturk
+play
+(tr) TV4
+http://strm-i.glb.pr.medianova.tv/karamel/karamel/playlist.m3u8
+play
+(tr) A Haber
+http://rtmp.turkuvazgroup.net/ahaber/ahaber3/playlist.m3u8
+play
+(tr) A Spor
+http://hls.turkuvazgroup.net:1935/aspor/aspor3/playlist.m3u8
+play
+(tr) CNN Turk
+http://212.224.109.103/S1/HLS_LIVE/cnn_turk/index.m3u8
+play
+(tr) Tgrt Haber
+http://tgrthaber.mediatriple.net:1935/tgrtliveedge/smil:tgrt.smil/Playlist.m3u8
+play
+(tr) NTV
+http://origin2.live.web.tv.streamprovider.net/streams/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8
+play
+(tr)Haber Turk
+http://strm-i.glb.pr.medianova.tv:1935/haberturk/smil:ihaberturk.smil/playlist.m3u8
+play
+(tr)Sky Turk 360
+http://origin.live.web.tv.streamprovider.net/streams/7b1c4724e7c32f1554013ca5977fd903_live_0_0/index.m3u8
+play
+(tr) Sky TV
+http://origin.live.web.tv.streamprovider.net/streams/79b8bd30bf1cb3e5f3a6f15f0814cc89_live_0_0/index.m3u8
+play
+(tr)IMC
+http://origin.live.web.tv.streamprovider.net/streams/205a2db5a33b65589f22dd1c159bdb44_live_0_0/index.m3u8
+play
+(tr)AS TV
+http://origin2.live.web.tv.streamprovider.net/streams/0f951aa93e88e2fff2d6f4981ec5941f/index.m3u8
+play
+(tr) Planet Turk
+rtmp://77.223.146.117:1935/live/planett
+play
+(tr) Planet Pembe
+rtmp://77.223.146.117:1935/live/planetp
+play
+(tr) Minika Go
+http://rtmp.turkuvazgroup.net/minika/minika3/playlist.m3u8
+play
+(tr) Minika Cocuk
+http://rtmp.turkuvazgroup.net/minikacocuk/minikacocuk3/playlist.m3u8
+play
+(tr) Planet Cocuk
+rtmp://77.223.146.117:1935/live/planetc
+play
+(tr) Cartoon Network
+http://origin.live.web.tv.streamprovider.net/streams/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8
+play
+(tr) Disney Channel
+http://live.netd.com.tr//S2/HLS_LIVE/disney/track_4_1000/playlist.m3u8?
+play
+(tr) NTV Spor
+http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+play
+(tr) Sports TV
+http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
+play
+(tr) Super Sport
+http://92.222.205.40:8080/superlig
+play
+(tr) A9 TV
+http://origin.live.web.tv.streamprovider.net/streams/78bd37307331e90c6056a0fa2a30c767_live_0_0/index.m3u8
+play
+(tr)Kanal 5
+http://origin.live.web.tv.streamprovider.net/streams/5747926c24dc4e872c1f341e11c66ab6_live_0_0/index.m3u8
+play
+(tr) TV 52
+http://origin.live.web.tv.streamprovider.net/streams/1451e305f588c1f950a784bf90f1d8a3_live_0_0/index.m3u8
+play
+(tr)TV 2000
+http://origin.live.web.tv.streamprovider.net/streams/1a4d50ea1292157a0d9d2e5ca25d2f7f_live_0_0/index.m3u8
+play
+(tr) Anadolu TV
+http://origin.live.web.tv.streamprovider.net/streams/1336b1bfa0acb81ede8b16b07167cefa_live_0_0/index.m3u8
+play
+(tr) 24 TV
+http://origin.live.web.tv.streamprovider.net/streams/316f8a9dee51cf7e92610d30373f964c/index.m3u8
+play
+(tr) TV EM
+http://mn-l.mncdn.com/tvem_live/tvem3/playlist.m3u8
+play
+(tr) Kanal Avrupa
+rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_/stream1/
+play
+(tr) Yol TV
+rtmp://178.254.20.205:2100/yol/yolstream
+play
+(tr) AZ TV
+http://origin2.live.web.tv.streamprovider.net/streams/7646c80bc1b8b8b007e7649c1f1a1204/index.m3u8
+play
+(tr) Muz TV
+http://85.132.78.6:1935/live/muztv.stream/playlist.m3u8
+play
+----KURDISH----
+play
+Kurdistan TV
+http://84.244.187.12:1935/live/livestream/playlist.m3u8
+play
+Zagros TV
+http://198.100.158.231:1935/kanal10/_definst_/livestream/playlist.m3u8
+play
+Kurdsat TV
+http://198.100.158.231:1935/kanal11/_definst_/livestream/playlist.m3u8
+play
+Waar HD
+http://avenuewtv.srfms.com:2219/live//livestream/playlist.m3u8
+play
+Kurdmax TV
+rtmp://live.kurdstream.net:1935/liveTrans/_definst_/mp4:myStream_720p
+play
+Cihan TV HD
+rtmp://kurd-live.com/live/cihan
+play
+NRT HD
+rtmp://nrttv.iptv-playoutcenter.de:1935/nrt1/_definst_/mp4:nrt1.stream_1
+play
+NRT 2
+rtmp://nrttv.iptv-playoutcenter.de:1935/nrt2/_definst_/mp4:nrt2.stream_1
+play
+VIN TV
+rtmp://95.170.203.137:1935/live/rtmp.stream
+play
+Rega TV
+http://162.244.81.103:1935/RegaTV/myStream/playlist.m3u8
+play
+Gem Kurd
+http://63.237.48.23/ios/GEM_KURD/GEM_KURD.m3u8
+play
+Rudaw TV
+rtsp://livestreaming.itworkscdn.net/rudawlive/rudawtv
+play
+Kurdistan24 TV
+http://62.210.100.139:1935/kurdistan24tv/smil:kurdistan24/playlist.m3u8
+play
+Kurdsat News
+http://68.168.105.117/live/autoHLS/livestream/livestream.m3u8
+play
+Geli Kurdistan TV
+rtmp://64.150.177.45:1935/live/mp4:myStream
+play
+KNN TV
+http://46.163.68.239:1935/live/_definst_/livestream/playlist.m3u8
+play
+Speda TV
+http://kurd-live.com:1935/live/speda/playlist.m3u8
+play
+Payam TV
+rtmp://payamlive.nanocdn.com:1935/live/payam256
+play
+Med Nuce
+http://198.100.158.231:1935/kanal11/_definst_/livestream/playlist.m3u8
+play
+Sterk TV
+http://198.100.158.231:1935/kanal6/_definst_/livestream/playlist.m3u8
+play
+Med Muzik
+rtmp://178.33.61.33:1936/medmuzik//muzikakurdi
+play
+Newroz TV
+http://198.100.158.231:1935/kanal3/_definst_/livestream/playlist.m3u8
+play
+Ronahi TV
+http://198.100.158.231:1935/kanal16/_definst_/livestream/playlist.m3u8
+play
+TRT Kurdi
+http://sol.trtcdn.com/tv/trt6/smil:trt6.smil/playlist.m3u8
+play
+Komala TV
+http://198.100.158.231:1935/kanal8/_definst_/livestream/playlist.m3u8
+play
+Rojhelat TV
+http://62.210.100.139:1935/rojhelattv/smil:rojhelat/playlist.m3u8
+play
+Zarok TV
+http://62.210.100.139:1935/zaroktv/smil:zarok.smil/playlist.m3u8
+play
+Kurdmax pepule
+http://live.kurdstream.net:1935/liveTrans/Pepule_360p/playlist.m3u8
+play
+(ir) Sahar Kurdish
+http://kurdish.sahartv.ir/live/ios
+play
+Denge TV
+http://yayin3.canlitv.com:1935/live/dengetv/playlist.m3u8
+play
+Havin TV
+http://origin2.live.web.tv.streamprovider.net/streams/894b55a9a7fa8f9b20da735e2112b034/index.m3u8
+play
+Jiyan TV
+http://origin.live.web.tv.streamprovider.net/streams/e3490d55c5dfc38e758ade69815cd9ef_live_0_0/index.m3u8
+play
+Damla TV
+rtmp://balgurup.garantisistem.com:1935/Damla_Tv/Damla_Tv
+play
+Azadi TV
+http://origin.live.web.tv.streamprovider.net/streams/415b828121291eb48f01cc26b98c14ff/index.m3u8
+play
+Amozhgary TV
+http://176.28.44.168:1935/live/_definst_/livestream/playlist.m3u8
