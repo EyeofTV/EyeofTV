@@ -190,3 +190,95 @@ http://www.iptvsaga.com/play/tv3/0057.m3u8
 http://185.28.3.10/powertv/powerturktvh.stream/chunklist.m3u8
 #EXTINF: -1, Az Tv
 http://188.72.131.226/aztv.m3u8
+#EXTINF:0807 tvg-id="8221.TRT HD.dsmart.com.tr" group-title="Turkish" tvg-logo="641998.png", [COLOR olivedrab]TRT HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0036.m3u8
+#EXTINF:0823 tvg-id="8223.TRT HABER HD.dsmart.com.tr" group-title="Turkish" tvg-logo="305003.png", [COLOR olivedrab]TRT HABER HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0049.m3u8
+#EXTINF:0824 tvg-id="8823.TRT TURK.dsmart.com.tr" group-title="Turkish" tvg-logo="324361.png", [COLOR olivedrab]TRT T‹RK HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0050.m3u8
+#EXTINF:0802 tvg-id="trt1.tr" group-title="Turkish" tvg-logo="108209.png", [COLOR olivedrab]TRT World[/COLOR]
+http://www.iptvsaga.com/play/tv3/0031.m3u8
+#EXTINF:0803 tvg-id="9991.TRT AVAZ DOGU.dsmart.com.tr" group-title="Turkish" tvg-logo="800602.png", [COLOR olivedrab]TRT AVAZ HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0032.m3u8
+#EXTINF:0804 tvg-id="246.TRT Kurdi.digiturk.com.tr" group-title="Turkish" tvg-logo="707556.png", [COLOR olivedrab]TRT KURD› HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0033.m3u8
+#EXTINF:0805 tvg-id="8838.TRT OKUL.dsmart.com.tr" group-title="Turkish" tvg-logo="976101.png", [COLOR olivedrab]TRT OKUL HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0034.m3u8
+#EXTINF:0806 tvg-id="9995.TRT ARAPCA.dsmart.com.tr" group-title="Turkish" tvg-logo="706529.png", [COLOR olivedrab]TRT ARAP«A[/COLOR]
+http://www.iptvsaga.com/play/tv3/0035.m3u8
+#EXTINF:0808 tvg-id="8824.TRT 3.dsmart.com.tr" group-title="Turkish" tvg-logo="370171.png", [COLOR olivedrab]TRT 3-TBMM TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0037.m3u8
+#EXTINF:0834 tvg-id="8224.TRT SPOR HD.dsmart.com.tr" group-title="Turkish" tvg-logo="371098.png", [COLOR olivedrab]TRT SPOR HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0056.m3u8
+#EXTINF:0842 tvg-id="8225.TRT BELGESEL HD.dsmart.com.tr" group-title="Turkish" tvg-logo="910816.png", [COLOR olivedrab]TRT BELGESEL HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0061.m3u8
+#EXTINF:0845 tvg-id="trtdiyanet.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR olivedrab]TRT D›YANET HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0062.m3u8
+#EXTINF:0811 tvg-id="8176.ATV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="362041.png", [COLOR olivedrab]ATV HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0041.m3u8
+#EXTINF:0815 tvg-id="8421.Show TV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="442251.png", [COLOR olivedrab]SHOW HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0045.m3u8
+#EXTINF:0809 tvg-id="430.Kanal D HD.digiturk.com.tr" group-title="Turkish" tvg-logo="880948.png", [COLOR olivedrab]Kanal D HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0038.m3u8
+#EXTINF:0845 tvg-id="8755.Star TV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR olivedrab]Star TV HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0063.m3u8
+#EXTINF:0845 tvg-id="428.TV8 HD.digiturk.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR olivedrab]tv8 int[/COLOR]
+http://www.iptvsaga.com/play/tv3/0064.m3u8
+#EXTINF:0845 tvg-id="8441.FOX TV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR olivedrab]Fox HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0065.m3u8
+#EXTINF:0810 tvg-id="8872.SAMANYOLU TV HD.dsmart.com.tr" group-title="Turkish" tvg-logo="518299.png", [COLOR olivedrab]Samanyolu TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0039.m3u8
+#EXTINF:0810 tvg-id="8863.Samanyolu Haber.dsmart.com.tr" group-title="Turkish" tvg-logo="518299.png", [COLOR olivedrab]Samanyolu Haber[/COLOR]
+http://www.iptvsaga.com/play/tv3/0040.m3u8
+#EXTINF:0812 tvg-id="156.Flash TV.digiturk.com.tr" group-title="Turkish" tvg-logo="630601.png", [COLOR olivedrab]Flash TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0042.m3u8
+#EXTINF:0813 tvg-id="8521.KANAL 7 HD.dsmart.com.tr" group-title="Turkish" tvg-logo="236150.png", [COLOR olivedrab]Kanal 7[/COLOR]
+http://www.iptvsaga.com/play/tv3/0043.m3u8
+#EXTINF:0814 tvg-id="8501.KANALTURK HD.dsmart.com.tr" group-title="Turkish" tvg-logo="694816.png", [COLOR olivedrab]KANALT‹RK HD[/COLOR]
+http://kanalturk-live.ercdn.com/kanalturk.m3u8
+#EXTINF:0817 tvg-id="325.TVEM.digiturk.com.tr" group-title="Turkish" tvg-logo="320261.png", [COLOR olivedrab]TVEM[/COLOR]
+http://www.iptvsaga.com/play/tv3/0046.m3u8
+#EXTINF:0818 tvg-id="256.Tv2.digiturk.com.tr" group-title="Turkish" tvg-logo="493245.png", [COLOR olivedrab]TV 2[/COLOR]
+http://www.iptvsaga.com/play/tv3/0047.m3u8
+#EXTINF:0821 tvg-id="8743.e2.dsmart.com.tr" group-title="Turkish" tvg-logo="451202.png", [COLOR olivedrab]e2[/COLOR]
+http://www.iptvsaga.com/play/tv3/0048.m3u8
+#EXTINF:0845 tvg-id="8401.FIL TV.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR olivedrab]Fil TV **broken[/COLOR]
+http://www.iptvsaga.com/play/tv3/0067.m3u8
+#EXTINF:0845 tvg-id="8742.Cnbc-e.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR olivedrab]TLC **broken[/COLOR]
+http://www.iptvsaga.com/play/tv3/0074.m3u8
+#EXTINF:0825 tvg-id="29.CNN T‹RK.digiturk.com.tr" group-title="Turkish" tvg-logo="644533.png", [COLOR olivedrab]CNN Turk[/COLOR]
+http://www.iptvsaga.com/play/tv3/0051.m3u8
+#EXTINF:0845 tvg-id="31.HABERTURK.digiturk.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR olivedrab]HABERT‹RK[/COLOR]
+http://www.iptvsaga.com/play/tv3/0073.m3u8
+#EXTINF:0829 tvg-id="buguntv.tr" group-title="Turkish" tvg-logo="340209.png", [COLOR olivedrab]Bug¸n TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0052.m3u8
+#EXTINF:0845 tvg-id="" group-title="Turkish" tvg-logo="", [COLOR olivedrab]Filmax Family HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0072.m3u8
+#EXTINF:0845 tvg-id="" group-title="Turkish" tvg-logo="", [COLOR olivedrab]Filmax Premier HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0223.m3u8
+#EXTINF:0845 tvg-id="" group-title="Turkish" tvg-logo="", [COLOR olivedrab]Filmax Black HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0226.m3u8
+#EXTINF:0845 tvg-id="9021.BLOOMBERG HT.dsmart.com.tr" group-title="Turkish" tvg-logo="801979.png", [COLOR olivedrab]Bloomberg[/COLOR]
+http://www.iptvsaga.com/play/tv3/0066.m3u8
+#EXTINF:0830 tvg-id="243.TRT «ocuk - TRT4.digiturk.com.tr" group-title="Turkish" tvg-logo="850565.png", [COLOR olivedrab]TRT «OCUK[/COLOR]
+http://www.iptvsaga.com/play/tv3/0053.m3u8
+#EXTINF:0832 tvg-id="291.MinikaGO.digiturk.com.tr" group-title="Turkish" tvg-logo="326824.png", [COLOR olivedrab]MINIKA «ocuk[/COLOR]
+http://www.iptvsaga.com/play/tv3/0054.m3u8
+#EXTINF:0833 tvg-id="8173.MINIKA GO.dsmart.com.tr" group-title="Turkish" tvg-logo="452477.png", [COLOR olivedrab]MINIKA GO[/COLOR]
+http://www.iptvsaga.com/play/tv3/0055.m3u8
+#EXTINF:0836 tvg-id="9566.NTV SPOR HD.dsmart.com.tr" group-title="Turkish" tvg-logo="697989.png", [COLOR olivedrab]NTV SPOR[/COLOR]
+http://www.iptvsaga.com/play/tv3/0057.m3u8
+#EXTINF:0838 tvg-id="313.Sports TV.digiturk.com.tr" group-title="Turkish" tvg-logo="770866.png", [COLOR olivedrab]SPORTS TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0058.m3u8
+#EXTINF:0839 tvg-id="261.TRT M¸zik.digiturk.com.tr" group-title="Music" tvg-logo="241448.png", [COLOR olivedrab]TRT M¸zik HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0059.m3u8
+#EXTINF:0841 tvg-id="113.DREAMTURK.dsmart.com.tr" group-title="Music" tvg-logo="206910.png", [COLOR olivedrab]DreamT¸rk TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0060.m3u8
+#EXTINF:0845 tvg-id="147.Dream TV.digiturk.com.tr" group-title="Music" tvg-logo="801979.png", [COLOR olivedrab]Dream TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0069.m3u8
+#EXTINF:0845 tvg-id="9925.Number One T¸rk.dsmart.com.tr" group-title="Music" tvg-logo="801979.png", [COLOR olivedrab]Number One HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0068.m3u8
+#EXTINF:0845 tvg-id="66.POWERT‹RK TV.digiturk.com.tr" group-title="Music" tvg-logo="801979.png", [COLOR olivedrab]POWERT‹RK HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0070.m3u8
+#EXTINF:0845 tvg-id="434.Power TV.digiturk.com.tr" group-title="Music" tvg-logo="801979.png", [COLOR olivedrab]POWER TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0071.m3u8
