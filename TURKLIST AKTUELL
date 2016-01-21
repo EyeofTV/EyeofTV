@@ -2,12 +2,16 @@
 
 #EXTINF:-1, KANAL D HD
 http://212.224.108.78/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,ATV HD
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1, ATV HD
 http://origin.live.web.tv.streamprovider.net/streams/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
-#EXTINF:-1, ATV HD
-http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1, ATV AVRUPA HD
 http://trkvz-m.ercdn.net/trkvz-temp/atvavrupam.m3u8
+#EXTINF:-1,EURO STAR TV HD
+http://www.iptvsaga.com/play/tv3/0063.m3u8
+#EXTINF:-1,SHOW TV HD
+http://www.iptvsaga.com/play/tv3/0045.m3u8
 #EXTINF:-1, STAR TV HD
 http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 #EXTINF:-1, SHOW TV HD
@@ -174,3 +178,15 @@ rtmp://178.254.20.205:2100/yol/yolstream
 http://origin2.live.web.tv.streamprovider.net/streams/7646c80bc1b8b8b007e7649c1f1a1204/index.m3u8
 #EXTINF:-1, MUZ TV 
 http://85.132.78.6:1935/live/muztv.stream/playlist.m3u8
+#EXTINF:-1,TV 2 HD
+http://www.iptvsaga.com/play/tv3/0047.m3u8
+#EXTINF:-1,FIL TV HD
+http://www.iptvsaga.com/play/tv3/0067.m3u8
+#EXTINF:-1,BLOOMBERG HD
+http://www.iptvsaga.com/play/tv3/0066.m3u8
+#EXTINF:-1,NTV SPOR HD
+http://www.iptvsaga.com/play/tv3/0057.m3u8
+#EXTINF:-1,POWERTURK HD
+http://185.28.3.10/powertv/powerturktvh.stream/chunklist.m3u8
+#EXTINF: -1, Az Tv
+http://188.72.131.226/aztv.m3u8
