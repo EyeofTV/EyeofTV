@@ -1,172 +1,118 @@
 #EXTM3U
 
-#EXTINF:-1,EURO STAR TV HD
-http://www.iptvsaga.com/play/tv3/0063.m3u8
-#EXTINF:-1,TR: STAR TV HD
+#EXTINF:-1, STAR TV HD
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12138.ts
-#EXTINF:-1,ATV HD
+#EXTINF:-1, ATV HD
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:-1,TR: ATV HD TÜRKIYE
+#EXTINF:-1,TR: ATV HD YEDEK
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12185.ts
-#EXTINF:-1,TR: ATV HD AVRUPA
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12186.ts
-#EXTINF:-1, SHOW TURK HD
+#EXTINF:-1, SHOW TÜRK HD
 http://mn-l.mncdn.com/showturktv/showturktv1/HasBahCa.m3u8
-#EXTINF:-1,TR: SHOW TV TÜRKIYE HD
+#EXTINF:-1, SHOW TV TÜRKIYE HD
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12140.ts
-#EXTINF:-1,TR: SHOW TV AVRUPA HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12141.ts
 #EXTINF:-1, KANAL D HD
 http://212.224.108.78/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,TR: KANAL D HD
+#EXTINF:-1, KANAL D HD YEDEK
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12160.ts
-#EXTINF:-1,TR: TRT SPOR HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12103.ts
-#EXTINF:-1,TR: TV EM
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12122.ts
-#EXTINF:-1,TR: TV 8 HD
+#EXTINF:-1, FOX HD
+http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+#EXTINF:-1, TV 8 HD
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12123.ts
-#EXTINF:-1,TR: TV 4
+#EXTINF:-1, SAMANYOLU HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12143.ts
+#EXTINF:-1, TV 4
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12124.ts
-#EXTINF:-1,TR: TV 2 HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12125.ts
-#EXTINF:-1,TR: MINIKA GO
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12157.ts
-#EXTINF:-1,TR: MINIKA COCUK
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12158.ts
-#EXTINF:-1,TR: KANALTURK HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12159.ts
 #EXTINF:-1, KANALTÜRK HD
 http://kanalturk-live.ercdn.com/kanalturk.m3u8
-#EXTINF:-1,TR: KANAL A HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12161.ts
 #EXTINF:-1, KANAL 7 HD
 http://livetr.gostream.nl/kanal7hq/kanal7hq/HasBahCa.m3u8
-#EXTINF:-1,TR: KANAL 7 HD
+#EXTINF:-1,TR: KANAL 7 HD YEDEK
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12162.ts
 #EXTINF:-1,TR: KANAL 7 AVRUPA
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12163.ts
-#EXTINF:-1,TR: IMC
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12164.ts
-#EXTINF:-1,TR: IDMAN TV
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12165.ts
-#EXTINF:-1,TR: HALK TV
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12167.ts
-#EXTINF:-1,TR: HABERTÜRK HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12168.ts
-#EXTINF:-1, FOX HD
-http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
-#EXTINF:-1,TR: FOX TV HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12169.ts
-#EXTINF:-1, FLASH TV HD
-http://origin.live.web.tv.streamprovider.net/streams/e576f7fb1645893450446d3722613c5d_live_0_0/index.m3u8
-#EXTINF:-1,TR: FLASH TV
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12171.ts
-#EXTINF:-1,TR: FIL TV
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12172.ts
-#EXTINF:-1,TR: EKIN TÜRK
+#EXTINF:-1, TRT HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12195.ts
+#EXTINF:-1, TRT 1 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12196.ts
+#EXTINF:-1, TRT HABER HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12130.ts
+#EXTINF:-1, TRT DIYANET
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12131.ts
+#EXTINF:-1, TRT COCUK
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12132.ts
+#EXTINF:-1, TRT BELGESEL HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12133.ts
+#EXTINF:-1, TRT AVAZ
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12134.ts
+#EXTINF:-1, TRT OKUL
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12128.ts
+#EXTINF:-1, TRT SPOR HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12103.ts
+#EXTINF:-1, TRT 6 HD
+http://sol.trtcdn.com/tv/trt6/smil:trt6.smil/playlist.m3u8
+#EXTINF:-1, TRT MUZIK
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12129.ts
+#EXTINF:-1, EKIN TÜRK
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12173.ts
-#EXTINF:-1,TR: DREAM TV
+#EXTINF:-1, DREAM TV
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12174.ts
-#EXTINF:-1,TR: DREAM TÜRK TV
+#EXTINF:-1, DREAM TÜRK TV
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12175.ts
-#EXTINF:-1,TR: DREAM SALON 2
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12116.ts
-#EXTINF:-1,TR: Disney Channel
+#EXTINF:-1, Disney Channel
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12176.ts
-#EXTINF:-1, SINEMA TV HD
-http://origin.live.web.tv.streamprovider.net/streams/0fbf2b4871485d41c22604eef2a26646_live_0_0/index.m3u8
-#EXTINF:-1, TLC TÜRKIYE HD
-http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
 #EXTINF:-1, FIL TV HD 
 http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/playlist.m3u8
-#EXTINF:-1,TR: CNN TURK
+#EXTINF:-1, CNN TURK
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12177.ts
-#EXTINF:-1,TR: Cem Tv
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12178.ts
-#EXTINF:-1,TR: CAN ERZINCAN
+#EXTINF:-1, CAN ERZINCAN
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12179.ts
-#EXTINF:-1,TR: BURSASPOR TV
+#EXTINF:-1, BURSASPOR TV
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12110.ts
-#EXTINF:-1,TR: BUGÜN TV HD
+#EXTINF:-1, BUGÜN TV HD
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12180.ts
-#EXTINF:-1,TR: BRT 1
+#EXTINF:-1, BRT 1
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12181.ts
-#EXTINF:-1,TR: BLOMBERG TV
+#EXTINF:-1, BLOMBERG TV
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12182.ts
-#EXTINF:-1,TR: BELGESEL 1
+#EXTINF:-1, BELGESEL 1
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12183.ts
-#EXTINF:-1,TR: ÜLKE TV
+#EXTINF:-1, ÜLKE TV
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12184.ts
-#EXTINF:-1,TR: A SPOR
+#EXTINF:-1, A SPOR
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12109.ts
-#EXTINF:-1,TR: TV 10
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12126.ts
-#EXTINF:-1,TR: TRT TÜRK
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12127.ts
-#EXTINF:-1,TR: TRT OKUL
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12128.ts
-#EXTINF:-1,TR: TRT MUZIK
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12129.ts
-#EXTINF:-1,TR: TRT HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12195.ts
-#EXTINF:-1,TR: TRT HABER HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12130.ts
-#EXTINF:-1,TR: TRT DIYANET
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12131.ts
-#EXTINF:-1,TR: ViZYON TV 2 HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12121.ts
-#EXTINF:-1,TR: TRT COCUK
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12132.ts
-#EXTINF:-1,TR: TRT BELGESEL HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12133.ts
-#EXTINF:-1,TR: TRT AVAZ
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12134.ts
-#EXTINF:-1,TR: TRT 1 HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12196.ts
-#EXTINF:-1,TR: YUMURCAK TV
+#EXTINF:-1, YUMURCAK TV
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12117.ts
-#EXTINF:-1,TR: Yol Tv
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12118.ts
-#EXTINF:-1,TR: YESILCAM TV
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12119.ts
-#EXTINF:-1,TR: TGRT HABER
+#EXTINF:-1, TGRT HABER
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12135.ts
-#EXTINF:-1,TR: TGRT EU
+#EXTINF:-1, TGRT EU
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12136.ts
-#EXTINF:-1,TR: TGRT Belgesel
+#EXTINF:-1, TGRT Belgesel
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12137.ts
-#EXTINF:-1,TR: SPORTS TV
+#EXTINF:-1, SPORTS TV
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12190.ts
-#EXTINF:-1,TR: SMART SPOR 2
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12107.ts
-#EXTINF:-1,TR: Smart Spor 1
+#EXTINF:-1, SMART SPOR 1
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12106.ts
-#EXTINF:-1,TR: SEMERKANT TV
+#EXTINF:-1, SMART SPOR 2
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12107.ts
+#EXTINF:-1, SEMERKANT TV
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12142.ts
-#EXTINF:-1,TR: SAMANYOLU HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12143.ts
-#EXTINF:-1,TR: POWERTURK HD
+#EXTINF:-1, POWERTURK HD
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12144.ts
-#EXTINF:-1,TR: PLANET TÜRK
+#EXTINF:-1, PLANET TÜRK
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12145.ts
-#EXTINF:-1,TR: PLANET COCUK
+#EXTINF:-1, PLANET COCUK
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12146.ts
-#EXTINF:-1,TR: ON 4
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12147.ts
-#EXTINF:-1,TR: NUMBER ONE TÜRK
+#EXTINF:-1, NUMBER ONE TÜRK
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12148.ts
-#EXTINF:-1,TR: NUMBER ONE HD
+#EXTINF:-1, NUMBER ONE HD
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12149.ts
-#EXTINF:-1,TR: NTV TÜRKIYE
+#EXTINF:-1, NTV TÜRKIYE
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12150.ts
-#EXTINF:-1,TR: NTV SPOR
+#EXTINF:-1, NTV SPOR
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12108.ts
-#EXTINF:-1,TR: A HABER HD
+#EXTINF:-1, A HABER HD
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12187.ts
-#EXTINF:-1,TR: 7/24 SPOR TV
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12188.ts
-#EXTINF:-1,TR. KABE TV
+#EXTINF:-1, KABE TV
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12189.ts
 #EXTINF:-1, KRAL TV HD
 http://149.255.152.69/hls-live/livepkgr/kral/kral/kral.m3u8
@@ -174,132 +120,24 @@ http://149.255.152.69/hls-live/livepkgr/kral/kral/kral.m3u8
 http://cdn2.powergroup.com.tr/powertv/powerturktv.smil/playlist.m3u8
 #EXTINF:-1, DREAM TÜRK HD
 http://212.224.108.76/S1/HLS_LIVE/dreamturktv/index.m3u8
-#EXTINF:-1, POWER TV HD
-http://origin.live.web.tv.streamprovider.net/streams/2437cef0ef9439f113ac1299e5974ab2_live_0_0/index.m3u8
-#EXTINF:-1, BEST TV HD
-http://origin.live.web.tv.streamprovider.net/streams/86ebe1c298d11029a92cadd9ab24f337_live_0_0/index.m3u8
-#EXTINF:-1, CIVAN TV HD
-http://origin.live.web.tv.streamprovider.net/streams/67e549d113af70425ad2b3283d2ddb2b_live_0_0/index.m3u8
-#EXTINF:-1, NR1 TV HD
-rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp
-#EXTINF:-1, ZEYNO TV HD
-http://origin2.live.web.tv.streamprovider.net/streams/f9804150295e0d67755899b3e55134e1/index.m3u8
-#EXTINF:-1, ANADOLU TV HD
-http://origin.live.web.tv.streamprovider.net/streams/1336b1bfa0acb81ede8b16b07167cefa_live_0_0/index.m3u8
-#EXTINF:-1, NET CINEMA TV HD
-http://origin.live.web.tv.streamprovider.net/streams/0b9695a3ad63aa2c72d9d265694cfd23_live_0_0/index.m3u8
 #EXTINF:-1, DREAM TV HD 
 http://212.224.108.76/S1/HLS_LIVE/dreamtv/index.m3u8
-#EXTINF:-1, GENC TV HD
-http://origin.live.web.tv.streamprovider.net/streams/45b3a774008e07aa0958f4c63addf718_live_0_0/index.m3u8
-#EXTINF:-1, CNBC-E TV HD 
-http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
-#EXTINF:-1, TRT HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
-#EXTINF:-1, TRT 1 HD
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1, TRT HABER HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1, TRT TÜRK HD
-http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/playlist.m3u8
-#EXTINF:-1, AKAMAI HD
-http://meclistv-lh.akamaihd.net/i/event_1@190503/master.m3u8
-#EXTINF:-1, TRT COCUK HD 
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
-#EXTINF:-1, TRT AVAZ HD
-http://sol.trtcdn.com/tv/trtavaz/smil:trtavaz.smil/playlist.m3u8
-#EXTINF:-1, TRT SPOR HD
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1, TRT BELGESEL HD
-http://sol.trtcdn.com/tv/trtbelgesel/smil:trtbelgesel.smil/playlist.m3u8
-#EXTINF:-1, TRT OKUL HD
-http://sol.trtcdn.com/tv/trtokul/smil:trtokul.smil/playlist.m3u8
-#EXTINF:-1, TRT MUZIK HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1, TRT 6 HD
-http://sol.trtcdn.com/tv/trt6/smil:trt6.smil/playlist.m3u8
-#EXTINF:-1, CIVAN TV HD
-http://origin.live.web.tv.streamprovider.net/streams/67e549d113af70425ad2b3283d2ddb2b_live_0_0/index.m3u8
-#EXTINF:-1, TV 2 HD 
-http://212.224.109.107/S1/HLS_LIVE/tv2/256/prog_index.m3u8
 #EXTINF:-1, BRT1 TV HD 
 rtmp://wms.brtk.net:1935/live/brt1
-#EXTINF:-1, VAN TV 
-http://origin.live.web.tv.streamprovider.net/streams/d9d7ee96913217bbc757f40d4de65c29_live_0_0/index.m3u8
 #EXTINF:-1, IST TV
 http://wowza.istweb.tv:1935/webtv/_definst_/arizatv/webtv_wowza1/playlist.m3u8
-#EXTINF:-1, ÜLKE TV
-rtmp://stream.gostream.nl:443/ulketvhq/ulketvhq
-#EXTINF:-1, G TV
-rtmp://stream.taksimbilisim.com/tarsusguneytv/bant1
 #EXTINF:-1, SRT
 http://stream.taksimbilisim.com:1935/srt/smil:srt.smil/playlist.m3u8
-#EXTINF:-1, BEYAZ TV 
-rtmp://beyaztv.mediatriple.net:1935/beyazliveedge/beyaztv1
 #EXTINF:-1, BENGÜ TÜRK TV HD
 rtmp://yayin8.canliyayin.org:1935/benguturk/benguturk
 #EXTINF:-1, TV4 
 http://strm-i.glb.pr.medianova.tv/karamel/karamel/playlist.m3u8
-#EXTINF:-1, A HABER 
-http://rtmp.turkuvazgroup.net/ahaber/ahaber3/playlist.m3u8
-#EXTINF:-1, A SPOR
-http://hls.turkuvazgroup.net:1935/aspor/aspor3/playlist.m3u8
-#EXTINF:-1, CNN TÜRK
-http://212.224.109.103/S1/HLS_LIVE/cnn_turk/index.m3u8
-#EXTINF:-1, TGRT HABER
-http://tgrthaber.mediatriple.net:1935/tgrtliveedge/smil:tgrt.smil/Playlist.m3u8
-#EXTINF:-1, NTV 
-http://origin2.live.web.tv.streamprovider.net/streams/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8
 #EXTINF:-1, HABERTÜRK
 http://strm-i.glb.pr.medianova.tv:1935/haberturk/smil:ihaberturk.smil/playlist.m3u8
-SKY TÜRK 360
-http://origin.live.web.tv.streamprovider.net/streams/7b1c4724e7c32f1554013ca5977fd903_live_0_0/index.m3u8
-#EXTINF:-1, SKY TV 
-http://origin.live.web.tv.streamprovider.net/streams/79b8bd30bf1cb3e5f3a6f15f0814cc89_live_0_0/index.m3u8
-#EXTINF:-1, IMC
-http://origin.live.web.tv.streamprovider.net/streams/205a2db5a33b65589f22dd1c159bdb44_live_0_0/index.m3u8
-#EXTINF:-1, AS TV 
-http://origin2.live.web.tv.streamprovider.net/streams/0f951aa93e88e2fff2d6f4981ec5941f/index.m3u8
-#EXTINF:-1, PLANET TÜRK 
-rtmp://77.223.146.117:1935/live/planett
-#EXTINF:-1, PLANET PEMBE
-rtmp://77.223.146.117:1935/live/planetp
-#EXTINF:-1, MINICA GO
-http://rtmp.turkuvazgroup.net/minika/minika3/playlist.m3u8
-#EXTINF:-1, MINICA COCUK
-http://rtmp.turkuvazgroup.net/minikacocuk/minikacocuk3/playlist.m3u8
-#EXTINF:-1, PLANET COCUK
-rtmp://77.223.146.117:1935/live/planetc
-#EXTINF:-1, CARTOON NETWORK
-http://origin.live.web.tv.streamprovider.net/streams/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8
-#EXTINF:-1, DISNEY CHANNEL
-http://live.netd.com.tr//S2/HLS_LIVE/disney/track_4_1000/playlist.m3u8?
-#EXTINF:-1, NTV SPOR
-http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-#EXTINF:-1, SPORTS TV
-http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
-#EXTINF:-1, SÜPER SPOR
-http://92.222.205.40:8080/superlig
-#EXTINF:-1, A) TV
-http://origin.live.web.tv.streamprovider.net/streams/78bd37307331e90c6056a0fa2a30c767_live_0_0/index.m3u8
-#EXTINF:-1, KANAL 5
-http://origin.live.web.tv.streamprovider.net/streams/5747926c24dc4e872c1f341e11c66ab6_live_0_0/index.m3u8
-#EXTINF:-1, TV 52
-http://origin.live.web.tv.streamprovider.net/streams/1451e305f588c1f950a784bf90f1d8a3_live_0_0/index.m3u8
-#EXTINF:-1, TV 2000
-http://origin.live.web.tv.streamprovider.net/streams/1a4d50ea1292157a0d9d2e5ca25d2f7f_live_0_0/index.m3u8
-#EXTINF:-1, ANADOLU TV
-http://origin.live.web.tv.streamprovider.net/streams/1336b1bfa0acb81ede8b16b07167cefa_live_0_0/index.m3u8
-#EXTINF:-1, TV 24
-http://origin.live.web.tv.streamprovider.net/streams/316f8a9dee51cf7e92610d30373f964c/index.m3u8
 #EXTINF:-1, TV EM
 http://mn-l.mncdn.com/tvem_live/tvem3/playlist.m3u8
-#EXTINF:-1, KANAL AVRUPA
-rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_/stream1/
 #EXTINF:-1, YOL TV
 rtmp://178.254.20.205:2100/yol/yolstream
-#EXTINF:-1, AZ TV
-http://origin2.live.web.tv.streamprovider.net/streams/7646c80bc1b8b8b007e7649c1f1a1204/index.m3u8
 #EXTINF:-1, MUZ TV 
 http://85.132.78.6:1935/live/muztv.stream/playlist.m3u8
 #EXTINF:-1,TV 2 HD
@@ -310,63 +148,43 @@ http://www.iptvsaga.com/play/tv3/0067.m3u8
 http://www.iptvsaga.com/play/tv3/0066.m3u8
 #EXTINF:-1,NTV SPOR HD
 http://www.iptvsaga.com/play/tv3/0057.m3u8
-#EXTINF:-1,POWERTURK HD
-http://185.28.3.10/powertv/powerturktvh.stream/chunklist.m3u8
-#EXTINF: -1, Az Tv
-http://188.72.131.226/aztv.m3u8
-#EXTINF:-1,TR: SALON 1
+#EXTINF:-1, DSMART SALON 1
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12111.ts
-#EXTINF:-1,TR: SALON 2
+#EXTINF:-1, DSMART SALON 2
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12112.ts
-#EXTINF:-1,TR: SALON 3
+#EXTINF:-1, DSMART SALON 3
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12191.ts
-#EXTINF:-1,TR: LOCA 1
+#EXTINF:-1, DSMART LOCA 1
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12192.ts
-#EXTINF:-1,TR: LOCA 3
+#EXTINF:-1, DSMART LOCA 3
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12194.ts
-#EXTINF:-1,TR: LOCA 2
+#EXTINF:-1, DSMART LOCA 2
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12193.ts
-#EXTINF:-1,TR: SINEMA TV 1
+#EXTINF:-1, DSMART SINEMA TV 1
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12114.ts
-#EXTINF:-1,TR: SINEMA TV 2
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12115.ts
-#EXTINF:-1,TR: SINEMA AKSIYON TV
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12139.ts
-#EXTINF:-1,TR: SINEMA  VIP 1
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12113.ts
-#EXTINF:-1,TR: MOVIEMAX TÜRK HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12151.ts
-#EXTINF:-1,TR: MOVIE SMART PREMIUM HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12152.ts
-#EXTINF:-1,TR: MOVIE SMART PREMIUM
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12153.ts
-#EXTINF:-1,TR: MOVIE SMART HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12154.ts
-#EXTINF:-1,TR: MOVIE SMART CLASSIC
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12155.ts
-#EXTINF:-1,TR: MOVIE MAX PREMIUM
+#EXTINF:-1, MOVIE MAX PREMIUM
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12156.ts
-#EXTINF:-1,TR: VIP LIGTV 1 HD
+#EXTINF:-1, VIP LIGTV 1 HD
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12094.ts
-#EXTINF:-1,TR: LIGTV 2 VIP
+#EXTINF:-1, LIGTV 2 VIP
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12100.ts
-#EXTINF:-1,TR: LIGTV 1 VIP
+#EXTINF:-1, LIGTV 1 VIP
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12099.ts
-#EXTINF:-1,TR: LIGTV 1 HD
+#EXTINF:-1, LIGTV 1 HD
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12096.ts
-#EXTINF:-1,TR: LIG TV HD YEDEK
+#EXTINF:-1, LIG TV HD YEDEK
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12102.ts
-#EXTINF:-1,TR: LIG 1 HD
+#EXTINF:-1, LIG 1 HD
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12095.ts
-#EXTINF:-1,TR: LIGTV 2 HD
+#EXTINF:-1, LIGTV 2 HD
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12097.ts
-#EXTINF:-1,TR: LIGTV 3 VIP
+#EXTINF:-1, LIGTV 3 VIP
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12101.ts
-#EXTINF:-1,TR: LIGTV 3 HD
+#EXTINF:-1, LIGTV 3 HD
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12098.ts
-#EXTINF:-1,TR: TIVIBUSPOR 1
+#EXTINF:-1, TIVIBUSPOR 1
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12104.ts
-#EXTINF:-1,TR: TIVIBUSPOR 2
+#EXTINF:-1, TIVIBUSPOR 2
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12105.ts
 #EXTINF:-1,DE: ARD HD
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/5013.ts
