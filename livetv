@@ -20,7 +20,7 @@ http://www.iptvsaga.com/play/tv3/0052.m3u8
 http://www.iptvsaga.com/play/tv3/0046.m3u8
 #EXTINF:-1,TRT HD
 http://www.iptvsaga.com/play/tv3/0036.m3u8
-‪#‎EXTINF‬:-1,TRT 1 HD
+#EXTINF‬:-1,TRT 1 HD
 http://www.iptvsaga.com/play/tv3/0030.m3u8
 #EXTINF:-1,TRT KURDİ HD
 http://www.iptvsaga.com/play/tv3/0033.m3u8
