@@ -1,32 +1,30 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]ATV HD[/COLOR]
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12185.ts
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR red]SHOW TV HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0045.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]KANAL D HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0038.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR red]FOX HD[/COLOR]
+http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]SAMANYOLU HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0039.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR red]FLASH TV HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0042.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]KANAL 7 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0043.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR red]BUGÜN TV HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0052.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TV EM HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0046.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR red]TRT HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0036.m3u8
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TRT 1 HD[/COLOR]
 http://62.65.140.154:80/session/f65529d0-c39b-11e5-80d9-005056bc06d1/nvnv5a/2/5030/index.m3u8?token=6857f7eaa9411cd9f7ee704eead94a46_1453837432_1453837432&p=127|X-Forwarded-For=85.1.14.80
-#EXTINF:-1,TR: ATV HD
-http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12185.ts
-#EXTINF:-1,SHOW TV HD
-http://www.iptvsaga.com/play/tv3/0045.m3u8
-#EXTINF:-1,KANAL D HD
-http://www.iptvsaga.com/play/tv3/0038.m3u8
-#EXTINF:-1,FOX HD
-http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
-#EXTINF:-1,SAMANYOLU TV HD
-http://www.iptvsaga.com/play/tv3/0039.m3u8
-#EXTINF:-1,FLASH TV HD
-http://www.iptvsaga.com/play/tv3/0042.m3u8
-#EXTINF:-1,Kanal 7 HD
-http://www.iptvsaga.com/play/tv3/0043.m3u8
-#EXTINF:-1,BUGÜN TV HD
-http://www.iptvsaga.com/play/tv3/0052.m3u8
-#EXTINF:-1,TV EM HD
-http://www.iptvsaga.com/play/tv3/0046.m3u8
-#EXTINF:-1,TRT HD
-http://www.iptvsaga.com/play/tv3/0036.m3u8
-#EXTINF‬:-1,TRT 1 HD
-http://www.iptvsaga.com/play/tv3/0030.m3u8
-#EXTINF:-1,TRT KURDİ HD
+#EXTINF:-1 tvg-logo="trt.png",[COLOR red]TRT KURDI HD[/COLOR]
 http://www.iptvsaga.com/play/tv3/0033.m3u8
-#EXTINF:-1,TRT BELGESEL HD
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TRT BELGESEL HD[/COLOR]
 http://www.iptvsaga.com/play/tv3/0061.m3u8
 #EXTINF:-1,KANALTÜRK HD
 http://kanalturk-live.ercdn.com/kanalturk.m3u8
