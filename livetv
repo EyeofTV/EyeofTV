@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]ATV HD[/COLOR]
-http://ift.tt/1OZGRrO
+http://188.72.131.226/atv.m3u8
 #EXTINF:-1 tvg-logo="showtv.png",[COLOR red]SHOW TV HD[/COLOR]
 http://www.iptvsaga.com/play/tv3/0045.m3u8
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]KANAL D HD[/COLOR]
