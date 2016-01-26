@@ -4,8 +4,6 @@
 http://eyeoftv.m3u8
 #EXTINF:-1, - - TÜRK KANALLAR - -
 http://eyeoftv.m3u8
-#EXTINF:-1 tvg-logo="showtv.png",[COLOR orange]LIGTV 1 HD[/COLOR]
-http://smart.ipne.be:80/live/asbava/Gi7G6Xwjc3/726.ts
 #EXTINF:-1 tvg-logo="showtv.png",[COLOR red]EURO STAR HD[/COLOR]
 http://188.72.131.226/star.m3u8
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]ATV HD (suan cekmiyor)[/COLOR]
