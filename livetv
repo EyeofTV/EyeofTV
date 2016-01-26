@@ -1,15 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR blue]EYE OF TV[/COLOR],[COLOR red]UPDATE 26.01.2016[/COLOR]
+#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR blue]EYE OF TV[/COLOR][COLOR red]UPDATE 26.01.2016[/COLOR]
 http://eyeoftv.m3u8
-#EXTINF:-1, ATV HD
-http://ift.tt/1OZGRrO
-#EXTINF:-1,ATVAVRUPA
-http://ift.tt/1IEGgvh
-#EXTINF:-1,BEYAZTV
-http://ift.tt/1OTkMu3
-#EXTINF:-1,TV8
-http://ift.tt/1NugyIr
 #EXTINF:-1 tvg-logo="showtv.png",[COLOR red]LIGTV 1 HD[/COLOR]
 http://smart.ipne.be:80/live/asbava/Gi7G6Xwjc3/726.ts
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]ATV HD (suan cekmiyor)[/COLOR]
