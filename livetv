@@ -1,0 +1,120 @@
+#EXTM3U
+
+#EXTINF:-1,TR: ATV HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12185.ts
+#EXTINF:-1,SHOW TV HD
+http://www.iptvsaga.com/play/tv3/0045.m3u8
+#EXTINF:-1,KANAL D HD
+http://www.iptvsaga.com/play/tv3/0038.m3u8
+#EXTINF:-1,FOX HD
+http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+#EXTINF:-1,SAMANYOLU TV HD
+http://www.iptvsaga.com/play/tv3/0039.m3u8
+#EXTINF:-1,FLASH TV HD
+http://www.iptvsaga.com/play/tv3/0042.m3u8
+#EXTINF:-1,Kanal 7 HD
+http://www.iptvsaga.com/play/tv3/0043.m3u8
+#EXTINF:-1,BUGÜN TV HD
+http://www.iptvsaga.com/play/tv3/0052.m3u8
+#EXTINF:-1,TV EM HD
+http://www.iptvsaga.com/play/tv3/0046.m3u8
+#EXTINF:-1,TRT HD
+http://www.iptvsaga.com/play/tv3/0036.m3u8
+‪#‎EXTINF‬:-1,TRT 1 HD
+http://www.iptvsaga.com/play/tv3/0030.m3u8
+#EXTINF:-1,TRT KURDİ HD
+http://www.iptvsaga.com/play/tv3/0033.m3u8
+#EXTINF:-1,TRT BELGESEL HD
+http://www.iptvsaga.com/play/tv3/0061.m3u8
+#EXTINF:-1,KANALTÜRK HD
+http://kanalturk-live.ercdn.com/kanalturk.m3u8
+#EXTINF:-1,CNN TURK HD
+http://www.iptvsaga.com/play/tv3/0051.m3u8
+#EXTINF:-1,HABERTÜRK HD
+http://www.iptvsaga.com/play/tv3/0073.m3u8
+#EXTINF:-1,TV 2 HD
+http://www.iptvsaga.com/play/tv3/0047.m3u8
+#EXTINF:-1,FIL TV HD
+http://www.iptvsaga.com/play/tv3/0067.m3u8
+#EXTINF:-1,BLOOMBERG HD
+http://www.iptvsaga.com/play/tv3/0066.m3u8
+#EXTINF:-1,NTV SPOR HD
+http://www.iptvsaga.com/play/tv3/0057.m3u8
+#EXTINF:-1,POWERTURK HD
+http://185.28.3.10/powertv/powerturktvh.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="Trt1.tr" group-title="Turkish" tvg-logo="trt.png",[COLOR orange]TRT1[/COLOR]
+http://62.65.140.154:80/session/f65529d0-c39b-11e5-80d9-005056bc06d1/nvnv5a/2/5030/index.m3u8?token=6857f7eaa9411cd9f7ee704eead94a46_1453837432_1453837432&p=127|X-Forwarded-For=85.1.14.80
+#EXTINF:-1 tvg-id="Trt1.tr" group-title="Turkish" tvg-logo="trt.png",[COLOR orangered]TRT1 HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 tvg-id="Trt.tr" group-title="Turkish" tvg-logo="0804.png",[COLOR orangered]TRT HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
+#EXTINF:-1 tvg-id="Trtkurdi.tr" group-title="Turkish" tvg-logo="0804.png",[COLOR orange]TRT KURDI[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:-1 tvg-id="Trthaber.tr" group-title="Turkish" tvg-logo="0803.png",[COLOR orangered]TRT HABER HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1 tvg-id="Trtspor.tr" group-title="Turkish" tvg-logo="0804.png",[COLOR orange]TRT SPOR HD[/COLOR]
+http://#
+#EXTINF:-1 tvg-id="Trtuuzic.tr" group-title="Turkish" tvg-logo="0809.png",[COLOR orange]TRT MÜZIK[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1 tvg-id="Trtbelgesel.tr" group-title="Turkish" tvg-logo="0804.png",[COLOR orangered]TRT BELGESEL HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
+#EXTINF:-1 tvg-id="Kanalturk.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orangered]KANAL TÜRK[/COLOR]
+http://kanalturk-live.ercdn.com/kanalturk.m3u8
+#EXTINF:-1 tvg-id="Trtavaz.tr" group-title="Turkish" tvg-logo="0810.png",[COLOR orange]TRT Avaz[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1 tvg-id="Trtcocu.tr" group-title="Turkish" tvg-logo="0804.png",[COLOR orange]TRT Çocuk[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1 tvg-id="Trtturk.tr" group-title="Turkish" tvg-logo="0813.png",[COLOR orangered]TRT TÜRK HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1 tvg-id="Trtarapca.tr" group-title="Turkish" tvg-logo="0804.png",[COLOR orange]TRT ARAPÇA[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_500_av-b.m3u8?sd=10&rebase=on&hdntl=
+#EXTINF:-1 tvg-id="Trtokul.tr" group-title="Turkish" tvg-logo="0804.png",[COLOR orange]TRT OKUL[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="CNNTurk.tr" group-title="Turkish" tvg-logo="0816.png",[COLOR orange]CNN Türk[/COLOR]
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="Bugun.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orangered]Bugün TV HD[/COLOR]
+http://buguntv-live.ercdn.com/buguntv.m3u8
+#EXTINF:-1 tvg-id="Fox.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orangered]FOX HD[/COLOR]
+rtsp://foxtv-i.mncdn.com/r_foxtv/foxtv3?token=3cadcf5a3f590b1a3dc75f95641f46e5a73e71edf2b72344
+#EXTINF:-1 tvg-id="Show.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]SHOW TV[/COLOR]
+http://mn-l.mncdn.com/showtv/showtv2/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]KANAL 7[/COLOR]
+http://livetr.gostream.nl/kanal7hq/kanal7hq/chunklist_w2029317818.m3u8
+#EXTINF:-1 tvg-id="TV2.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]TV 2[/COLOR]
+http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+#EXTINF:-1 tvg-id="FILTV.dsmart.com.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]Fil TV[/COLOR]
+http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="Haberturk.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]HABER TÜRK[/COLOR]
+http://mn-l.mncdn.com/haberturk/haberturk2/index.m3u8
+#EXTINF:-1 tvg-id="Minikago.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]MINIKA GO[/COLOR]
+http://trkvz-m.ercdn.net/trkvz-temp/minikagom.m3u8
+#EXTINF:-1 tvg-id="Minikacocuk.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]MINIKA Çocuk[/COLOR]
+http://trkvz-m.ercdn.net/trkvz-temp/minikagococukm.m3u8
+#EXTINF:-1 tvg-id="Wtc.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]World Travel Channel[/COLOR]
+http://hdtvizle.ru/14452/71930/71968/wtc.m3u8
+#EXTINF:-1 tvg-id="Atv.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]ATV[/COLOR]
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1 tvg-id="Kanald.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]Kanal D[/COLOR]
+http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="Tvem.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]TVEM[/COLOR]
+http://mn-l.mncdn.com/tvem_live/tvem3/playlist.m3u8
+#EXTINF:-1 tvg-id="Diyanet.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orangered]DIYANET HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/index_1200_av-p.m3u8?sd=10&rebase=on&hdntl=
+#EXTINF:-1 tvg-id="Dreamtv.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]Dream TV[/COLOR]
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="Dreamturk.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]Dreamtürk TV[/COLOR]
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="Powerturk.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orangered]POWERTÜRK HD[/COLOR]
+http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/chunklist_w1006179642_b1328000.m3u8
+#EXTINF:-1 tvg-id="Nr1.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]Number One[/COLOR]
+http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Tbmm.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]TBMM[/COLOR]
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Brt1.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]BRT 1[/COLOR]
+http://wms.brtk.net/live/brt1/playlist.m3u8
+#EXTINF:-1 tvg-id="BrtHD.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]BRT HD[/COLOR]
+http://wms.brtk.net/live/BRTHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]Bloomberg[/COLOR]
+http://mn-l.mncdn.com/bloomberght/bloomberght2/index.m3u8
+#EXTINF:-1 tvg-id="Sportstv.tr" group-title="Turkish" tvg-logo="tv.png",[COLOR orange]Sports TV[/COLOR]
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
