@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TRT 1 HD[/COLOR]
+http://62.65.140.154:80/session/f65529d0-c39b-11e5-80d9-005056bc06d1/nvnv5a/2/5030/index.m3u8?token=6857f7eaa9411cd9f7ee704eead94a46_1453837432_1453837432&p=127|X-Forwarded-For=85.1.14.80
 #EXTINF:-1,TR: ATV HD
 http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12185.ts
 #EXTINF:-1,SHOW TV HD
