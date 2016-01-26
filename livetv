@@ -218,33 +218,6 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
 #EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SPORT TIME TV 3 HD[/COLOR]
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
-#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR green]SKY DEUTSCHLAND & BUNDESLIGA[/COLOR]
+#EXTINF:-1 tvg-logo="eyeoftv.png", SKY KANALLAR YAKINDA BURDA
 http://eyeoftv.m3u8
-#EXTINF:-1,DE: Sky Select HD 1
-http://luckyiptv.ddns.net:23000/live/Eugenio/Eugenio/3517.ts
-#EXTINF:-1,DE: Sky Select HD 2
-http://luckyiptv.ddns.net:23000/live/Eugenio/Eugenio/3095.ts
-#EXTINF:-1,DE: Sky Select HD 3
-http://luckyiptv.ddns.net:23000/live/Eugenio/Eugenio/3096.ts
-#EXTINF:-1,DE: Sky Select HD 4
-http://luckyiptv.ddns.net:23000/live/Eugenio/Eugenio/3097.ts
-#EXTINF:-1,DE: Sky Select HD 5
-http://luckyiptv.ddns.net:23000/live/Eugenio/Eugenio/3098.ts
-#EXTINF:-1,DE: Sky Select HD 6
-http://luckyiptv.ddns.net:23000/live/Eugenio/Eugenio/3099.ts
-#EXTINF:-1,DE: Sky Select HD 7
-http://luckyiptv.ddns.net:23000/live/Eugenio/Eugenio/3100.ts
-#EXTINF:-1,DE: Sky Select HD 8
-http://luckyiptv.ddns.net:23000/live/Eugenio/Eugenio/3519.ts
-#EXTINF:-1,DE:Sky Sport 1
-http://luckyiptv.ddns.net:23000/live/Eugenio/Eugenio/11072.ts
-#EXTINF:-1,DE: EUROSPORT
-http://luckyiptv.ddns.net:23000/live/Eugenio/Eugenio/3500.ts
-#EXTINF:-1,DE: Sky Germany Bundesliga 1 HD
-http://luckyiptv.ddns.net:23000/live/Eugenio/Eugenio/3088.ts
-#EXTINF:-1,Sky Bundesliga HD 1
-http://luckyiptv.ddns.net:23000/live/Eugenio/Eugenio/8770.ts
-#EXTINF:-1,Sky Bundesliga HD 2
-http://luckyiptv.ddns.net:23000/live/Eugenio/Eugenio/8768.ts
-#EXTINF:-1,Sky Bundesliga HD 3
-http://luckyiptv.ddns.net:23000/live/Eugenio/Eugenio/8767.ts
+
