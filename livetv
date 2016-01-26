@@ -194,23 +194,23 @@ http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3128_av-p.m3u8
 http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
 #EXTINF:-1 tvg-logo="0068.png",[COLOR orangered]DEUTSCHE WELLE HD[/COLOR]
 http://dwschiene6-i.akamaihd.net/hls/live/221763/dwschiene6/x6x/playlist6x.m3u8
-#EXTINF:-1 tvg-logo="0032.png",[COLOR orangered]N24 HD[/COLOR]
+#EXTINF:-1 tvg-logo="0032.png",[COLOR blue]N24 HD[/COLOR]
 http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
-#EXTINF:-1 tvg-logo="0063.png",[COLOR blue]TAGESSCHAU24 HD[/COLOR]
+#EXTINF:-1 tvg-logo="0063.png",[COLOR orangered]TAGESSCHAU24 HD[/COLOR]
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1 tvg-logo="0100.png",[COLOR orangered]BLIZZ TV HD[/COLOR]
+#EXTINF:-1 tvg-logo="0100.png",[COLOR blue]BLIZZ TV HD[/COLOR]
 http://91.250.73.118:1935/live/_definst_/DasneueTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]ELBE KANAL HD[/COLOR]
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]ELBE KANAL HD[/COLOR]
 rtmp://62.113.210.250/medienasa-live/elbe_high
-#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]ALEX BERLIN HD[/COLOR]
+#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]ALEX BERLIN HD[/COLOR]
 http://api.iptv.ink/pl.m3u8?ch=65304965
-#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]AUGSBURG TV HD[/COLOR]
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]AUGSBURG TV HD[/COLOR]
 rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
-#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]MELODIE TV HD[/COLOR]
+#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]MELODIE TV HD[/COLOR]
 http://83.169.58.40:1935/live/_definst_/Melodie/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]SPORT TIME TV 1 HD[/COLOR]
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SPORT TIME TV 1 HD[/COLOR]
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SPORT TIME TV 2 HD[/COLOR]
+#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]SPORT TIME TV 2 HD[/COLOR]
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]SPORT TIME TV 3 HD[/COLOR]
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SPORT TIME TV 3 HD[/COLOR]
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
