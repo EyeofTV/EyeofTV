@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1,[COLOR yellow]***[/COLOR] [COLOR blue]EYE OF TV[/COLOR][COLOR yellow]***[/COLOR][COLOR red]Update: 26.01.16[/COLOR]
+http://eyeoftv.m3u8
 #EXTINF:-1 tvg-logo="trt.png",[COLOR green]ATV HD SUAN CEKMIYOR!![/COLOR]
 http://188.72.131.226/atv.m3u8
 #EXTINF:-1 tvg-logo="showtv.png",[COLOR red]SHOW TV HD[/COLOR]
@@ -214,7 +215,4 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
 #EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SPORT TIME TV 3 HD[/COLOR]
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
-#EXTINF:-1,*** EYE OF TV / FILMLER ***
-http://hasbahcaiptv.com/m3u/tuye.mp4
-#EXTINF:-1,CREED
-http://streamcloud.eu/nj8rkdcr5v13/mp-creed-xdvdscrld.avi.html
+
