@@ -220,6 +220,3 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
 #EXTINF:-1 tvg-logo="eyeoftv.png", SKY KANALLAR YAKINDA BURDA
 http://eyeoftv.m3u8
-
-
-
