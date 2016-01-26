@@ -214,3 +214,7 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
 #EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SPORT TIME TV 3 HD[/COLOR]
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+#EXTINF:-1,*** EYE OF TV / FILMLER ***
+http://hasbahcaiptv.com/m3u/tuye.mp4
+#EXTINF:-1,CREED
+http://streamcloud.eu/nj8rkdcr5v13/mp-creed-xdvdscrld.avi.html
