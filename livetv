@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR blue]EYE OF TV[/COLOR]-[COLOR red]UPDATE 26.01.2016[/COLOR]
+#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR green]EYE OF TV[/COLOR] - [COLOR red]UPDATE 26.01.2016[/COLOR]
 http://eyeoftv.m3u8
 #EXTINF:-1 tvg-logo="showtv.png",[COLOR red]LIGTV 1 HD[/COLOR]
 http://smart.ipne.be:80/live/asbava/Gi7G6Xwjc3/726.ts
@@ -220,7 +220,6 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
 #EXTINF:-1 tvg-logo="eyeoftv.png", SKY KANALLAR YAKINDA BURDA
 http://eyeoftv.m3u8
-#EXTINF:-1 tvg-logo="eyeoftv.png",SKY SPORTS 1 HD 
-http://iptv80.ddns.net:9070/live/karimos/skype88/191.m3u8
+
 
 
