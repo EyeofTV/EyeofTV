@@ -2,9 +2,7 @@
 
 #EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR green]EYE OF TV[/COLOR] - [COLOR red]UPDATE 26.01.2016[/COLOR]
 http://eyeoftv.m3u8
-#EXTINF:-1, -
-http://eyeoftv.m3u8
-#EXTINF:-1, — -TÜRK KANALLAR- —
+#EXTINF:-1, - - TÜRK KANALLAR - -
 http://eyeoftv.m3u8
 #EXTINF:-1 tvg-logo="showtv.png",[COLOR orange]LIGTV 1 HD[/COLOR]
 http://smart.ipne.be:80/live/asbava/Gi7G6Xwjc3/726.ts
