@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR bluegreen]EYE OF TV / UPDATE 26.01.2016[/COLOR]
+#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR blue]EYE OF TV / UPDATE 26.01.2016[/COLOR]
 http://eyeoftv.m3u8
 #EXTINF:-1 tvg-logo="trt.png",[COLOR green]ATV HD SUAN CEKMIYOR!![/COLOR]
 http://188.72.131.226/atv.m3u8
