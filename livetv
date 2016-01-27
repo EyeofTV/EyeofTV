@@ -4,14 +4,6 @@
 http://eyeoftv.m3u8
 #EXTINF:-1, - - TÜRK KANALLAR - -
 http://eyeoftv.m3u8
-#EXTINF:-1 tvg-logo="showtv.png",[COLOR red]ATV HD[/COLOR]
-http://origin.live.web.tv.streamprovider.net/streams/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
-#EXTINF:-1 tvg-logo="showtv.png",[COLOR orange]ATV HD[/COLOR]
-http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:-1 tvg-logo="showtv.png",[COLOR red]ATV AVRUPA HD[/COLOR]
-http://trkvz-m.ercdn.net/trkvz-temp/atvavrupam.m3u8
-#EXTINF:-1 tvg-logo="showtv.png",[COLOR orange]TV 8 HD[/COLOR]
-http://tv8.viviso.tv/staging_live_stream.m3u8
 #EXTINF:-1 tvg-logo="showtv.png",[COLOR red]EURO STAR HD[/COLOR]
 http://188.72.131.226/star.m3u8
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]ATV HD (suan cekmiyor)[/COLOR]
