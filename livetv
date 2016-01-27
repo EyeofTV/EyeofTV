@@ -2,6 +2,40 @@
 
 #EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR green]EYE OF TV[/COLOR] - [COLOR red]UPDATE 26.01.2016[/COLOR]
 http://eyeoftv.m3u8
+#EXTINF:-1, - - GECICI KANALLAR - -
+http://eyeoftv.m3u8
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR yellow]ATV HD[/COLOR]
+http://iptv-supplier.com:8000/live/WAT/WAT/415.ts
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR yellow]PLANET TÜRK HD[/COLOR]
+http://iptv-supplier.com:8000/live/WAT/WAT/1837.ts
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR yellow]BELGESEL 3 HD[/COLOR]
+http://iptv-supplier.com:8000/live/WAT/WAT/1833.ts
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR yellow]BELGESEL 2 HD[/COLOR]
+http://iptv-supplier.com:8000/live/WAT/WAT/1832.ts
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR yellow]MOVIE STARS HD[/COLOR]
+http://iptv-supplier.com:8000/live/WAT/WAT/984.ts
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR yellow]TV 8 HD[/COLOR]
+http://iptv-supplier.com:8000/live/WAT/WAT/397.ts
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR yellow]EURO STAR HD[/COLOR]
+http://iptv-supplier.com:8000/live/WAT/WAT/407.ts
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR yellow]BEYAZ TV HD[/COLOR]
+http://iptv-supplier.com:8000/live/WAT/WAT/916.ts
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR yellow]SINEMA TV HD[/COLOR]
+http://iptv-supplier.com:8000/live/WAT/WAT/908.ts
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR yellow]SINEMA TV 2HD[/COLOR]
+http://iptv-supplier.com:8000/live/WAT/WAT/909.ts
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR yellow]SALON 1 HD[/COLOR]
+http://iptv-supplier.com:8000/live/WAT/WAT/402.ts
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR yellow]SALON 2 HD[/COLOR]
+http://iptv-supplier.com:8000/live/WAT/WAT/403.ts
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR yellow]SALON 3 HD[/COLOR]
+http://iptv-supplier.com:8000/live/WAT/WAT/404.ts
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR yellow]LIGTV HD[/COLOR]
+http://iptv-supplier.com:8000/live/WAT/WAT/392.ts
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR yellow]LIGTV 2 HD[/COLOR]
+http://iptv-supplier.com:8000/live/WAT/WAT/391.ts
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR yellow]LIGTV 3 HD[/COLOR]
+http://iptv-supplier.com:8000/live/WAT/WAT/390.ts
 #EXTINF:-1, - - TÜRK KANALLAR - -
 http://eyeoftv.m3u8
 #EXTINF:-1 tvg-logo="showtv.png",[COLOR red]EURO STAR HD[/COLOR]
