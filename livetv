@@ -77,140 +77,25 @@ http://wms.brtk.net/live/BRTHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="tv.png",[COLOR orange]SPORTS TV[/COLOR]
 rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
 #EXTINF:-1 tvg-logo="tv.png",[COLOR white]- - ALMAN KANALLAR - -[/COLOR]
-rtmp://stream.sportstv.de/sportstv/SporXV3
-#EXTINF:-1,DE: N24
-http://skyiptv.ddns.net:8000/live/expert/expert/295.m3u8
-#EXTINF:-1,DE: AXN
-http://skyiptv.ddns.net:8000/live/expert/expert/297.m3u8
-#EXTINF:-1,DE: ATV
-http://skyiptv.ddns.net:8000/live/expert/expert/298.m3u8
-#EXTINF:-1,DE: ARTE
-http://skyiptv.ddns.net:8000/live/expert/expert/299.m3u8
-#EXTINF:-1,DE: ARD
-http://skyiptv.ddns.net:8000/live/expert/expert/300.m3u8
-#EXTINF:-1,DE ZDF
-http://skyiptv.ddns.net:8000/live/expert/expert/306.m3u8
-#EXTINF:-1,DE VOX
-http://skyiptv.ddns.net:8000/live/expert/expert/307.m3u8
-#EXTINF:-1,DE SRF 1
-http://skyiptv.ddns.net:8000/live/expert/expert/308.m3u8
-#EXTINF:-1,DE SPORT TIME TV 1
-http://skyiptv.ddns.net:8000/live/expert/expert/721.m3u8
-#EXTINF:-1,DE SPORT TIME TV 2
-http://skyiptv.ddns.net:8000/live/expert/expert/314.m3u8
-#EXTINF:-1,DE SPORT TIME TV 3
-http://skyiptv.ddns.net:8000/live/expert/expert/313.m3u8
-#EXTINF:-1,DE SPORT TIME TV 4
-http://skyiptv.ddns.net:8000/live/expert/expert/312.m3u8
-#EXTINF:-1,DE SPORT TIME TV 5
-http://skyiptv.ddns.net:8000/live/expert/expert/311.m3u8
-#EXTINF:-1,DE SPORT TIME TV 6
-http://skyiptv.ddns.net:8000/live/expert/expert/310.m3u8
-#EXTINF:-1,DE SPORT TIME TV 7
-http://skyiptv.ddns.net:8000/live/expert/expert/309.m3u8
-#EXTINF:-1,DE Sky Sport 1
-http://skyiptv.ddns.net:8000/live/expert/expert/316.m3u8
-#EXTINF:-1,DE Sky Sport 2
-http://skyiptv.ddns.net:8000/live/expert/expert/315.m3u8
-#EXTINF:-1,DE SKY Cinema  24
-http://skyiptv.ddns.net:8000/live/expert/expert/317.m3u8
-#EXTINF:-1,DE SKY Cinema
-http://skyiptv.ddns.net:8000/live/expert/expert/318.m3u8
-#EXTINF:-1,DE SKY Bundesliga
-http://skyiptv.ddns.net:8000/live/expert/expert/319.m3u8
-#EXTINF:-1,DE Sat 1
-http://skyiptv.ddns.net:8000/live/expert/expert/321.m3u8
-#EXTINF:-1,DE RTL 2
-http://skyiptv.ddns.net:8000/live/expert/expert/322.m3u8
-#EXTINF:-1,DE RTL
-http://skyiptv.ddns.net:8000/live/expert/expert/323.m3u8
-#EXTINF:-1,DE Pro 7
-http://skyiptv.ddns.net:8000/live/expert/expert/324.m3u8
-#EXTINF:-1,DE Sky.National.GeographicHD
-http://skyiptv.ddns.net:8000/live/expert/expert/686.m3u8
-#EXTINF:-1,DE National Geographic
-http://skyiptv.ddns.net:8000/live/expert/expert/325.m3u8
-#EXTINF:-1,DE Nat Geo wild
-http://skyiptv.ddns.net:8000/live/expert/expert/326.m3u8
-#EXTINF:-1,DE Kabel 1
-http://skyiptv.ddns.net:8000/live/expert/expert/327.m3u8
-#EXTINF:-1,DE FOX life
-http://skyiptv.ddns.net:8000/live/expert/expert/328.m3u8
-#EXTINF:-1,D-sky emotion
-http://skyiptv.ddns.net:8000/live/expert/expert/302.m3u8
-#EXTINF:-1,D-sky comedy
-http://skyiptv.ddns.net:8000/live/expert/expert/303.m3u8
-#EXTINF:-1,D-sky action
-http://skyiptv.ddns.net:8000/live/expert/expert/305.m3u8
-#EXTINF:-1,DE: Sky Germany Select 1 HD
-http://skyiptv.ddns.net:8000/live/expert/expert/504.m3u8
-#EXTINF:-1,DE: Sky Germany Select 2 HD
-http://skyiptv.ddns.net:8000/live/expert/expert/505.m3u8
-#EXTINF:-1,DE: Sky Germany Select 3 HD
-http://skyiptv.ddns.net:8000/live/expert/expert/506.m3u8
-#EXTINF:-1,DE: Sky Germany Select 4 HD
-http://skyiptv.ddns.net:8000/live/expert/expert/507.m3u8
-#EXTINF:-1,DE: Sky Germany Select 5 HD
-http://skyiptv.ddns.net:8000/live/expert/expert/508.m3u8
-#EXTINF:-1,DE: Sky Germany Select 6 HD
-http://skyiptv.ddns.net:8000/live/expert/expert/509.m3u8
-#EXTINF:-1,Skyde Cinema 1
-http://skyiptv.ddns.net:8000/live/expert/expert/294.m3u8
-#EXTINF:-1,RTL 8 HD
-http://skyiptv.ddns.net:8000/live/expert/expert/179.m3u8
-#EXTINF:-1,RTL 7 HD
-http://skyiptv.ddns.net:8000/live/expert/expert/180.m3u8
-#EXTINF:-1,RTL 5 HD
-http://skyiptv.ddns.net:8000/live/expert/expert/181.m3u8
-#EXTINF:-1,---DE TEST LIST---
-http://skyiptv.ddns.net:8000/live/expert/expert/753.m3u8
-#EXTINF:-1,DE: syfy
-http://skyiptv.ddns.net:8000/live/expert/expert/738.m3u8
-#EXTINF:-1,DE: superrtl
-http://skyiptv.ddns.net:8000/live/expert/expert/739.m3u8
-#EXTINF:-1,DE: sat1gold
-http://skyiptv.ddns.net:8000/live/expert/expert/740.m3u8
-#EXTINF:-1,DE: rtlnitro
-http://skyiptv.ddns.net:8000/live/expert/expert/741.m3u8
-#EXTINF:-1,DE: rtlliving
-http://skyiptv.ddns.net:8000/live/expert/expert/742.m3u8
-#EXTINF:-1,DE: prosieben
-http://skyiptv.ddns.net:8000/live/expert/expert/743.m3u8
-#EXTINF:-1,DE: kabel eins
-http://skyiptv.ddns.net:8000/live/expert/expert/744.m3u8
-#EXTINF:-1,DE: kabel classic
-http://skyiptv.ddns.net:8000/live/expert/expert/745.m3u8
-#EXTINF:-1,DE: heimat kanal
-http://skyiptv.ddns.net:8000/live/expert/expert/746.m3u8
-#EXTINF:-1,DE: goldstart
-http://skyiptv.ddns.net:8000/live/expert/expert/747.m3u8
-#EXTINF:-1,DE: discovery
-http://skyiptv.ddns.net:8000/live/expert/expert/748.m3u8
-#EXTINF:-1,DE : sk ysporm3u8 news
-http://skyiptv.ddns.net:8000/live/expert/expert/723.m3u8
-#EXTINF:-1,DE :  zdf info
-http://skyiptv.ddns.net:8000/live/expert/expert/725.m3u8
-#EXTINF:-1,DE :  tnt serie
-http://skyiptv.ddns.net:8000/live/expert/expert/726.m3u8
-#EXTINF:-1,DE :  spiegel
-http://skyiptv.ddns.net:8000/live/expert/expert/727.m3u8
-#EXTINF:-1,DE :  sky nostalgie
-http://skyiptv.ddns.net:8000/live/expert/expert/728.m3u8
-#EXTINF:-1,DE :  sky krimi
-http://skyiptv.ddns.net:8000/live/expert/expert/729.m3u8
-#EXTINF:-1,DE :  sky altanic
-http://skyiptv.ddns.net:8000/live/expert/expert/730.m3u8
-#EXTINF:-1,DE :  rtl passion
-http://skyiptv.ddns.net:8000/live/expert/expert/731.m3u8
-#EXTINF:-1,DE :  rtl cirme
-http://skyiptv.ddns.net:8000/live/expert/expert/732.m3u8
-#EXTINF:-1,DE :  mgm
-http://skyiptv.ddns.net:8000/live/expert/expert/733.m3u8
-#EXTINF:-1,DE :  kika
-http://skyiptv.ddns.net:8000/live/expert/expert/734.m3u8
-#EXTINF:-1,DE :  fox serie
-http://skyiptv.ddns.net:8000/live/expert/expert/735.m3u8
-#EXTINF:-1,DE :  disneycinemagic
-http://skyiptv.ddns.net:8000/live/expert/expert/736.m3u8
-#EXTINF:-1,DE :  3 sat
-http://skyiptv.ddns.net:8000/live/expert/expert/737.m3u8
+http://eyeoftv.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]SKY BUNDESLIGA1 HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/471.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SKY BUNDESLIGA HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/468.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]SKY SPORT1 HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/495.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SKY SPORT2 HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/494.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]RTL HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/482.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SKY SELECT HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/473.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]PRO7 HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/481.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SAT1 HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/486.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]VOX HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/487.m3u8
+
+
+
