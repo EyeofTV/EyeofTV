@@ -1,9 +1,105 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR red][I]+ + + Updated on 29.01.2016 + + +[/I][/COLOR]
-#EXTINF:-1, [COLOR green]- - - EYE OF TV - - -[/COLOR]
- 
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR green]EYE OF TV[/COLOR] - [COLOR red]UPDATE 26.01.2016[/COLOR]
+http://eyeoftv.m3u8
+#EXTINF:-1, - - TÜRK KANALLAR - -
+http://eyeoftv.m3u8
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR red]EURO STAR HD (suan cekmiyor)[/COLOR]
+http://188.72.131.226/star.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]ATV HD (suan cekmiyor)[/COLOR]
+http://188.72.131.226/atv.m3u8
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR red]SHOW TV HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0045.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]KANAL D HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0038.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR red]FOX HD[/COLOR]
+http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]SAMANYOLU HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0039.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR red]FLASH TV[/COLOR]
+http://www.iptvsaga.com/play/tv3/0042.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]KANAL 7 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0043.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR red]BUGÜN TV HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0052.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TV EM HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0046.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR red]TRT HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0036.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TRT 1 (suan cekmiyor)[/COLOR]
+http://62.65.140.154:80/session/f65529d0-c39b-11e5-80d9-005056bc06d1/nvnv5a/2/5030/index.m3u8?token=6857f7eaa9411cd9f7ee704eead94a46_1453837432_1453837432&p=127|X-Forwarded-For=85.1.14.80
+#EXTINF:-1 tvg-logo="trt.png",[COLOR red]TRT 1 HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 tvg-logo="0803.png",[COLOR orange]TRT HABER HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR red]TRT KURDI HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0033.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TRT BELGESEL HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0061.m3u8
+#EXTINF:-1 tvg-logo="0810.png",[COLOR red]TRT AVAZ HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1 tvg-logo="0809.png",[COLOR orange]TRT MÜZIK HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1 tvg-logo="0804.png",[COLOR red]TRT ÇOCUK HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1 tvg-logo="0813.png",[COLOR orange]TRT TÜRK HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1 tvg-logo="0804.png",[COLOR red]TRT ARAPÇA HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_500_av-b.m3u8?sd=10&rebase=on&hdntl=
+#EXTINF:-1 tvg-logo="0804.png",[COLOR orange]TRT OKUL HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="trt.png",[COLOR red]KANALTÜRK HD[/COLOR]
+http://kanalturk-live.ercdn.com/kanalturk.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]CNN TÜRK HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0051.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR red]HABERTÜRK HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0073.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TV 2 HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0047.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR red]FIL TV HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0067.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]BLOOMBERG HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0066.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR red]NTV SPOR HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0057.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]POWERTÜRK HD[/COLOR]
+http://185.28.3.10/powertv/powerturktvh.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR red]DREAM HD[/COLOR]
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]DREAMTÜRK HD[/COLOR]
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR red]NUMBER ONE HD[/COLOR]
+http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]TBMM TV[/COLOR]
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="tv.png",[COLOR red]BRT HD[/COLOR]
+http://wms.brtk.net/live/BRTHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]SPORTS TV[/COLOR]
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+#EXTINF:-1 tvg-logo="tv.png",[COLOR white]- - ALMAN KANALLAR - -[/COLOR]
+http://eyeoftv.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]SKY BUNDESLIGA1 HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/471.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SKY BUNDESLIGA HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/468.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]SKY SPORT1 HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/495.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SKY SPORT2 HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/494.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]RTL HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/482.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SKY SELECT HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/473.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]PRO7 HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/481.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SAT1 HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/486.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]VOX HD[/COLOR]
+http://top-iptv.zapto.org:8000/live/Aria/Aria/487.m3u8
+
+
+
+
 
 #EXTINF:-1,[COLOR white][I][B]TURKIYE KANALLARI[/B][/I][/COLOR]
 http://0.0.0.0:1234
