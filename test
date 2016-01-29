@@ -141,7 +141,6 @@ http://wms.brtk.net/live/BRTHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="tv.png",[COLOR orange]SPORTS TV[/COLOR]
 rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
 
-
 #EXTINF:-1,[COLOR whitesmoke][B]- - DEUTSCHE SENDER - -[/B][/COLOR]
 http://eyeoftv.m3u8
 
@@ -217,7 +216,3 @@ http://wms.brtk.net/live/brt1/playlist.m3u8
 http://wms.brtk.net/live/BRTHD/playlist.m3u8
 #EXTINF:-1,30
 http://mn-l.mncdn.com/bloomberght/bloomberght2/index.m3u8
-
-
-
-
