@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR green]EYE OF TV[/COLOR] - [COLOR red]UPDATE 28.01.2016[/COLOR]
+#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR darkcyan]EYE OF TV[/COLOR] - [COLOR crimson]UPDATE 28.01.2016[/COLOR]
 http://eyeoftv.m3u8
-#EXTINF:-1, - - TÜRK KANALLAR - -
+#EXTINF:-1,[COLOR darkviolet][B]- - TÜRK KANALLAR - -[/B][/COLOR]
 http://eyeoftv.m3u8
 
-#EXTINF:-1 tvg-logo="showtv.png",[COLOR red]EURO STAR HD (suan cekmiyor)[/COLOR]
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR orange]EURO STAR HD (suan cekmiyor)[/COLOR]
 http://188.72.131.226/star.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]ATV HD[/COLOR][COLOR red](suan cekmiyor)[/COLOR]
+#EXTINF:-1 tvg-logo="trt.png",[COLOR cornflowerblue]ATV HD[/COLOR][COLOR red](suan cekmiyor)[/COLOR]
 http://188.72.131.226/atv.m3u8
 
 #EXTINF:-1 tvg-logo="showtv.png",[COLOR red]SHOW TV HD[/COLOR]
@@ -145,8 +145,8 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/487.m3u8
 
 
 
-#EXTINF:-1,[COLOR white][I][B]TURKIYE KANALLARI[/B][/I][/COLOR]
-http://0.0.0.0:1234
+
+
 
 #EXTINF:-1, TRT 1 SD
 http://hdtvizle.ru/14452/71930/71968/trt1sd.m3u8
