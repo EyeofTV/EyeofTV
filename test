@@ -1,21 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR green]EYE OF TV[/COLOR] - [COLOR red]UPDATE 26.01.2016[/COLOR]
+#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR green]EYE OF TV[/COLOR] - [COLOR red]UPDATE 28.01.2016[/COLOR]
 http://eyeoftv.m3u8
 #EXTINF:-1, - - TÜRK KANALLAR - -
 http://eyeoftv.m3u8
+
 #EXTINF:-1 tvg-logo="showtv.png",[COLOR red]EURO STAR HD (suan cekmiyor)[/COLOR]
 http://188.72.131.226/star.m3u8
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]ATV HD (suan cekmiyor)[/COLOR]
+
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]ATV HD[/COLOR][COLOR red](suan cekmiyor)[/COLOR]
 http://188.72.131.226/atv.m3u8
+
 #EXTINF:-1 tvg-logo="showtv.png",[COLOR red]SHOW TV HD[/COLOR]
 http://www.iptvsaga.com/play/tv3/0045.m3u8
+
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]KANAL D HD[/COLOR]
 http://www.iptvsaga.com/play/tv3/0038.m3u8
+
 #EXTINF:-1 tvg-logo="trt.png",[COLOR red]FOX HD[/COLOR]
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]SAMANYOLU HD[/COLOR]
 http://www.iptvsaga.com/play/tv3/0039.m3u8
+
 #EXTINF:-1 tvg-logo="trt.png",[COLOR red]FLASH TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0042.m3u8
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]KANAL 7 HD[/COLOR]
@@ -217,13 +224,13 @@ http://hdtvizle.ru/14452/71930/71968/trtavaz.m3u8
 http://hdtvizle.ru/14452/71930/71968/trtavazhd.m3u8
 
 
-#‎EXTINF‬:0,BRT 1
+#‎EXTINF:0,BRT 1
 http://wms.brtk.net/live/brt1/playlist.m3u8
 #EXTINF:0,BRT 2
 http://wms.brtk.net/live/brt2/playlist.m3u8
 #EXTINF:0,BRT HD
 http://wms.brtk.net/live/BRTHD/playlist.m3u8
-‪#‎EXTINF‬:-1,TRT 1 HD
+#‎EXTINF:-1,TRT 1 HD
 http://www.iptvsaga.com/play/tv3/0030.m3u8
 #EXTINF:-1,TRT HD
 http://www.iptvsaga.com/play/tv3/0036.m3u8
