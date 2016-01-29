@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 28.01.2016[/B][/COLOR]
 http://eyeoftv.m3u8
 
+
+
 #EXTINF:-1,[COLOR whitesmoke][B]- - TÜRKISCHE SENDER - -[/B][/COLOR]
 http://eyeoftv.m3u8
 
@@ -141,78 +143,28 @@ http://wms.brtk.net/live/BRTHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="tv.png",[COLOR orange]SPORTS TV[/COLOR]
 rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
 
+
+
 #EXTINF:-1,[COLOR whitesmoke][B]- - DEUTSCHE SENDER - -[/B][/COLOR]
 http://eyeoftv.m3u8
+
+#EXTINF:-1 tvg-logo="tv.png",[COLOR darkolivegreen]SKY BUNDESLIGA HD[/COLOR]
+http://bit.ly/1SaZeLS
+
+#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]SKY SPORT 1 HD[/COLOR]
+http://bit.ly/1K2WC1j
+
+#EXTINF:-1 tvg-logo="tv.png",[COLOR darkolivegreen]SKY SPORT 2 HD[/COLOR]
+http://bit.ly/1PpF3uM
 
 #EXTINF:-1 tvg-logo="tv.png",[COLOR blue]RTL HD[/COLOR]
 http://top-iptv.zapto.org:8000/live/Aria/Aria/482.m3u8
 
-#EXTINF:-1 tvg-logo="tv.png",[COLOR slategray]PRO7 HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
+#EXTINF:-1 tvg-logo="tv.png",[COLOR darkolivegreen]PRO7 HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
 http://top-iptv.zapto.org:8000/live/Aria/Aria/481.m3u8
 
 #EXTINF:-1 tvg-logo="tv.png",[COLOR blue]SAT1 HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
 http://top-iptv.zapto.org:8000/live/Aria/Aria/486.m3u8
 
-#EXTINF:-1 tvg-logo="tv.png",[COLOR slategray]VOX HD[/COLOR]
+#EXTINF:-1 tvg-logo="tv.png",[COLOR darkolivegreen]VOX HD[/COLOR]
 http://top-iptv.zapto.org:8000/live/Aria/Aria/487.m3u8
-
-#EXTINF:-1,1
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1,2
-http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
-#EXTINF:-1,3
-http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-#EXTINF:-1,4
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1,5
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1,6
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl
-#EXTINF:-1,7
-http://kanalturk-live.ercdn.com/kanalturk.m3u8
-#EXTINF:-1,8
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:-1,9
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1,10
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-#EXTINF:-1,11
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_500_av-b.m3u8?sd=10&rebase=on&hdntl
-#EXTINF:-1,12
-http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,13
-http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1,14
-http://buguntv-live.ercdn.com/buguntv.m3u8
-#EXTINF:-1,15
-http://mn-l.mncdn.com/showtv/showtv2/playlist.m3u8
-#EXTINF:-1,16
-http://livetr.gostream.nl/kanal7hq/kanal7hq/chunklist_w2029317818.m3u8
-#EXTINF:-1,17
-http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:-1,18
-http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
-#EXTINF:-1,19
-http://mn-l.mncdn.com/haberturk/haberturk2/index.m3u8
-#EXTINF:-1,20
-http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1,21
-http://mn-l.mncdn.com/tvem_live/tvem3/playlist.m3u8
-#EXTINF:-1,22
-http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/index_1200_av-p.m3u8?sd=10&rebase=on&hdntl
-#EXTINF:-1,23
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1,24
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-#EXTINF:-1,25
-http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/chunklist_w1006179642_b1328000.m3u8
-#EXTINF:-1,26
-http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
-#EXTINF:-1,27
-http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,28
-http://wms.brtk.net/live/brt1/playlist.m3u8
-#EXTINF:-1,29
-http://wms.brtk.net/live/BRTHD/playlist.m3u8
-#EXTINF:-1,30
-http://mn-l.mncdn.com/bloomberght/bloomberght2/index.m3u8
