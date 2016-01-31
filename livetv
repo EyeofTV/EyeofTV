@@ -4,7 +4,6 @@
 http://eyeoftv.m3u8
 
 
-
 #EXTINF:-1,[COLOR whitesmoke][B]- - TÜRKISCHE SENDER - -[/B][/COLOR]
 http://eyeoftv.m3u8
 
@@ -169,115 +168,59 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/486.m3u8
 #EXTINF:-1 tvg-logo="tv.png",[COLOR darkolivegreen]VOX HD[/COLOR]
 http://top-iptv.zapto.org:8000/live/Aria/Aria/487.m3u8
 
-
-
-#EXTINF:-1, TRT 1 SD
-http://hdtvizle.ru/14452/71930/71968/trt1sd.m3u8
-#EXTINF:-1, ATV HD
-http://hdtvizle.ru/14452/71930/71968/atv.m3u8
-#EXTINF:-1, ATV SD
-http://hdtvizle.ru/14452/71930/71968/atvsd.m3u8
-#EXTINF:-1, ATV AVRUPA
-http://hdtvizle.ru/14452/71930/71968/atvavrupa.m3u8
-#EXTINF:-1, SHOW TV
-http://hdtvizle.ru/14452/71930/71968/show.m3u8
-#EXTINF:-1, SHOW TURK
-http://hdtvizle.ru/14452/71930/71968/showt.m3u8
-#EXTINF:-1, KANAL D
-http://hdtvizle.ru/14452/71930/71968/kanald.m3u8
-#EXTINF:-1, FOX TV HD
-http://hdtvizle.ru/14452/71930/71968/foxtv.m3u8
-#EXTINF:-1, STAR TV
-http://hdtvizle.ru/14452/71930/71968/star.m3u8
-#EXTINF:-1, Tv 8
-http://hdtvizle.ru/14452/71930/71968/tv8hd.m3u8
-#EXTINF:-1, KANAL TURK HD
-http://hdtvizle.ru/14452/71930/71968/kanalthd.m3u8
-#EXTINF:-1, SAMANYOLU TV
-http://hdtvizle.ru/14452/71930/71968/stv.m3u8
-#EXTINF:-1, BEYAZ TV
-http://hdtvizle.ru/14452/71930/71968/beyaz.m3u8
-#EXTINF:-1, TV 2 SD
-http://hdtvizle.ru/14452/71930/71968/tv2.m3u8
-#EXTINF:-1, TRT HD
-http://hdtvizle.ru/14452/71930/71968/trthd.m3u8
-#EXTINF:-1, MC TV
-http://hdtvizle.ru/14452/71930/71968/mctv.m3u8
-#EXTINF:-1, KANAL 7
-http://hdtvizle.ru/14452/71930/71968/kanal7.m3u8
-#EXTINF:-1, KANAL 7 AVRUPA
-http://hdtvizle.ru/14452/71930/71968/kanal7avrupa.m3u8
-#EXTINF:-1, TRT SPOR
-http://hdtvizle.ru/14452/71930/71968/trts.m3u8
-#EXTINF:-1, A SPOR
-http://hdtvizle.ru/14452/71930/71968/aspor1.m3u8
-#EXTINF:-1, NTV SPOR
-http://hdtvizle.ru/14452/71930/71968/ntvs.m3u8
-#EXTINF:-1, SPORTS TV
-http://hdtvizle.ru/14452/71930/71968/sports.m3u8
-#EXTINF:-1, POWER TURK HD
-http://hdtvizle.ru/14452/71930/71968/powerhd.m3u8
-#EXTINF:-1, POWER TURK SD
-http://hdtvizle.ru/14452/71930/71968/power.m3u8
-#EXTINF:-1, VIVA TV
-http://hdtvizle.ru/14452/71930/71968/viva.m3u8
-#EXTINF:-1, DREAM TURK
-http://hdtvizle.ru/14452/71930/71968/dreamt.m3u8
-#EXTINF:-1, GENC TV
-http://hdtvizle.ru/14452/71930/71968/genc.m3u8
-#EXTINF:-1, NUMBER TURK
-http://hdtvizle.ru/14452/71930/71968/nr1.m3u8
-#EXTINF:-1, TMB
-http://hdtvizle.ru/14452/71930/71968/tmb.m3u8
-#EXTINF:-1,TRT MUZIK HD
-http://hdtvizle.ru/14452/71930/71968/trtm.m3u8
-#EXTINF:-1,POWER TV HD
-http://hdtvizle.ru/14452/71930/71968/phd.m3u8
-#EXTINF:-1, HABER TURK
-Web hosting, domain names, VPS - 000webhost.com
-#EXTINF:-1, A HABER
-http://hdtvizle.ru/14452/71930/71968/ahaber.m3u8
-#EXTINF:-1, HALK TV
-http://hdtvizle.ru/14452/71930/71968/halk.m3u8
-#EXTINF:-1, TGRT HABER
-http://hdtvizle.ru/14452/71930/71968/tgrth.m3u8
-#EXTINF:-1, CNN TURK SD
-http://hdtvizle.ru/14452/71930/71968/cnn.m3u8
-#EXTINF:-1, TRT HABER SD
-http://hdtvizle.ru/14452/71930/71968/trthsd.m3u8
-#EXTINF:-1, TRT HABER HD
-http://hdtvizle.ru/14452/71930/71968/trth.m3u8
-#EXTINF:-1, BUGUN TV HD
-http://hdtvizle.ru/14452/71930/71968/buguntv.m3u8
-#EXTINF:-1, AKILLI TV
-http://hdtvizle.ru/14452/71930/71968/akilli.m3u8
-#EXTINF:-1, TGRT Belgesel
-http://hdtvizle.ru/14452/71930/71968/tgrtb.m3u8
-#EXTINF:-1, TRT BELGESEL HD
-http://hdtvizle.ru/14452/71930/71968/trtb.m3u8
-#EXTINF:-1, TRT BELGESEL SD
-http://hdtvizle.ru/14452/71930/71968/trtbsd.m3u8
-#EXTINF:-1, YABAN TV
-http://hdtvizle.ru/14452/71930/71968/yaban.m3u8
-#EXTINF:-1, World Travel Channel
-http://hdtvizle.ru/14452/71930/71968/wtc.m3u8
-#EXTINF:-1, MINIKA GO
-Web hosting, domain names, VPS - 000webhost.com
-#EXTINF:-1, MINIKA COCUK
-Web hosting, domain names, VPS - 000webhost.com
-#EXTINF:-1, CN NETWORK
-http://hdtvizle.ru/14452/71930/71968/cn.m3u8
-#EXTINF:-1, PLANET TURK
-http://hdtvizle.ru/14452/71930/71968/pturk.m3u8
-#EXTINF:-1, ANADOLU YURDUM
-http://hdtvizle.ru/14452/71930/71968/an.m3u8
-#EXTINF:-1, MEDIYA TV
-http://hdtvizle.ru/14452/71930/71968/medya.m3u8
-#EXTINF:-1, NEHIR TV
-http://hdtvizle.ru/14452/71930/71968/nehir.m3u8
-#EXTINF:-1, FiL Tv
-http://hdtvizle.ru/14452/71930/71968/fil.m3u8
-#EXTINF:-1, TRT Avaz SD
-http://hdtvizle.ru/14452/71930/71968/trtavaz.m3u8
-#EXTINF:-1, TRT Avaz HD
-http://hdtvizle.ru/14452/71930/71968/trtavazhd.m3u8
+#EXTINF:-1,SKY-SPORT1-Germany
+http://sat.010e.net:8000/live/z11/z11/351.ts
+#EXTINF:-1,SKY-SPORT2-Germany
+http://sat.010e.net:8000/live/z11/z11/352.ts
+#EXTINF:-1,Sky-Select-1HD
+http://sat.010e.net:8000/live/z11/z11/779.ts
+#EXTINF:-1,Sky-Select-2HD
+http://sat.010e.net:8000/live/z11/z11/780.ts
+#EXTINF:-1,Sky-Select-3HD
+http://sat.010e.net:8000/live/z11/z11/781.ts
+#EXTINF:-1,Sky-Select-4HD
+http://sat.010e.net:8000/live/z11/z11/782.ts
+#EXTINF:-1,Sky-Select-5HD
+http://sat.010e.net:8000/live/z11/z11/783.ts
+#EXTINF:-1,SKYDE:CINEMA
+http://sat.010e.net:8000/live/z11/z11/1385.ts
+#EXTINF:-1,DE:SkyAction_HD
+http://sat.010e.net:8000/live/z11/z11/1392.ts
+#EXTINF:-1,DE:Cinema_Plus_24
+http://sat.010e.net:8000/live/z11/z11/1391.ts
+#EXTINF:-1,SKYDE:SKY-COMEDY
+http://sat.010e.net:8000/live/z11/z11/1389.ts
+#EXTINF:-1,RTL-GERMANY
+http://sat.010e.net:8000/live/z11/z11/396.ts
+#EXTINF:-1,DE:_Super_RTL
+http://sat.010e.net:8000/live/z11/z11/1395.ts
+#EXTINF:-1,DE:PRO-7
+http://sat.010e.net:8000/live/z11/z11/1394.ts
+#EXTINF:-1,VOX-GR
+http://sat.010e.net:8000/live/z11/z11/660.ts
+#EXTINF:-1,ARD-Germany
+http://sat.010e.net:8000/live/z11/z11/651.ts
+#EXTINF:-1,ZDF-Germany
+http://sat.010e.net:8000/live/z11/z11/1176.ts
+#EXTINF:-1,Das1-Germany
+http://sat.010e.net:8000/live/z11/z11/652.ts
+#EXTINF:-1,DE:MGM-HD
+http://sat.010e.net:8000/live/z11/z11/653.ts
+#EXTINF:-1,Family-TV-Germany
+http://sat.010e.net:8000/live/z11/z11/1177.ts
+#EXTINF:-1,Sport-Time-TV1
+http://sat.010e.net:8000/live/z11/z11/1178.ts
+#EXTINF:-1,Sport-Time-TV2
+http://sat.010e.net:8000/live/z11/z11/1179.ts
+#EXTINF:-1,DE:Sky-Dmax
+http://sat.010e.net:8000/live/z11/z11/1180.ts
+#EXTINF:-1,DE:Sky-Diseny
+http://sat.010e.net:8000/live/z11/z11/1181.ts
+#EXTINF:-1,DE:SkyTNT-Series
+http://sat.010e.net:8000/live/z11/z11/1182.ts
+#EXTINF:-1,DE:SKYBUNDESLIGA1
+http://sat.010e.net:8000/live/z11/z11/1393.ts
+#EXTINF:-1,DE:SkyTNT-Film
+http://sat.010e.net:8000/live/z11/z11/1183.ts
+#EXTINF:-1,DE:Sky-Atlantic
+http://sat.010e.net:8000/live/z11/z11/1184.ts
