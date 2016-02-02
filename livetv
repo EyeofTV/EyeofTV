@@ -10,11 +10,14 @@ http://eyeoftv.m3u8
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TV 8 HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
 http://hdtvizle.ru/14452/71930/71968/tv8hd.m3u8
 
-#EXTINF:-1 tvg-logo="showtv.png",[COLOR olivedrab]EURO STAR HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
-http://www.iptvsaga.com/play/tv3/0063.m3u8
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR olivedrab]EURO STAR HD[/COLOR]
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12138.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]ATV HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
-http://188.72.131.226/atv.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]ATV AVRUPA HD[/COLOR]
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12186.m3u8
+
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR olivedrab]ATV TÜRKIYE HD[/COLOR]
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12185.m3u8
 
 #EXTINF:-1 tvg-logo="showtv.png",[COLOR olivedrab]SHOW TV HD[/COLOR]
 http://www.iptvsaga.com/play/tv3/0045.m3u8
@@ -142,85 +145,213 @@ http://wms.brtk.net/live/BRTHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="tv.png",[COLOR orange]SPORTS TV[/COLOR]
 rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
 
-
-
-#EXTINF:-1,[COLOR whitesmoke][B]- - DEUTSCHE SENDER - -[/B][/COLOR]
-http://eyeoftv.m3u8
-
-#EXTINF:-1 tvg-logo="tv.png",[COLOR darkolivegreen]SKY BUNDESLIGA HD[/COLOR]
-http://bit.ly/1SaZeLS
-
-#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]SKY SPORT 1 HD[/COLOR]
-http://bit.ly/1K2WC1j
-
-#EXTINF:-1 tvg-logo="tv.png",[COLOR darkolivegreen]SKY SPORT 2 HD[/COLOR]
-http://bit.ly/1PpF3uM
-
-#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]RTL HD[/COLOR]
-http://top-iptv.zapto.org:8000/live/Aria/Aria/482.m3u8
-
-#EXTINF:-1 tvg-logo="tv.png",[COLOR darkolivegreen]PRO7 HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
-http://top-iptv.zapto.org:8000/live/Aria/Aria/481.m3u8
-
-#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]SAT1 HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
-http://top-iptv.zapto.org:8000/live/Aria/Aria/486.m3u8
-
-#EXTINF:-1 tvg-logo="tv.png",[COLOR darkolivegreen]VOX HD[/COLOR]
-http://top-iptv.zapto.org:8000/live/Aria/Aria/487.m3u8
-
-#EXTINF:-1,SKY-SPORT1-Germany
-http://sat.010e.net:8000/live/z11/z11/351.ts
-#EXTINF:-1,SKY-SPORT2-Germany
-http://sat.010e.net:8000/live/z11/z11/352.ts
-#EXTINF:-1,Sky-Select-1HD
-http://sat.010e.net:8000/live/z11/z11/779.ts
-#EXTINF:-1,Sky-Select-2HD
-http://sat.010e.net:8000/live/z11/z11/780.ts
-#EXTINF:-1,Sky-Select-3HD
-http://sat.010e.net:8000/live/z11/z11/781.ts
-#EXTINF:-1,Sky-Select-4HD
-http://sat.010e.net:8000/live/z11/z11/782.ts
-#EXTINF:-1,Sky-Select-5HD
-http://sat.010e.net:8000/live/z11/z11/783.ts
-#EXTINF:-1,SKYDE:CINEMA
-http://sat.010e.net:8000/live/z11/z11/1385.ts
-#EXTINF:-1,DE:SkyAction_HD
-http://sat.010e.net:8000/live/z11/z11/1392.ts
-#EXTINF:-1,DE:Cinema_Plus_24
-http://sat.010e.net:8000/live/z11/z11/1391.ts
-#EXTINF:-1,SKYDE:SKY-COMEDY
-http://sat.010e.net:8000/live/z11/z11/1389.ts
-#EXTINF:-1,RTL-GERMANY
-http://sat.010e.net:8000/live/z11/z11/396.ts
-#EXTINF:-1,DE:_Super_RTL
-http://sat.010e.net:8000/live/z11/z11/1395.ts
-#EXTINF:-1,DE:PRO-7
-http://sat.010e.net:8000/live/z11/z11/1394.ts
-#EXTINF:-1,VOX-GR
-http://sat.010e.net:8000/live/z11/z11/660.ts
-#EXTINF:-1,ARD-Germany
-http://sat.010e.net:8000/live/z11/z11/651.ts
-#EXTINF:-1,ZDF-Germany
-http://sat.010e.net:8000/live/z11/z11/1176.ts
-#EXTINF:-1,Das1-Germany
-http://sat.010e.net:8000/live/z11/z11/652.ts
-#EXTINF:-1,DE:MGM-HD
-http://sat.010e.net:8000/live/z11/z11/653.ts
-#EXTINF:-1,Family-TV-Germany
-http://sat.010e.net:8000/live/z11/z11/1177.ts
-#EXTINF:-1,Sport-Time-TV1
-http://sat.010e.net:8000/live/z11/z11/1178.ts
-#EXTINF:-1,Sport-Time-TV2
-http://sat.010e.net:8000/live/z11/z11/1179.ts
-#EXTINF:-1,DE:Sky-Dmax
-http://sat.010e.net:8000/live/z11/z11/1180.ts
-#EXTINF:-1,DE:Sky-Diseny
-http://sat.010e.net:8000/live/z11/z11/1181.ts
-#EXTINF:-1,DE:SkyTNT-Series
-http://sat.010e.net:8000/live/z11/z11/1182.ts
-#EXTINF:-1,DE:SKYBUNDESLIGA1
-http://sat.010e.net:8000/live/z11/z11/1393.ts
-#EXTINF:-1,DE:SkyTNT-Film
-http://sat.010e.net:8000/live/z11/z11/1183.ts
-#EXTINF:-1,DE:Sky-Atlantic
-http://sat.010e.net:8000/live/z11/z11/1184.ts
+#EXTINF:-1,----- Turchi -----
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/4240.m3u8
+#EXTINF:-1,TR: SALON 1
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12111.m3u8
+#EXTINF:-1,TR: SALON 2
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12112.m3u8
+#EXTINF:-1,TR: SALON 3
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12191.m3u8
+#EXTINF:-1,TR: LOCA 1
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12192.m3u8
+#EXTINF:-1,TR: LOCA 3
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12194.m3u8
+#EXTINF:-1,TR: LOCA 2
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12193.m3u8
+#EXTINF:-1,EX YU: Arena Sport 5 (RS)
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/3418.m3u8
+#EXTINF:-1,TR: SINEMA TV 1
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12114.m3u8
+#EXTINF:-1,TR: SINEMA TV 2
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12115.m3u8
+#EXTINF:-1,TR: SINEMA AKSIYON TV
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12139.m3u8
+#EXTINF:-1,TR: SINEMA  VIP 1
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12113.m3u8
+#EXTINF:-1,TR: MOVIEMAX TÜRK HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12151.m3u8
+#EXTINF:-1,TR: MOVIE SMART PREMIUM HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12152.m3u8
+#EXTINF:-1,TR: MOVIE SMART PREMIUM
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12153.m3u8
+#EXTINF:-1,TR: MOVIE SMART HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12154.m3u8
+#EXTINF:-1,TR: MOVIE SMART CLASSIC
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12155.m3u8
+#EXTINF:-1,TR: MOVIE MAX PREMIUM
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12156.m3u8
+#EXTINF:-1,TR: VIP LIGTV 1 HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12094.m3u8
+#EXTINF:-1,TR: LIGTV 2 VIP
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12100.m3u8
+#EXTINF:-1,TR: LIGTV 1 VIP
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12099.m3u8
+#EXTINF:-1,TR: LIGTV 1 HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12096.m3u8
+#EXTINF:-1,TR: LIG 1
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12095.m3u8
+#EXTINF:-1,TR: LIGTV 2 HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12097.m3u8
+#EXTINF:-1,TR: LIGTV 3 VIP
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12101.m3u8
+#EXTINF:-1,TR: LIGTV 3 HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12098.m3u8
+#EXTINF:-1,TR: TIVIBUSPOR 1
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12104.m3u8
+#EXTINF:-1,TR: TIVIBUSPOR 2
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12105.m3u8
+#EXTINF:-1,TR: TRT SPOR HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12103.m3u8
+#EXTINF:-1,TR: TV EM
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12122.m3u8
+#EXTINF:-1,TR: TV 8 HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12123.m3u8
+#EXTINF:-1,TR: TV 4
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12124.m3u8
+#EXTINF:-1,TR: TV 2 HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12125.m3u8
+#EXTINF:-1,TR: MINIKA GO
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12157.m3u8
+#EXTINF:-1,TR: MINIKA COCUK
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12158.m3u8
+#EXTINF:-1,TR: ligtv yedek
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12102.m3u8
+#EXTINF:-1,TR: KANALTURK HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12159.m3u8
+#EXTINF:-1,TR: KANAL D HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12160.m3u8
+#EXTINF:-1,TR: KANAL A HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12161.m3u8
+#EXTINF:-1,TR: KANAL 7 HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12162.m3u8
+#EXTINF:-1,TR: KANAL 7 AVRUPA
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12163.m3u8
+#EXTINF:-1,TR: IMC
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12164.m3u8
+#EXTINF:-1,TR: IDMAN TV
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12165.m3u8
+#EXTINF:-1,TR: HISTORY CHANNEL-
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12166.m3u8
+#EXTINF:-1,TR: HALK TV
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12167.m3u8
+#EXTINF:-1,TR: HABERTÜRK HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12168.m3u8
+#EXTINF:-1,TR: FOX TV HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12169.m3u8
+#EXTINF:-1,TR: FLASH TV YEDEK
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12170.m3u8
+#EXTINF:-1,TR: FLASH TV
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12171.m3u8
+#EXTINF:-1,TR: FIL TV
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12172.m3u8
+#EXTINF:-1,TR: EKIN TÜRK
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12173.m3u8
+#EXTINF:-1,TR: DREAM TV
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12174.m3u8
+#EXTINF:-1,TR: DREAM TÜRK TV
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12175.m3u8
+#EXTINF:-1,TR: DREAM SALON 2
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12116.m3u8
+#EXTINF:-1,TR: Disney Channel
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12176.m3u8
+#EXTINF:-1,TR: CNN TURK
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12177.m3u8
+#EXTINF:-1,TR: Cem Tv
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12178.m3u8
+#EXTINF:-1,TR: CAN ERZINCAN
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12179.m3u8
+#EXTINF:-1,TR: BURSASPOR TV
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12110.m3u8
+#EXTINF:-1,TR: BUGÜN TV HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12180.m3u8
+#EXTINF:-1,TR: BRT 1
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12181.m3u8
+#EXTINF:-1,TR: BLOMBERG TV
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12182.m3u8
+#EXTINF:-1,TR: BELGESEL 1
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12183.m3u8
+#EXTINF:-1,TR: ÜLKE TV
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12184.m3u8
+#EXTINF:-1,TR: ATV HD TÜRKIYE
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12185.m3u8
+#EXTINF:-1,TR: ATV HD AVRUPA
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12186.m3u8
+#EXTINF:-1,TR: A SPOR
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12109.m3u8
+#EXTINF:-1,TR: TV 10
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12126.m3u8
+#EXTINF:-1,TR: TRT TÜRK
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12127.m3u8
+#EXTINF:-1,TR: TRT OKUL
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12128.m3u8
+#EXTINF:-1,TR: TRT MUZIK
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12129.m3u8
+#EXTINF:-1,TR: TRT HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12195.m3u8
+#EXTINF:-1,TR: TRT HABER HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12130.m3u8
+#EXTINF:-1,TR: TRT DIYANET
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12131.m3u8
+#EXTINF:-1,TR: ViZYON TV 2 HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12121.m3u8
+#EXTINF:-1,TR: TRT COCUK
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12132.m3u8
+#EXTINF:-1,TR: TRT BELGESEL HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12133.m3u8
+#EXTINF:-1,TR: TRT AVAZ
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12134.m3u8
+#EXTINF:-1,TR: TRT 1 HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12196.m3u8
+#EXTINF:-1,TR: YUMURCAK TV
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12117.m3u8
+#EXTINF:-1,TR: Yol Tv
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12118.m3u8
+#EXTINF:-1,TR: YESILCAM TV
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12119.m3u8
+#EXTINF:-1,TR: World Travel Channel
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12120.m3u8
+#EXTINF:-1,TR: TGRT HABER
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12135.m3u8
+#EXTINF:-1,TR: TGRT EU
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12136.m3u8
+#EXTINF:-1,TR: TGRT Belgesel
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12137.m3u8
+#EXTINF:-1,TR: STAR TV HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12138.m3u8
+#EXTINF:-1,TR: SPORm3u8 TV
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12190.m3u8
+#EXTINF:-1,TR: SMART SPOR 2
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12107.m3u8
+#EXTINF:-1,TR: Smart Spor 1
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12106.m3u8
+#EXTINF:-1,TR: SHOW TV TÜRKIYE HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12140.m3u8
+#EXTINF:-1,TR: SHOW TV AVRUPA HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12141.m3u8
+#EXTINF:-1,TR: SEMERKANT TV
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12142.m3u8
+#EXTINF:-1,TR: SAMANYOLU HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12143.m3u8
+#EXTINF:-1,TR: POWERTURK HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12144.m3u8
+#EXTINF:-1,TR: PLANET TÜRK
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12145.m3u8
+#EXTINF:-1,TR: PLANET COCUK
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12146.m3u8
+#EXTINF:-1,TR: ON 4
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12147.m3u8
+#EXTINF:-1,TR: NUMBER ONE TÜRK
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12148.m3u8
+#EXTINF:-1,TR: NUMBER ONE HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12149.m3u8
+#EXTINF:-1,TR: NTV TÜRKIYE
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12150.m3u8
+#EXTINF:-1,TR: NTV SPOR
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12108.m3u8
+#EXTINF:-1,TR: A HABER HD
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12187.m3u8
+#EXTINF:-1,TR: 7/24 SPOR TV
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12188.m3u8
+#EXTINF:-1,TR. KABE TV
+http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12189.m3u8
