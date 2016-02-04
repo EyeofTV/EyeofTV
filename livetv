@@ -267,9 +267,6 @@ http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12097.m3u8
 #EXTINF:-1 tvg-logo="tv.png",[COLOR orange]LIG TV 3 HD[/COLOR]
 http://luckyiptv.ddns.net:23000/live/LANDI/LANDI/12100.m3u8
 
-
-
-
 #EXTINF:0001 tvg-id="dach.ink" tvg-logo="dach.png", [COLOR deeppink]DACH Senderliste - Deutschland Österreich Schweiz[/COLOR]
 http://hls.tv.iptv.ink/iptvink@000000.m3u8|X-Forwarded-For=78.42.18.55
 #EXTINF:0002 tvg-id="daserste.de" group-title="DE Hauptsender" tvg-logo="609281.png", [COLOR gold]Das Erste[/COLOR]
