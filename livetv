@@ -1,6 +1,6 @@
 #EXTM3U
   
-#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 28.01.2016[/B][/COLOR]
+#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 08.02.2016[/B][/COLOR]
 http://eyeoftv.m3u8
 
 #EXTINF:-1,[COLOR whitesmoke][B]- - TÜRKISCHE SENDER - -[/B][/COLOR]
@@ -69,7 +69,7 @@ http://www.iptvsaga.com/play/tv3/0061.m3u8
 #EXTINF:-1 tvg-logo="0810.png",[COLOR olivedrab]TRT AVAZ HD[/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 
-EXTINF:-1 tvg-logo="0809.png",[COLOR orange]TRT MÜZIK HD[/COLOR]
+#EXTINF:-1 tvg-logo="0809.png",[COLOR orange]TRT MÜZIK HD[/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 
 #EXTINF:-1 tvg-logo="0804.png",[COLOR olivedrab]TRT ÇOCUK HD[/COLOR]
@@ -145,8 +145,7 @@ http://wms.brtk.net/live/BRTHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="tv.png",[COLOR orange]SPORTS TV[/COLOR]
 rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
-#EXTINF:-1 tvg-logo="tv.png",[COLOR white]- - ALMAN KANALLAR - -[/COLOR]
- 
+
 #EXTINF:-1,[COLOR whitesmoke][B]- - DEUTSCHE SENDER - -[/B][/COLOR]
 http://eyeoftv.m3u8
 
@@ -177,8 +176,6 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/486.m3u8
 #EXTINF:-1 tvg-logo="tv.png",[COLOR blue]VOX HD[/COLOR]
 http://top-iptv.zapto.org:8000/live/Aria/Aria/487.m3u8
   
-#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]SAT1 HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SAT1 HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
 http://top-iptv.zapto.org:8000/live/Aria/Aria/486.m3u8
-  
-#EXTINF:-1 tvg-logo="tv.png",[COLOR slategray]VOX HD[/COLOR]
-http://top-iptv.zapto.org:8000/live/Aria/Aria/487.m3u8
+
