@@ -1,13 +1,15 @@
 #EXTM3U
-  
-#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 08.02.2016[/B][/COLOR]
+
+#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 28.01.2016[/B][/COLOR]
 http://eyeoftv.m3u8
+
+
 
 #EXTINF:-1,[COLOR whitesmoke][B]- - TÜRKISCHE SENDER - -[/B][/COLOR]
 http://eyeoftv.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TV 8 HD[/COLOR]
-http://tv8.viviso.tv/staging_live_stream.m3u8
+#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TV 8 HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
+http://hdtvizle.ru/14452/71930/71968/tv8hd.m3u8
 
 #EXTINF:-1 tvg-logo="showtv.png",[COLOR olivedrab]EURO STAR HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
 http://www.iptvsaga.com/play/tv3/0063.m3u8
@@ -29,7 +31,7 @@ http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]SAMANYOLU HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
 http://www.iptvsaga.com/play/tv3/0039.m3u8
- 
+
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]FLASH TV[/COLOR]
 http://www.iptvsaga.com/play/tv3/0042.m3u8
 
@@ -50,7 +52,7 @@ http://www.iptvsaga.com/play/tv3/0046.m3u8
 
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TRT HD[/COLOR]
 http://www.iptvsaga.com/play/tv3/0036.m3u8
- 
+
 #EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]TRT 1 HD[/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 
@@ -85,7 +87,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8?sd=10&
 http://kanalturk-live.ercdn.com/kanalturk.m3u8
 
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]CNN TÜRK HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0051.m3u8
+http://hdtvizle.ru/14452/71930/71968/cnn.m3u8
 
 #EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]HABERTÜRK HD[/COLOR]
 http://www.iptvsaga.com/play/tv3/0073.m3u8
@@ -110,14 +112,12 @@ mms://yayin7.canliyayin.org/sinema6
 
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TV 2 HD[/COLOR]
 http://www.iptvsaga.com/play/tv3/0047.m3u8
-#EXTINF:-1 tvg-logo="trt.png",[COLOR red]FIL TV HD[/COLOR]
 
 #EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]FIL TV HD[/COLOR]
 http://www.iptvsaga.com/play/tv3/0067.m3u8
 
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]BLOOMBERG HD[/COLOR]
 http://www.iptvsaga.com/play/tv3/0066.m3u8
-#EXTINF:-1 tvg-logo="trt.png",[COLOR red]NTV SPOR HD[/COLOR]
 
 #EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]NTV SPOR HD[/COLOR]
 http://www.iptvsaga.com/play/tv3/0057.m3u8
@@ -146,32 +146,23 @@ rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
 #EXTINF:-1,[COLOR whitesmoke][B]- - DEUTSCHE SENDER - -[/B][/COLOR]
 http://eyeoftv.m3u8
 
-#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]SKY BUNDESLIGA1 HD[/COLOR]
-http://top-iptv.zapto.org:8000/live/Aria/Aria/471.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR darkolivegreen]SKY BUNDESLIGA HD[/COLOR]
+http://bit.ly/1SaZeLS
 
-#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SKY BUNDESLIGA HD[/COLOR]
-http://top-iptv.zapto.org:8000/live/Aria/Aria/468.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]SKY SPORT 1 HD[/COLOR]
+http://bit.ly/1K2WC1j
 
-#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]SKY SPORT1 HD[/COLOR]
-http://top-iptv.zapto.org:8000/live/Aria/Aria/495.m3u8
-
-#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SKY SPORT2 HD[/COLOR]
-http://top-iptv.zapto.org:8000/live/Aria/Aria/494.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR darkolivegreen]SKY SPORT 2 HD[/COLOR]
+http://bit.ly/1PpF3uM
 
 #EXTINF:-1 tvg-logo="tv.png",[COLOR blue]RTL HD[/COLOR]
 http://top-iptv.zapto.org:8000/live/Aria/Aria/482.m3u8
 
-#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SKY SELECT HD[/COLOR]
-http://top-iptv.zapto.org:8000/live/Aria/Aria/473.m3u8
-
-#EXTINF:-1 tvg-logo="tv.png",[COLOR slategray]PRO7 HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
+#EXTINF:-1 tvg-logo="tv.png",[COLOR darkolivegreen]PRO7 HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
 http://top-iptv.zapto.org:8000/live/Aria/Aria/481.m3u8
 
-#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SAT1 HD[/COLOR]
+#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]SAT1 HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
 http://top-iptv.zapto.org:8000/live/Aria/Aria/486.m3u8
 
-#EXTINF:-1 tvg-logo="tv.png",[COLOR blue]VOX HD[/COLOR]
+#EXTINF:-1 tvg-logo="tv.png",[COLOR darkolivegreen]VOX HD[/COLOR]
 http://top-iptv.zapto.org:8000/live/Aria/Aria/487.m3u8
-  
-#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]SAT1 HD[/COLOR]  [COLOR red](awaiting update)[/COLOR]
-http://top-iptv.zapto.org:8000/live/Aria/Aria/486.m3u8
