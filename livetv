@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 14.02.2016[/B][/COLOR]
 http://eyeoftv.m3u8
 
-#EXTINF:-1,[COLOR whitesmoke][B]- - TÜRKISCHE SENDER - -[/B][/COLOR]
-http://eyeoftv.m3u8
+#EXTINF:-1 tvg-logo="showtv.png",[COLOR olivedrab]HALK TV HD[/COLOR]
+http://origin.live.web.tv.streamprovider.net/live/b2a2d963ceebe309555440bf4b90bcc6_live_0_0/index.m3u8
 
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TV 8 HD[/COLOR]
 http://hdtvizle.ru/14452/71930/71968/tv8hd.m3u8
@@ -13,7 +13,7 @@ http://hdtvizle.ru/14452/71930/71968/tv8hd.m3u8
 http://www.iptvsaga.com/play/tv3/0063.m3u8
 
 #EXTINF:-1 tvg-logo="trt.png",[COLOR orange]ATV HD[/COLOR]
-http://188.72.131.226/atv.m3u8
+http://origin.live.web.tv.streamprovider.net/live/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
 
 #EXTINF:-1 tvg-logo="showtv.png",[COLOR olivedrab]SHOW TV AVRUPA HD[/COLOR]
 http://www.iptvsaga.com/play/tv3/0045.m3u8
