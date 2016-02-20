@@ -2,156 +2,34 @@
 
 
 
-
-#EXTINF:-1,TR_YABAN_TV 
-http://www.t12v.com:8000/live/400/400/251.ts 
-#EXTINF:-1,TR_TV_8 
-http://www.t12v.com:8000/live/400/400/704.ts 
-#EXTINF:-1,TR_TV2 
-http://www.t12v.com:8000/live/400/400/255.ts 
-#EXTINF:-1,TR_TRT_HD 
-http://www.t12v.com:8000/live/400/400/705.ts 
-#EXTINF:-1,TR_TRT_COCUK 
-http://www.t12v.com:8000/live/400/400/252.ts 
-#EXTINF:-1,TR_TRT_BELGESEL 
-http://www.t12v.com:8000/live/400/400/721.ts 
-#EXTINF:-1,TR_TRT_1_HABER_HD 
-http://www.t12v.com:8000/live/400/400/246.ts 
-#EXTINF:-1,TR_STAR_TV 
-http://www.t12v.com:8000/live/400/400/891.ts 
-#EXTINF:-1,TR_SKY 
-http://www.t12v.com:8000/live/400/400/888.ts 
-#EXTINF:-1,TR_SINEMA_YESILCAM_1 
-http://www.t12v.com:8000/live/400/400/887.ts 
-#EXTINF:-1,TR_SINEMA_TV_2_HD 
-http://www.t12v.com:8000/live/400/400/20.ts 
-#EXTINF:-1,TR_SINEMA_AILE_HD 
-http://www.t12v.com:8000/live/400/400/250.ts 
-#EXTINF:-1,TR_SHOW_TV 
-http://www.t12v.com:8000/live/400/400/892.ts 
-#EXTINF:-1,TR_SALON_3 
-http://www.t12v.com:8000/live/400/400/893.ts 
-#EXTINF:-1,TR_SALON_2 
-http://www.t12v.com:8000/live/400/400/894.ts 
-#EXTINF:-1,TR_SALON_1 
-http://www.t12v.com:8000/live/400/400/22.ts 
-#EXTINF:-1,TR_POWER_TURK 
-http://www.t12v.com:8000/live/400/400/244.ts 
-#EXTINF:-1,TR_NTV_SPOR 
-http://www.t12v.com:8000/live/400/400/215.ts 
-#EXTINF:-1,TR_NTV 
-http://www.t12v.com:8000/live/400/400/722.ts 
-#EXTINF:-1,TR_NR_1 
-http://www.t12v.com:8000/live/400/400/108.ts 
-#EXTINF:-1,TR_NICKOLEDION 
-http://www.t12v.com:8000/live/400/400/702.ts 
-#EXTINF:-1,TR_NAT_WILD_HD 
-http://www.t12v.com:8000/live/400/400/889.ts 
-#EXTINF:-1,TR_MOVIE_SMART_2 
-http://www.t12v.com:8000/live/400/400/769.ts 
-#EXTINF:-1,TR_MOVIE_SMART 
-http://www.t12v.com:8000/live/400/400/726.ts 
-#EXTINF:-1,TR_MOVIE_PREMIER_HD 
-http://www.t12v.com:8000/live/400/400/703.ts 
-#EXTINF:-1,TR_MOVIESMART_PLATIN_HD 
-http://www.t12v.com:8000/live/400/400/725.ts 
-#EXTINF:-1,TR_MOVIESMART_GOLD_HD 
-http://www.t12v.com:8000/live/400/400/724.ts 
-#EXTINF:-1,TR_MOVIEMAX_SPEED_STARS_HD 
-http://www.t12v.com:8000/live/400/400/39.ts 
-#EXTINF:-1,TR_MOVIEMAX_FESTIVAL 
-http://www.t12v.com:8000/live/400/400/708.ts 
-#EXTINF:-1,TR_MINIKA 
-http://www.t12v.com:8000/live/400/400/158.ts 
-#EXTINF:-1,TR_MAX_PREMIER 
-http://www.t12v.com:8000/live/400/400/944.ts 
-#EXTINF:-1,TR_LOCA_3 
-http://www.t12v.com:8000/live/400/400/71.ts 
-#EXTINF:-1,TR_LOCA_2 
-http://www.t12v.com:8000/live/400/400/905.ts 
-#EXTINF:-1,TR_LIG_TV_3 
-http://www.t12v.com:8000/live/400/400/895.ts 
-#EXTINF:-1,TR_LIG_TV_2 
-http://www.t12v.com:8000/live/400/400/896.ts 
-#EXTINF:-1,TR_LIG_TV_1 
-http://www.t12v.com:8000/live/400/400/129.ts 
-#EXTINF:-1,TR_KANAL_TURK 
-http://www.t12v.com:8000/live/400/400/128.ts 
-#EXTINF:-1,TR_KANAL_D_HD 
-http://www.t12v.com:8000/live/400/400/175.ts 
-#EXTINF:-1,TR_KANAL_7 
-http://www.t12v.com:8000/live/400/400/937.ts 
-#EXTINF:-1,TR_HABER_TURK 
-http://www.t12v.com:8000/live/400/400/81.ts 
-#EXTINF:-1,TR_FOX_TV 
-http://www.t12v.com:8000/live/400/400/86.ts 
-#EXTINF:-1,TR_E2 
-http://www.t12v.com:8000/live/400/400/1167.ts 
-#EXTINF:-1,TR_DREAM_TV 
-http://www.t12v.com:8000/live/400/400/1168.ts 
-#EXTINF:-1,TR_DREAM_TURK 
-http://www.t12v.com:8000/live/400/400/30.ts 
-#EXTINF:-1,TR_CNN 
-http://www.t12v.com:8000/live/400/400/939.ts 
-#EXTINF:-1,TR_CNBC_E 
-http://www.t12v.com:8000/live/400/400/898.ts 
-#EXTINF:-1,TR_BLOOMBERG_HT 
-http://www.t12v.com:8000/live/400/400/111.ts 
-#EXTINF:-1,TR_BEYAZ_TV 
-http://www.t12v.com:8000/live/400/400/824.ts 
-#EXTINF:-1,TR_A_SPORT 
-http://www.t12v.com:8000/live/400/400/151.ts 
-#EXTINF:-1,TR_ATV_HD
-http://www.t12v.com:8000/live/400/400/798.ts  
-
-#EXTINF:-1,TURK_YEREL:ADA TV
+#EXTINF:-1,ADA TV 
 rtmp://sponsored.ncbtv.com:1835/live/42e_adatv
-#EXTINF:-1,TURK_YEREL:AKDENIZ TV
+#EXTINF:-1,AKDENIZ TV
 http://77.245.156.180:554/live/akdeniztv1/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:AKSU TV
+#EXTINF:-1,AKSU TV
 rtmp://stream.taksimbilisim.com/aksutv/bant1
-#EXTINF:-1,TURK_YEREL:ALANYA ATV
+#EXTINF:-1,ALANYA TV
 rtmp://stream2.taksimbilisim.com/alanyatv/bant1
-#EXTINF:-1,TURK_YEREL:ART AMASYA
-http://95.211.198.204:1935/akamairtmp/c7f2ec3edb33e443fd89fdf86711a717_live_0_0/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:ART UŞAK
+#EXTINF:-1,USAK TV
 rtmp://stream.taksimbilisim.com:1935/usakart/bant1
-#EXTINF:-1,TURK_YEREL:AY TV
-rtmp://stream.taksimbilisim.com/aytv/bant1
-#EXTINF:-1,TURK_YEREL:BAFRA TV
+#EXTINF:-1,BAFRA TV
 http://embed.wistia.com/deliveries/409d7951ac3996784f928778b8e9a311f4587194.bin
-#EXTINF:-1,TURK_YEREL:BALIKESIR KENT TV
+#EXTINF:-1,KENT TV
 rtmp://stream2.taksimbilisim.com/kenttv/bant1
-#EXTINF:-1,TURK_YEREL:BALKAN TV
-rtmp://yayin.tvdunyasi.tv/live/balkanrtv
-#EXTINF:-1,TURK_YEREL:BARIŞ TV
-http://yayin3.canlitv.com:1935/live/baristv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:BATIYAKASI TV
-rtmp://s01.speednext.com:1935/batiyakasitv/batiyakasitv
-#EXTINF:-1,TURK_YEREL:BEDİR TV
-http://yayin3.canlitv.com:1935/live/bedirtv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:BELGESEL TV MMS -480*384
+#EXTINF:-1,BELGESEL TV
 mms://yayin.networkbil.com/belgeseltv
-#EXTINF:-1,TURK_YEREL:BERKET TV
-http://37.77.2.236:1935/bereket/bereket.stream/chunklist_w1312420140.m3u8
-#EXTINF:-1,TURK_YEREL:BEST TV
+#EXTINF:-1,BEST TV
 http://yayin3.canlitv.com:1935/live/besttv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:BODRUM KENT TV
+#EXTINF:-1,KENT TV
 http://tvlive.web.tv.streamprovider.net/akamairtmp/5234d3573814d6d60ad0a236a3b0e6f9_live_0_0/index.m3u8
-#EXTINF:-1,TURK_YEREL:BOZTEPE TV
+#EXTINF:-1,BOZTEPE TV
 rtmp://stream.taksimbilisim.com:1935/btv/bant1
-#EXTINF:-1,TURK_YEREL:BRT 2
+#EXTINF:-1,BRT 2
 rtmp://sponsored.ncbtv.com:1835/live/42e_brt2
-#EXTINF:-1,TURK_YEREL:BURSA ASTV
+#EXTINF:-1,BURSA ASTV
 http://yayin3.canlitv.com:1935/live/astv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:BURSA LINE TV
-rtmp://77.92.138.4:1936/live/bursalinetv
-#EXTINF:-1,TURK_YEREL:BURSA OLAY TV
+#EXTINF:-1,BURSA OLAY TV
 rtmp://canli.olaytv.com.tr:1935/olaytv/olaytv
-#EXTINF:-1,TURK_YEREL:BURSA OLAY TV
-http://canli.olaytv.com.tr:1935/olaytv/olaytv/ratus42.m3u8?ext=.mp4
-#EXTINF:-1,TURK_YEREL:CAN ERZINCAN
-rtmp://50.7.242.242/live//cantverzincan
 #EXTINF:-1,TURK_YEREL:CAN TV ERZINCAN
 rtmp://yayin.tvdunyasi.tv/live/cantverzincan
 #EXTINF:-1,TURK_YEREL:ÇAY TV
