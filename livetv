@@ -1,699 +1,380 @@
 #EXTM3U
 
-#EXTINF:-1,ADA TV 
-rtmp://sponsored.ncbtv.com:1835/live/42e_adatv
-#EXTINF:-1,AKDENIZ TV
-http://77.245.156.180:554/live/akdeniztv1/ratus42.m3u8
-#EXTINF:-1,AKSU TV
-rtmp://stream.taksimbilisim.com/aksutv/bant1
-#EXTINF:-1,ALANYA TV
-rtmp://stream2.taksimbilisim.com/alanyatv/bant1
-#EXTINF:-1,USAK TV
-rtmp://stream.taksimbilisim.com:1935/usakart/bant1
-#EXTINF:-1,BAFRA TV
-http://embed.wistia.com/deliveries/409d7951ac3996784f928778b8e9a311f4587194.bin
-#EXTINF:-1,KENT TV
-rtmp://stream2.taksimbilisim.com/kenttv/bant1
-#EXTINF:-1,BELGESEL TV
-mms://yayin.networkbil.com/belgeseltv
-#EXTINF:-1,BEST TV
-http://yayin3.canlitv.com:1935/live/besttv/ratus42.m3u8
-#EXTINF:-1,KENT TV
-http://tvlive.web.tv.streamprovider.net/akamairtmp/5234d3573814d6d60ad0a236a3b0e6f9_live_0_0/index.m3u8
-#EXTINF:-1,BOZTEPE TV
-rtmp://stream.taksimbilisim.com:1935/btv/bant1
-#EXTINF:-1,BRT 2
-rtmp://sponsored.ncbtv.com:1835/live/42e_brt2
-#EXTINF:-1,BURSA ASTV
-http://yayin3.canlitv.com:1935/live/astv/ratus42.m3u8
-#EXTINF:-1,BURSA OLAY TV
-rtmp://canli.olaytv.com.tr:1935/olaytv/olaytv
-#EXTINF:-1,TURK_YEREL:CAN TV ERZINCAN
-rtmp://yayin.tvdunyasi.tv/live/cantverzincan
-#EXTINF:-1,TURK_YEREL:ÇAY TV
-rtmp://stream2.taksimbilisim.com:1935/caytv/bant1
-#EXTINF:-1,TURK_YEREL:CEM TV
-rtmp://stream.pivol.com:1935/live/cemtv.flv
-#EXTINF:-1,TURK_YEREL:DEHA TV
-rtmp://stream2.taksimbilisim.com/deha//bant1
-#EXTINF:-1,TURK_YEREL:DENGE TV
-http://yayin3.canlitv.com:1935/live/dengetv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:DESTAN TV
-http://yayin3.canlitv.com:1935/live/destantv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:DİYALOG TV
-http://yayin3.canlitv.com:1935/live/diyalogtv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:DRT DENİZLİ
-rtmp://stream2.taksimbilisim.com:1935/drt/bant1
-#EXTINF:-1,TURK_YEREL:EDESSA TV
-rtmp://185.8.33.25/edessatv/edessatv.flv
-#EXTINF:-1,TURK_YEREL:EGE UNIVERSITESI
-rtmp://155.223.63.126/livepkgr/_definst_/canli3
-#EXTINF:-1,TURK_YEREL:EGE ÜNİVERSİTESİ TV
-http://stream.ege.edu.tr/canli.m3u8
-#EXTINF:-1,TURK_YEREL:EGETÜRK TV
-rtmp://stream.taksimbilisim.com/egeturk/bant1
-#EXTINF:-1,TURK_YEREL:Elazig Canal 23
-rtmp://yayin.tvdunyasi.tv:1935/live/elazig_kanale
-#EXTINF:-1,TURK_YEREL:ERCİYES TV
-http://yayin3.canlitv.com:1935/live/erciyestv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:ESKİŞEHİR KANAL 26
-rtmp://50.7.242.242/live//eskisehir_kanal26
-#EXTINF:-1,TURK_YEREL:ETV EDIRNE
-http://yayin3.canlitv.com:1935/live/edirnetv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:FIRAT TV
-rtmp://yayin5.canliyayin.org/live/kanalfirat
-#EXTINF:-1,TURK_YEREL:GAZIANTEP OLAY TV
-rtmp://stream.taksimbilisim.com/olaytv/bant1
-#EXTINF:-1,TURK_YEREL:GTV
-rtmp://stream2.taksimbilisim.com/gtv//bant1
-#EXTINF:-1,TURK_YEREL:GÜNEYDOĞU TV
-rtmp://stream2.taksimbilisim.com:1935/gtv/bant1
-#EXTINF:-1,TURK_YEREL:HABER 61 TV rtmp 900*506
-rtmp://win8.yayinda.org/haber61tv/haber61tv
-#EXTINF:-1,TURK_YEREL:HALIS TV
-http://yayin3.canlitv.com:1935/live/halistv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:HOROZ TV
-rtmp://mediaserver1.baynet.com.tr/livepkgr/horoztv
-#EXTINF:-1,TURK_YEREL:İÇEL TV
-rtmp://yayin.tvdunyasi.com/live/iceltv
-#EXTINF:-1,TURK_YEREL:İSPARTA KANAL 32
-rtmp://50.7.242.242/live//kanal32
-#EXTINF:-1,TURK_YEREL:İSTANBUL TİMES TV
-rtmp://s01.speednext.com:1935/istanbultimes/istanbultimes
-#EXTINF:-1,TURK_YEREL:ISTANBUL TV
-rtmp://s01.speednext.com:1935/istanbultv/istanbultv
-#EXTINF:-1,TURK_YEREL:Istweb TV (HQ)
-rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
-#EXTINF:-1,TURK_YEREL:Istweb TV (MQ)
-rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza2
-#EXTINF:-1,TURK_YEREL:KAÇKAR TV RİZE
-rtmp://yayin.tvdunyasi.tv/live/rize_kackartv
-#EXTINF:-1,TURK_YEREL:KAMPUS TV ERCİYES
-rtmp://193.255.89.90:1935/live/kampustv
-#EXTINF:-1,TURK_YEREL:KANAL 15
-http://77.245.150.95/hds-live/livepkgr/_definst_/liveevent/livestream.f4m
-#EXTINF:-1,TURK_YEREL:KANAL 19
-rtmp://yayin.tvdunyasi.tv/live/corum_kanal19
-#EXTINF:-1,TURK_YEREL:KANAL 19
-rtmp://50.7.242.242/live//corum_kanal19
-#EXTINF:-1,TURK_YEREL:KANAL 26
-rtmp://yayin.tvdunyasi.tv/live/eskisehir_kanal26
-#EXTINF:-1,TURK_YEREL:KANAL 26 ESKİŞEHİR
-rtmp://yayin.tvdunyasi.tv:1935/live/eskisehir_kanal26
-#EXTINF:-1,TURK_YEREL:KANAL 28 mms
-mms://50.7.242.242/kanal28
-#EXTINF:-1,TURK_YEREL:KANAL 3 Eskisehir
-rtmp://stream.taksimbilisim.com/kanal3/bant1
-#EXTINF:-1,TURK_YEREL:KANAL 32
-rtmp://yayin.tvdunyasi.tv/live/kanal32
-#EXTINF:-1,TURK_YEREL:KANAL 33
-http://95.211.198.204:1935/akamairtmp/cd6ccc20dcdcb60eb1c1dc78a985a2bc_live_0_0/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:KANAL 35
-rtmp://kanal35.live.cubecdn.net/kanal35/stream_1
-#EXTINF:-1,TURK_YEREL:KANAL 43
-http://yayin3.canlitv.com:1935/live/kanal43/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:KANAL 52
-rtmp://stream.taksimbilisim.com:1935/tv52/bant1
-#EXTINF:-1,TURK_YEREL:KANAL 54
-rtmp://yayin.tvdunyasi.tv/live/sakarya_kanal54
-#EXTINF:-1,TURK_YEREL:KANAL 55
-rtmp://stream.taksimbilisim.com/kanal55/bant1
-#EXTINF:-1,TURK_YEREL:KANAL 56
-http://s01.speednext.com:1935/kanal56/kanal56/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:KANAL 58
-http://yayin3.canlitv.com:1935/live/kanal58/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:KANAL 60 TOKAT
-rtmp://yayin.tvdunyasi.tv/live/tokat_kanal60
-#EXTINF:-1,TURK_YEREL:KANAL 66 mms
-mms://yayin7.canliyayin.org/sinema
-#EXTINF:-1,TURK_YEREL:KANAL 68
-rtmp://stream.taksimbilisim.com:1935/kanal68/bant1
-#EXTINF:-1,TURK_YEREL:KANAL 78
-rtmp://yayin.tvdunyasi.tv/live/karabuk_kanal78
-#EXTINF:-1,TURK_YEREL:KANAL A rtmp 640*512
-rtmp://yayin.yayin.tv.tr:1935/kanala/kanala2
-#EXTINF:-1,TURK_YEREL:KANAL ALANYA
-rtmp://canliyayin.kanalalanya.com:1935/live/liveStream
-#EXTINF:-1,TURK_YEREL:KANAL E
-rtmp://yayin.tvdunyasi.tv/live/elazig_kanale
-#EXTINF:-1,TURK_YEREL:KANAL F
-rtmp://stream.taksimbilisim.com/kanalf/bant1
-#EXTINF:-1,TURK_YEREL:KANAL FIRAT
-rtmp://yayin5.canliyayin.org/live/kanalfirat
-#EXTINF:-1,TURK_YEREL:KANAL G
-http://yayin3.canliyayin.org:1935/kanalg/kanalg/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:KANAL G
-rtmp://yayin3.canliyayin.org:1935/kanalg/kanalg
-#EXTINF:-1,TURK_YEREL:KANAL LİKYA
-http://yayin3.canlitv.com:1935/live/kanallikya/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:KANAL M mms
-mms://yayin.networkbil.com/kanalm
-#EXTINF:-1,TURK_YEREL:KANAL SIM
-rtmp://sponsored.ncbtv.com:1835/live/42e_kanalsim
-#EXTINF:-1,TURK_YEREL:KANAL URFA
-rtmp://stream.taksimbilisim.com/kanalurfa/bant1
-#EXTINF:-1,TURK_YEREL:KARADENIZ TV
-rtmp://50.7.129.202/karadeniztv/karadeniz2
-#EXTINF:-1,TURK_YEREL:KARAHISAR TV
-http://tvlive.web.tv.streamprovider.net/akamairtmp/2e6d99361f1bc88df761f133da7033c9_live_0_0/index.m3u8
-#EXTINF:-1,TURK_YEREL:KAY TV
-http://yayin3.canlitv.com:1935/live/kaytv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:KENT TV
-http://origin-vod.web.tv.streamprovider.net/media/_definst_/ot/uu/smil:otuuvixe1vs.smil/chunklist_b1500000.m3u8
-#EXTINF:-1,TURK_YEREL:KENT TV
-rtmp://stream2.taksimbilisim.com:1935/kenttv/bant1
-#EXTINF:-1,TURK_YEREL:KGRT
-rtmp://streaming.linuxhosting.gen.tr/Kgrt/Kgrt
-#EXTINF:-1,TURK_YEREL:KIBRIS AS TV
-http://yayin3.canlitv.com:1935/live/kibrisastv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:KIBRIS GENC TV
-rtmp://sponsored.ncbtv.com:1835/live/42e_genctv
-#EXTINF:-1,TURK_YEREL:KIBRIS KANAL T
-http://yayin3.canlitv.com:1935/live/kibriskanalt/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:KIBRIS TV
-rtmp://sponsored.ncbtv.com:1835/live/42e_kibristv
-#EXTINF:-1,TURK_YEREL:KIRŞEHİR AHİ TV
-http://yayin3.canlitv.com:1935/live/ahitv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:KIRŞEHİR TV
-rtmp://yayin5.canliyayin.org/live/kirsehirtv
-#EXTINF:-1,TURK_YEREL:KORDON TV
-rtmp://92.42.35.100/live/kordontv/kordontv
-#EXTINF:-1,TURK_YEREL:KOROGLU TV
-rtmp://stream.taksimbilisim.com/koroglutv/bant1
-#EXTINF:-1,TURK_YEREL:KOY TV
-http://37.75.10.20:80/koytv/koytv/ratus42.m3u8?ext=.mp4
-#EXTINF:-1,TURK_YEREL:KUZEY RTV m3u8 640*360
-http://origin-vod.web.tv.streamprovider.net/media/_definst_/gc/i3/smil:gci3zqo0rls.smil/chunklist_b550000.m3u8
-#EXTINF:-1,TURK_YEREL:MALATYA ER TV
-rtmp://yayin5.canliyayin.org/malatyaertv/malatyaertv
-#EXTINF:-1,TURK_YEREL:MALATYA GUNESž TV
-http://yayin3.canlitv.com:1935/live/malatyagunestv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:MALATYAM TV
-http://yayin5.canliyayin.org:1935/malatyamtv/malatyamtv/ratus42.m3u8?ext=.mp4
-#EXTINF:-1,TURK_YEREL:MARMARA TV
-http://yayin3.canliyayin.org:1935/marmaratv/marmaratv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:MARMARA TV
-rtmp://yayin3.canliyayin.org/marmaratv/marmaratv
-#EXTINF:-1,TURK_YEREL:MARMARİS KANAL 48
-rtmp://stream.n2.noc.com.tr/livecam/kanal48.stream
-#EXTINF:-1,TURK_YEREL:MARMARIS TV
-http://yayin3.canlitv.com:1935/live/marmaristv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:MAVI KARADENIZ
-rtmp://stream.taksimbilisim.com:1935/mavikaradeniz/bant1
-#EXTINF:-1,TURK_YEREL:MAVİ KARADENİZ TV
-http://yayin3.canlitv.com:1935/live/mavikaradeniztv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:MERCAN TV
-http://yayin3.canlitv.com:1935/live/mercantv/ratus42.m3u8
-#EXTINF:-1,TURK_YEREL:MPL TV rtsp smart calismaz
-rtsp://mpl.dyndns.tv/MPL
-#EXTINF:-1,TURK_YEREL:Zonguldak 67 TV mms
-mms://50.7.242.242/actsistem
-#EXTINF:-1,DTURK_DSMART:Sinema 01
-http://37.187.57.123:56000/live/gala1/playlist.m3u8
-#EXTINF:-1,DTURK_DSMART:Sinema 02
-http://37.187.57.123:56000/live/gala2/playlist.m3u8
-#EXTINF:-1,DTURK_DSMART:Sinema 03
-http://37.187.57.123:56000/live/gala3/playlist.m3u8
-#EXTINF:-1,DTURK_DSMART:Sinema 04
-http://37.187.57.123:56000/live/gala4/playlist.m3u8
-#EXTINF:-1,DTURK_DSMART:Sinema 05
-http://37.187.57.123:56000/live/gala5/playlist.m3u8
-#EXTINF:-1,DTURK_DSMART:Sinema 06
-http://37.187.57.123:56000/live/gala6/playlist.m3u8
-#EXTINF:-1,DTURK_DSMART:Sinema 07
-http://37.187.57.123:56000/live/gala7/playlist.m3u8
-#EXTINF:-1,DTURK_DSMART:Sinema 08
-http://37.187.57.123:56000/live/gala8/playlist.m3u8
-#EXTINF:-1,DTURK_DSMART:Sinema 09
-http://37.187.57.123:56000/live/gala9/playlist.m3u8
-#EXTINF:-1,DTURK_DSMART:Sinema 10
-http://37.187.57.123:56000/live/gala10/playlist.m3u8
-#EXTINF:-1,DTURK_DSMART:Sinema 11
-http://37.187.57.123:56000/live/gala11/playlist.m3u8
-#EXTINF:-1,DTURK_DSMART:Sinema 12
-http://37.187.57.123:56000/live/gala12/playlist.m3u8
-#EXTINF:-1,DTURK_DSMART:Sinema 13
-http://37.187.57.123:56000/live/gala13/playlist.m3u8
-#EXTINF:-1,DTURK_DSMART:Sinema 14
-http://37.187.57.123:56000/live/gala14/playlist.m3u8
-#EXTINF:-1,DTURK_DSMART:SİNEMA 2 Filmler zamanla değişiyor
-http://goo.gl/Rx54Qi
-#EXTINF:-1,DTURK_DSMART:SİNEMA 2 Filmler zamanla değişiyor
-http://goo.gl/Rx54Qi
-#EXTINF:-1,DTURK_DSMART:SİNEMA 3 Filmler zamanla değişiyor
-http://goo.gl/0vPLnn
-#EXTINF:-1,DTURK_DSMART:SİNEMA 3 Filmler zamanla değişiyor
-http://goo.gl/0vPLnn
-#EXTINF:-1,DTURK_DSMART:SINEMA TV YAYIN-2
-http://avaralarforum.nazuka.net/avaralarforum_sinema_TV:5002
-#EXTINF:-1,DTURK_DSMART:SINEMA TV YAYIN-3
-http://avaralarforum.nazuka.net/avaralarforum_sinema_TV:5003
-
-#EXTINF:0,SHOW TV TV
-http://origin2.live.web.tv.streamprovider.net/streams/1c3194be3e42b53e3b61831517eb972a_live_0_0/index.m3u8
-#EXTINF:0,STAR TV
-http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
-#EXTINF:1,IMC TV
-http://origin.live.web.tv.streamprovider.net/streams/205a2db5a33b65589f22dd1c159bdb44_live_0_0/index.m3u8
-#EXTINF:-1,KanalD HD
-http://212.224.80.71/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
-#EXTINF:-1,HALK TV
-http://bit.do/haktv
-#EXTINF:-1,ATV
-http://bit.do/Atv
-#EXTINF:-1,24 TV m3u8
-http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
-#EXTINF:-1,BENGÜ TÜRK 864*482
-http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=1640816579
-#EXTINF:-1,BEYAZ TV
-http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
-#EXTINF:-1,BLOOMBERG HT m3u8
-http://mn-l.mncdn.com/bloomberght/bloomberght2/playlist.m3u8
-#EXTINF:-1,BUGÜN 1280*738
-http://buguntv-live.ercdn.com/buguntv1.m3u8
-#EXTINF:-1,CNN TURK HD
-http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1,FİL TV 1024*578
-http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
-#EXTINF:-1,FOX HD 1280*738
-http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
-#EXTINF:-1,HABERTÜRK m3u8
-http://mn-l.mncdn.com/haberturk/haberturk2/playlist.m3u8
-#EXTINF:-1,HİLAL TV m3u8 720*576
-http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/playlist.m3u8
-#EXTINF:-1,IRMAK TV 1280*720
-http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
-#EXTINF:-1,KANAL 7 HD 720*418
-http://livede.gostream.nl/kanal7hq/kanal7hq/playlist.m3u8
-#EXTINF:-1,KANAL D
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1,KANAL TÜRK 1280*720
-http://kanalturk-live.ercdn.com/kanalturk1.m3u8
-#EXTINF:-1,MEDENIYET TV 1280*720
-http://nl-1-ms-origin.noccdn.com/cdn/53bf0671059c1/playlist.m3u8
-#EXTINF:-1,POWER TV HD 1280*738
-http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
-#EXTINF:-1,POWERTURK HD 1280*738
-http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8
-#EXTINF:-1,SEMERKAND HD m3u8
-http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/playlist.m3u8
-#EXTINF:-1,SHOW TV HD 960*546
-http://live-ciner.mncdn.net/showtv/showtv2/playlist.m3u8
-#EXTINF:-1,TGRT BELGESEL
-http://tgrtbelgesel.mediatriple.net:1935/tgrtbliveedge/smil:tgrtb.smil/playlist.m3u8
-#EXTINF:-1,TRT 1 HD 1280*738
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT ÇOCUK 1024*578
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT HABER 1280*738
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT TÜRK 1024*578
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT WORLD 1280*738
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TV 2
-http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:-1,ÜLKE TV HD m3u8 -720*500
-http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
-#EXTINF:-1,24 TV
-http://mn-l.mncdn.com:1935/kanal24/kanal243/playlist.m3u8
-#EXTINF:-1,4 Karamel
-http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
-#EXTINF:-1,7-24TV.m3u8
-http://playlistiptv.com/iptv/tr/playlist_7-24TV.m3u8
-#EXTINF:-1,A9 TV rtmp 640*360 rtmp
-rtmp://live.harunyahya.tv/harunyahyalive/hytest1
-#EXTINF:-1,ANC TV rtmp 600*350
-rtmp://212.64.200.238/livepkgr/livestream
-#EXTINF:-1,B TV
-http://stream.taksimbilisim.com:1935/btv/bant1/BTV.m3u8
-#EXTINF:-1,BAHARTURK
-http://stream.taksimbilisim.com:1935/baharturk/bant1/BAHARTURK.m3u8
-#EXTINF:-1,BENGUTURK TV
-http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8
-#EXTINF:-1,BLOOMBERG HT
-http://mn-l.mncdn.com/bloomberght/bloomberght2/playlist.m3u8
-#EXTINF:-1,BUGUN TV
-http://buguntv-live.ercdn.com/buguntv.m3u8
-#EXTINF:-1,CAPUL TV
-rtmp://s9.tilda.com.tr:80/live/Stream1
-#EXTINF:-1,CNN TURK HD
-http://212.224.108.80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1,DHA
-http://live.netd.com.tr/S1/HLS_LIVE/dha1/index.m3u8
-#EXTINF:-1,DOCUMANTARY TR http
-http://188.165.239.200:7088/
-#EXTINF:-1,DREAM TÜRK TV m3u8 -720*576
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-#EXTINF:-1,DREAM TV m3u8 -720*576
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1,FASHION ONE TV
-http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
-#EXTINF:-1,FINEST TV
-http://62.153.171.60:1466
-#EXTINF:-1,FLASH TV
-http://184.173.181.2:1935/8158/8158/chunklist_w1108112917.m3u8
-#EXTINF:-1,FOX HD
-http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
-#EXTINF:-1,HABERTURK
-http://live-ciner.mncdn.net/haberturk/haberturk1/playlist.m3u8
-#EXTINF:-1,HILAL TV
-http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/playlist.m3u8
-#EXTINF:-1,HISTORY DOCUMANTARY TR http
-http://proiptv.dyndns.tv:7088
-#EXTINF:-1,KABE TV
-http://bit.do/kabetv
-#EXTINF:-1,KANAL 7 AVRUPA
-http://livetr.gostream.nl/kanal7int/kanal7int/playlist.m3u8
-#EXTINF:-1,KANAL 7 HD
-http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
-#EXTINF:-1,KANAL B
-http://212.174.233.129/hls-live/livepkgr/_definst_/liveevent/mylivestream.m3u8
-#EXTINF:-1,KANAL TEK
-http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
-#EXTINF:-1,KANALTURK
-http://kanalturk-live.ercdn.com/kanalturk.m3u8
-#EXTINF:-1,KAY TV m3u8 canlitv
-http://yayin3.canlitv.com:1935/live/kaytv/playlist.m3u8
-#EXTINF:-1,KÖY TV rtmp
-rtmp://37.75.10.20:80/koytv/koytv
-#EXTINF:-1,Kral Tv
-http://bak01-edge03.itdc.ge/kral/index.m3u8?token=ZiLXpDnUP1U5DRkcY-yDuC15LsXqbvFLu1AZQ5z9yjKAjrh6__VgUWgfLUswBWJwC4P5h74AR96nJ7cgwQjY6w**”
-#EXTINF:-1,KUDUS TV rtmp
-rtmp://yayin8.canliyayin.org/kudustv/kudustv
-#EXTINF:-1,MEDINE TV
-http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
-#EXTINF:-1,MEKKE TV
-http://livede.gostream.nl/mekke/mekke/playlist.m3u8
-#EXTINF:-1,NRT 2
-http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/playlist.m3u8
-#EXTINF:-1,Ntv
-http://bak01-edge03.itdc.ge/ntvtr/index.m3u8?token=ZiLXpDnUP1U5DRkcY-yDuC15LsXqbvFLu1AZQ5z9yjKAjrh6__VgUWgfLUswBWJwC4P5h74AR96nJ7cgwQjY6w**”
-#EXTINF:-1,Ntv spor
-http://bak01-edge03.itdc.ge/ntvspor/index.m3u8?token=ZiLXpDnUP1U5DRkcY-yDuC15LsXqbvFLu1AZQ5z9yjKAjrh6__VgUWgfLUswBWJwC4P5h74AR96nJ7cgwQjY6w**”
-#EXTINF:-1,Ntv spor 816*610
-http://188.72.131.226/ntvspor.m3u8
-#EXTINF:-1,NUMBER ONE HD
-http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
-#EXTINF:-1,NUMBER ONE TURK
-http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
-#EXTINF:-1,PLANET ÇOCUK rtmp
-rtmp://77.223.146.117/live/planetc
-#EXTINF:-1,PLANET PEMBE rtmp
-rtmp://77.223.146.117/live/planetp
-#EXTINF:-1,PLANET TURK rtmp
-rtmp://77.223.146.117/live/planett
-#EXTINF:-1,REHBER TV
-rtmp://yayin5.canliyayin.org:1935/live/rehbertv
-#EXTINF:-1,SAMANYOLU AVRU
-http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_270_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,SEMERKAND HD
-http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
-#EXTINF:-1,SHOW HD 960*546
-http://mn-l.mncdn.com/showtv/showtv2/chunklist_w555123943.m3u8
-#EXTINF:-1,Show Tv 816*610
-http://188.72.131.226/show.m3u8
-#EXTINF:-1,SPORTS TV
-http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:-1,TBMM TV
-http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1,TEMPO TV
-rtmp://91.93.118.165/tempotv/livestream
-#EXTINF:-1,TGRT EU
-http://tgrteu.mediatriple.net:1935/tgrteuliveedge/smil:tgrt.smil/playlist.m3u8
-#EXTINF:-1,TRT 1 816*610
-http://188.72.131.226/trt1.m3u8
-#EXTINF:-1,TRT 1 HD
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1,TRT ARAPCA
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1,TRT AVAZ
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:-1,TRT BELGESEL
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-#EXTINF:-1,TRT COCUK
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1,TRT DIYANET
-http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
-#EXTINF:-1,TRT HABER HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
-#EXTINF:-1,TRT HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
-#EXTINF:-1,TRT MUZIK
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1,TRT OKUL
-http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
-#EXTINF:-1,TRT TURK
-http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.m3u8
-#EXTINF:-1,TRT WORLD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1,TV 100
-http://livetr.gostream.nl/tv100/tv100/radyodelisi.m3u8
-#EXTINF:-1,TV 4 KARAMEL
-http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
-#EXTINF:-1,TV EM
-http://mn-l.mncdn.com/tvem_live/tvem3/playlist.m3u8
-#EXTINF:-1,TV EM m3u8
-http://mn-l.mncdn.com/tvem_live/tvem3/playlist.m3u8
-#EXTINF:-1,UCAN KUS
-http://37.77.2.236:1935/ucak/ucak.stream/playlist.m3u8
-#EXTINF:-1,ÜLKE TV HD m3u8 -720*500
-http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
-#EXTINF:-1,VIRGIN TV
-http://wow01.105.net/live/virgin1/chunklist.m3u8
-#EXTINF:-1,VUSLAT TV
-http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
-#EXTINF:-1,YASİN TV m3u8
-http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8
-#EXTINF:-1,YOL TV rtmp 720*576
-rtmp://178.254.20.205:2100/yol/yolstream.flv
-#EXTINF:-1,zzz CNN TURK
-http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1,SHOW HD
-http://www.iptvsaga.com/play/tv3/0045.m3u8
-#EXTINF:-1,Star TV
-http://www.iptvsaga.com/play/tv3/0063.m3u8
-#EXTINF:-1,TRT 1 HD
-http://www.iptvsaga.com/play/tv3/0030.m3u8
-#EXTINF:-1,Fox HD
-http://www.iptvsaga.com/play/tv3/0065.m3u8
-#EXTINF:-1,FiL Tv
-http://www.iptvsaga.com/play/tv3/0067.m3u8
-#EXTINF:-1,HABERTÜRK
-http://www.iptvsaga.com/play/tv3/0073.m3u8
-#EXTINF:-1,Kanal D HD
-http://www.iptvsaga.com/play/tv3/0038.m3u8
-#EXTINF:-1,Number One HD
-http://www.iptvsaga.com/play/tv3/0068.m3u8
-#EXTINF:-1,POWERTÜRK HD
-http://www.iptvsaga.com/play/tv3/0070.m3u8
-
-#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 14.02.2016[/B][/COLOR]
+#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 24.02.2016[/B][/COLOR]
 http://eyeoftv.m3u8
 
-#EXTINF:-1,[COLOR whitesmoke][B]- - TÜRKISCHE SENDER - -[/B][/COLOR]
-http://eyeoftv.m3u8
+#EXTINF:-1,[B]ATV HD[/B]
+http://camera.starboxone.com:9090/live/hasantest/9mmwkDJgBz1/21.ts
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TV 8 HD[/COLOR]
+#EXTINF:-1,[B]EURO STAR TV HD[/B]
+http://camera.starboxone.com:9090/live/hasantest/9mmwkDJgBz1/22.ts
+
+#EXTINF:-1,[B]STAR TV HD[/B]
+http://camera.starboxone.com:9090/live/hasantest/9mmwkDJgBz1/191.ts
+
+#EXTINF:-1,[B]FOX TV HD[/B]
+http://camera.starboxone.com:9090/live/hasantest/9mmwkDJgBz1/23.ts
+
+#EXTINF:-1,[B]TV8 HD[/B]
+http://camera.starboxone.com:9090/live/hasantest/9mmwkDJgBz1/24.ts
+
+#EXTINF:-1,[B]TV 8 HD[/B]
 http://hdtvizle.ru/14452/71930/71968/tv8hd.m3u8
 
-#EXTINF:-1 tvg-logo="showtv.png",[COLOR olivedrab]EURO STAR HD[/COLOR]
+#EXTINF:-1,[B]EURO STAR HD[/B]
 http://www.iptvsaga.com/play/tv3/0063.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]ATV HD[/COLOR]
+#EXTINF:-1,[B]ATV HD[/B]
 http://188.72.131.226/atv.m3u8
 
-#EXTINF:-1 tvg-logo="showtv.png",[COLOR olivedrab]SHOW TV AVRUPA HD[/COLOR]
+#EXTINF:-1,[B]SHOW AVRUPA HD[/B]
 http://www.iptvsaga.com/play/tv3/0045.m3u8
 
-#EXTINF:-1 tvg-logo="showtv.png",[COLOR orange]SHOW TV TÜRKIYE HD[/COLOR]
+#EXTINF:-1,[B]SHOW TURK HD[/B]
 http://hdtvizle.ru/14452/71930/71968/showt.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]KANAL D HD[/COLOR]
+#EXTINF:-1,[B]KANAL D HD[/B]
 http://www.iptvsaga.com/play/tv3/0038.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]FOX HD[/COLOR]
+#EXTINF:-1,[B]FOX TV HD[/B]
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]SAMANYOLU HD[/COLOR]
+#EXTINF:-1,[B]SAMANYOLU HD[/B]
 http://www.iptvsaga.com/play/tv3/0039.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]FLASH TV[/COLOR]
+#EXTINF:-1,[B]FLASH TV[/B]
 http://184.173.181.2:1935/8158/8158/chunklist_w1108112917.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]KANAL 7 HD[/COLOR]
+#EXTINF:-1,[B]KANAL 7 HD[/B]
 http://livede.gostream.nl/kanal7hq/kanal7hq/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]BUGÜN TV HD[/COLOR]
+#EXTINF:-1,[B]BUGÜN TV HD[/B]
 http://www.iptvsaga.com/play/tv3/0052.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]BEYAZ TV HD[/COLOR]
+#EXTINF:-1,[B]BEYAZ TV HD[/B]
 http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]HALK TV HD[/COLOR]
+#EXTINF:-1,[B]HALK TV[/B]
 http://hdtvizle.ru/14452/71930/71968/halk.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]TV EM HD[/COLOR]
+#EXTINF:1,IMC TV
+http://origin.live.web.tv.streamprovider.net/streams/205a2db5a33b65589f22dd1c159bdb44_live_0_0/index.m3u8
+
+#EXTINF:-1,[B]TV EM HD[/B]
 http://www.iptvsaga.com/play/tv3/0046.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TRT HD[/COLOR]
+#EXTINF:-1,[B]TRT HD[/B]
 http://www.iptvsaga.com/play/tv3/0036.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]TRT 1 HD[/COLOR]
+#EXTINF:-1,[B]TRT 1 HD[/B]
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="0803.png",[COLOR orange]TRT HABER HD[/COLOR]
+#EXTINF:-1,[B]TRT HABER HD[/B]
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]TRT KURDI HD[/COLOR]
+#EXTINF:-1,[B]TRT KURDI HD[/B]
 http://www.iptvsaga.com/play/tv3/0033.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TRT BELGESEL HD[/COLOR]
+#EXTINF:-1,[B]TRT BELGESEL HD[/B]
 http://www.iptvsaga.com/play/tv3/0061.m3u8
 
-#EXTINF:-1 tvg-logo="0810.png",[COLOR olivedrab]TRT AVAZ HD[/COLOR]
+#EXTINF:-1,[B]TRT AVAZ HD[/B]
 http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 
-#EXTINF:-1 tvg-logo="0809.png",[COLOR orange]TRT MÜZIK HD[/COLOR]
+#EXTINF:-1,[B]TRT MÜZIK HD[/B]
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 
-#EXTINF:-1 tvg-logo="0804.png",[COLOR olivedrab]TRT ÇOCUK HD[/COLOR]
+#EXTINF:-1,[B]TRT COCUK HD[/B]
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="0813.png",[COLOR orange]TRT TÜRK HD[/COLOR]
+#EXTINF:-1,[B]TRT TÜRK HD[/B]
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="0804.png",[COLOR olivedrab]TRT ARAPÇA HD[/COLOR]
+#EXTINF:-1,[B]TRT ARAPCA HD[/B]
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_500_av-b.m3u8?sd=10&rebase=on&hdntl=
 
-#EXTINF:-1 tvg-logo="0804.png",[COLOR orange]TRT OKUL HD[/COLOR]
+#EXTINF:-1,[B]TRT OKUL HD[/B]
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="0804.png",[COLOR olivedrab]TRT DÜNYA HD[/COLOR]
+#EXTINF:-1,[B]TRT DÜNYA HD[/B]
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="0804.png",[COLOR orange]KARAMEL TV HD[/COLOR]
+#EXTINF:-1,[B]KARAMEL TV[/B]
 http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]KANALTÜRK HD[/COLOR]
+#EXTINF:-1,[B]KANALTÜRK HD[/B]
 http://kanalturk-live.ercdn.com/kanalturk1.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]CNN TÜRK HD[/COLOR]
+#EXTINF:-1,[B]CNN TÜRK HD[/B]
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]DHA TV HD[/COLOR]
+#EXTINF:-1,[B]DHA TV[/B]
 http://live.netd.com.tr/S1/HLS_LIVE/dha1/index.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]FASHION TV HD[/COLOR]
+#EXTINF:-1,[B]FASHION ONE HD[/B]
 http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]HABERTÜRK HD[/COLOR]
+#EXTINF:-1,[B]HABERTÜRK HD[/B]
 http://mn-l.mncdn.com/haberturk/haberturk2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]BENGÜTÜRK HD[/COLOR]
+#EXTINF:-1,[B]BENGÜTÜRK HD[/B]
 http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=1640816579
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]BUGÜN TV HD[/COLOR]
+#EXTINF:-1,[B]BUGÜN TV HD[/B]
 http://buguntv-live.ercdn.com/buguntv1.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]MEDENIYET TV HD[/COLOR]
-http://nl-1-ms-origin.noccdn.com/cdn/53bf0671059c/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]POWER TV HD[/COLOR]
-http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]FILMAX FAMILY HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0072.m3u8
-
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]SINEMA TV HD[/COLOR]
+#EXTINF:-1,[B]SINEMA HD[/B]
 mms://yayin7.canliyayin.org/sinema
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]SINEMA TV 1 HD[/COLOR]
+#EXTINF:-1,[B]SINEMA 1 HD[/B]
 mms://yayin7.canliyayin.org/sinema3
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]SINEMA TV 2 HD[/COLOR]
+#EXTINF:-1,[B]SINEMA 2 HD[/B]
 mms://yayin7.canliyayin.org/sinema4
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]SINEMA TV 3 HD[/COLOR]
+#EXTINF:-1,[B]SINEMA 3 HD[/B]
 mms://yayin7.canliyayin.org/sinema5
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]SINEMA TV 4 HD[/COLOR]
+#EXTINF:-1,[B]SINEMA 4 HD[/B]
 mms://yayin7.canliyayin.org/sinema6
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TV 2 HD[/COLOR]
+#EXTINF:-1,[B]TV 2 HD[/B]
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]A9 TV HD[/COLOR]
+#EXTINF:-1,[B]A9 TV[/B]
 rtmp://live.harunyahya.tv/harunyahyalive/hytest1
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]B TV HD[/COLOR]
+#EXTINF:-1,[B]B TV[/B]
 http://stream.taksimbilisim.com:1935/btv/bant1/BTV.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]SEMERKAND TV HD[/COLOR]
+#EXTINF:-1,[B]SEMERKAND TV[/B]
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]TGRT BELGESEL HD[/COLOR]
+#EXTINF:-1,[B]TGRT BELGESEL[/B]
 http://tgrtbelgesel.mediatriple.net:1935/tgrtbliveedge/smil:tgrtb.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]HILAL TV HD[/COLOR]
+#EXTINF:-1,[B]HILAL TV[/B]
 http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]IRMAK TV HD[/COLOR]
+#EXTINF:-1,[B]IRMAK TV HD[/B]
 http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]FIL TV HD[/COLOR]
+#EXTINF:-1,[B]FIL TV HD[/B]
 http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]BLOOMBERG HD[/COLOR]
+#EXTINF:-1,[B]BLOOMBERG TV HD[/B]
 http://mn-l.mncdn.com/bloomberght/bloomberght2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]BAHARTÜRK HD[/COLOR]
+#EXTINF:-1,[B]BAHARTÜRK TV HD[/B]
 http://stream.taksimbilisim.com:1935/baharturk/bant1/BAHARTURK.m3u8
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]CAPULCU TV HD[/COLOR]
+#EXTINF:-1,[B]CAPULCU TV HD[/B]
 rtmp://s9.tilda.com.tr:80/live/Stream1
 
-#EXTINF:-1 tvg-logo="trt.png",[COLOR olivedrab]NTV SPOR HD[/COLOR]
-http://www.iptvsaga.com/play/tv3/0057.m3u8
-
-#EXTINF:-1 tvg-logo="trt.png",[COLOR orange]POWERTÜRK HD[/COLOR]
-http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="tv.png",[COLOR olivedrab]DREAM HD[/COLOR]
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]DREAMTÜRK HD[/COLOR]
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="tv.png",[COLOR olivedrab]NUMBER ONE HD[/COLOR]
-http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]TBMM TV[/COLOR]
-http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/index_1200_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="tv.png",[COLOR olivedrab]BRT HD[/COLOR]
-http://wms.brtk.net/live/BRTHD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]SPORT TV[/COLOR]
+#EXTINF:-1,[B]SPORT TV HD[/B]
 rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
 
-#EXTINF:-1 tvg-logo="tv.png",[COLOR olivedrab]KÖY TV HD[/COLOR]
+#EXTINF:-1,[B]NTV SPOR TV HD[/B]
+http://www.iptvsaga.com/play/tv3/0057.m3u8
+
+#EXTINF:-1,[B]POWERTÜRK TV HD[/B]
+http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8
+
+#EXTINF:-1,[B]POWER TV HD[/B]
+http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
+
+#EXTINF:-1,[B]DREAM TV HD[/B]
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1,[B]DREAM TÜRK TV HD[/B]
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+
+#EXTINF:-1,[B]NUMBER ONE TV HD[/B]
+http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
+
+#EXTINF:-1, [B]TBMM HD[/B]
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/index_1200_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, [B]BRT HD[/B]
+http://wms.brtk.net/live/BRTHD/playlist.m3u8
+
+#EXTINF:-1, [B]KÖY TV[/B]
 rtmp://37.75.10.20:80/koytv/koytv
 
-#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]REHBER TV HD[/COLOR]
+#EXTINF:-1,[B]ÜLKE TV HD[/B]
+http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
+
+#EXTINF:-1,[B]YASIN TV[/B]
+http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8
+
+#EXTINF:-1,[B]REHBER TV[/B]
 rtmp://yayin5.canliyayin.org:1935/live/rehbertv
 
-#EXTINF:-1 tvg-logo="tv.png",[COLOR olivedrab]TV 100 HD[/COLOR]
+#EXTINF:-1,[B]TV 100[/B]
 http://livetr.gostream.nl/tv100/tv100/radyodelisi.m3u8
 
-#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]UCAN KUS TV HD[/COLOR]
+#EXTINF:-1,[B]UCAN KUS TV[/B]
 http://37.77.2.236:1935/ucak/ucak.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="tv.png",[COLOR olivedrab]VUSLAT TV HD[/COLOR]
+#EXTINF:-1,[B]VUSLAT TV[/B]
 http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]VIRGIN TV HD[/COLOR]
+#EXTINF:-1,[B]VIRGIN TV[/B]
 http://wow01.105.net/live/virgin1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="tv.png",[COLOR olivedrab]YOL TV HD[/COLOR]
+#EXTINF:-1,[B]YOL TV[/B]
 rtmp://178.254.20.205:2100/yol/yolstream.flv
+
+#EXTINF:-1,[B]MEDINE TV[/B]
+http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
+
+#EXTINF:-1,[B]MEKKE TV[/B]
+http://livede.gostream.nl/mekke/mekke/playlist.m3u8
+
+#EXTINF:-1,[B]PLANET COCUK[/B]
+rtmp://77.223.146.117/live/planetc
+
+#EXTINF:-1,[B]PLANET PEMBE[/B]
+rtmp://77.223.146.117/live/planetp
+
+#EXTINF:-1,[B]PLANET TÜRK[/B]
+rtmp://77.223.146.117/live/planett
+
+#EXTINF:-1,[B]ADA TV[/B]
+rtmp://sponsored.ncbtv.com:1835/live/42e_adatv
+
+#EXTINF:-1,[B]AKDENIZ TV[/B]
+http://77.245.156.180:554/live/akdeniztv1/ratus42.m3u8
+
+#EXTINF:-1,[B]AKSU TV[/B]
+rtmp://stream.taksimbilisim.com/aksutv/bant1
+
+#EXTINF:-1,[B]ALANYA TV[/B]
+rtmp://stream2.taksimbilisim.com/alanyatv/bant1
+
+#EXTINF:-1,[B]USAK TV[/B]
+rtmp://stream.taksimbilisim.com:1935/usakart/bant1
+
+#EXTINF:-1,[B]BAFRA TV[/B]
+http://embed.wistia.com/deliveries/409d7951ac3996784f928778b8e9a311f4587194.bin
+
+#EXTINF:-1,[B]KENT TV[/B]
+rtmp://stream2.taksimbilisim.com/kenttv/bant1
+
+#EXTINF:-1,[B]BELGESEL TV[/B]
+mms://yayin.networkbil.com/belgeseltv
+
+#EXTINF:-1,[B]BEST TV[/B]
+http://yayin3.canlitv.com:1935/live/besttv/ratus42.m3u8
+
+#EXTINF:-1,[B]KENT TV[/B]
+http://tvlive.web.tv.streamprovider.net/akamairtmp/5234d3573814d6d60ad0a236a3b0e6f9_live_0_0/index.m3u8
+
+#EXTINF:-1,[B]BOZTEPE TV[/B]
+rtmp://stream.taksimbilisim.com:1935/btv/bant1
+
+#EXTINF:-1,[B]BRT 2[/B]
+rtmp://sponsored.ncbtv.com:1835/live/42e_brt2
+
+#EXTINF:-1,[B]BURSA AS TV[/B]
+http://yayin3.canlitv.com:1935/live/astv/ratus42.m3u8
+
+#EXTINF:-1,[B]BURSA OLAY TV[/B]
+rtmp://canli.olaytv.com.tr:1935/olaytv/olaytv
+
+#EXTINF:-1,[B]CAN ERZINCAN TV[/B]
+rtmp://yayin.tvdunyasi.tv/live/cantverzincan
+
+#EXTINF:-1,[B]CAY TV[/B]
+rtmp://stream2.taksimbilisim.com:1935/caytv/bant1
+
+#EXTINF:-1,[B]CEM TV[/B]
+rtmp://stream.pivol.com:1935/live/cemtv.flv
+
+#EXTINF:-1,[B]DEHA TV[/B]
+rtmp://stream2.taksimbilisim.com/deha//bant1
+
+#EXTINF:-1,[B]DENGE TV[/B]
+http://yayin3.canlitv.com:1935/live/dengetv/ratus42.m3u8
+
+#EXTINF:-1,[B]DESTAN TV[/B]
+http://yayin3.canlitv.com:1935/live/destantv/ratus42.m3u8
+
+#EXTINF:-1,[B]DIYALOG TV[/B]
+http://yayin3.canlitv.com:1935/live/diyalogtv/ratus42.m3u8
+
+#EXTINF:-1,[B]DRT DENIZLI TV[/B]
+rtmp://stream2.taksimbilisim.com:1935/drt/bant1
+
+#EXTINF:-1,[B]EDESSA TV[/B]
+rtmp://185.8.33.25/edessatv/edessatv.flv
+
+#EXTINF:-1,[B]EGE TÜRK TV[/B]
+rtmp://stream.taksimbilisim.com/egeturk/bant1
+
+#EXTINF:-1,[B]ELAZIG TV[/B]
+rtmp://yayin.tvdunyasi.tv:1935/live/elazig_kanale
+
+#EXTINF:-1,[B]ERCIYES TV[/B]
+http://yayin3.canlitv.com:1935/live/erciyestv/ratus42.m3u8
+
+#EXTINF:-1,[B]EDIRNE TV[/B]
+http://yayin3.canlitv.com:1935/live/edirnetv/ratus42.m3u8
+
+#EXTINF:-1,[B]FIRAT TV[/B]
+rtmp://yayin5.canliyayin.org/live/kanalfirat
+
+#EXTINF:-1,[B]GAZIANTEP TV[/B]
+rtmp://stream.taksimbilisim.com/olaytv/bant1
+
+#EXTINF:-1,[B]G TV[/B]
+rtmp://stream2.taksimbilisim.com/gtv//bant1
+
+#EXTINF:-1,[B]GÜNEYDOGU TV[/B]
+rtmp://stream2.taksimbilisim.com:1935/gtv/bant1
+
+#EXTINF:-1,[B]HABER 61 TV[/B]
+rtmp://win8.yayinda.org/haber61tv/haber61tv
+
+#EXTINF:-1,[B]HALIS TV[/B]
+http://yayin3.canlitv.com:1935/live/halistv/ratus42.m3u8
+
+#EXTINF:-1,[B]HOROZ TV[/B]
+rtmp://mediaserver1.baynet.com.tr/livepkgr/horoztv
+
+#EXTINF:-1,[B]ICEL TV[/B]
+rtmp://yayin.tvdunyasi.com/live/iceltv
+
+#EXTINF:-1,[B]KACKAR TV[/B]
+rtmp://yayin.tvdunyasi.tv/live/rize_kackartv
+
+#EXTINF:-1,[B]KANAL 15[/B]
+http://77.245.150.95/hds-live/livepkgr/_definst_/liveevent/livestream.f4m
+
+#EXTINF:-1,[B]KANAL 19[/B]
+rtmp://yayin.tvdunyasi.tv/live/corum_kanal19
+
+#EXTINF:-1,[B]KANAL URFA[/B]
+rtmp://stream.taksimbilisim.com/kanalurfa/bant1
+
+#EXTINF:-1,[B]KARADENIZ TV[/B]
+rtmp://50.7.129.202/karadeniztv/karadeniz2
+
+#EXTINF:-1,[B]KAY TV[/B]
+http://yayin3.canlitv.com:1935/live/kaytv/ratus42.m3u8
+
+#EXTINF:-1,[B]KIBRIS TV[/B]
+rtmp://sponsored.ncbtv.com:1835/live/42e_genctv
+
+#EXTINF:-1,[B]KORDON TV[/B]
+rtmp://92.42.35.100/live/kordontv/kordontv
+
+#EXTINF:-1,[B]MALATYA TV[/B]
+http://yayin5.canliyayin.org:1935/malatyamtv/malatyamtv/ratus42.m3u8?ext=.mp4
+
+#EXTINF:-1,[B]MAVI KARADENIZ TV[/B]
+rtmp://stream.taksimbilisim.com:1935/mavikaradeniz/bant1
+
+#EXTINF:-1,[B]MERCAN TV[/B]
+http://yayin3.canlitv.com:1935/live/mercantv/ratus42.m3u8
+
