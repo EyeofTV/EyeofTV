@@ -1,38 +1,128 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 12.03.2016[/B][/COLOR]
+#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 17.03.2016[/B][/COLOR]
 http://eyeoftv.m3u8
 
-
-#EXTINF:-1,Euro D HD
-http://212.224.108.78/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,Show TV HD
-http://mn-l.mncdn.com/showtv/showtv2/list.m3u8
-#EXTINF:-1,Show TV 
-http://mn-l.mncdn.com/showturktv/showturktv1/HasBahCa.m3u8
-#EXTINF:-1,Kanal 7 HD
-http://livetr.gostream.nl/kanal7hq/kanal7hq/HasBahCa.m3u8
-#EXTINF:-1,Kanal 7
-http://livetr.gostream.nl/kanal7int/kanal7int/HasBahCa.m3u8
-#EXTINF:-1,Kral TV
-http://149.255.152.69/hls-live/livepkgr/kral/kral/kral.m3u8
-#EXTINF:-1,PowerTurk HD
-http://cdn2.powergroup.com.tr/powertv/powerturktv.smil/list.m3u8
-#EXTINF:-1,Dream Turk
-http://212.224.108.76/S1/HLS_LIVE/dreamturktv/index.m3u8
-#EXTINF:-1,Power TV
-http://origin.live.web.tv.streamprovider.net/streams/2437cef0ef9439f113ac1299e5974ab2_live_0_0/index.m3u8
-#EXTINF:-1,Dream
-http://212.224.108.76/S1/HLS_LIVE/dreamtv/index.m3u8
-#EXTINF:-1,TRT BELGESEL HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
-#EXTINF:-1,TRT 1 HD
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1,TRT HABER HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1,TRT COCUK HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
-#EXTINF:-1,TRT AVAZ HD
-http://sol.trtcdn.com/tv/trtavaz/smil:trtavaz.smil/list.m3u8
-#EXTINF:-1,TV 2 HD
-http://212.224.109.107/S1/HLS_LIVE/tv2/256/prog_index.m3u8
+#EXTM3U 
+#EXTINF:0,ATV HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/587 
+#EXTINF:0,SHOW TV HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/588 
+#EXTINF:0,FOX TV HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/589 
+#EXTINF:0,Kanal D 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/590 
+#EXTINF:0,TV 8 HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/591 
+#EXTINF:0,STARTV HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/592 
+#EXTINF:0,SALON 1 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/593 
+#EXTINF:0,SALON 2 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/594 
+#EXTINF:0,SALON 3 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/595 
+#EXTINF:0,SINEMA TV 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/596 
+#EXTINF:0,SINEMA TV 2 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/597 
+#EXTINF:0,SINEMA 1001 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/598 
+#EXTINF:0,SINEMA ACTION 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/599 
+#EXTINF:0,SINEMA AILE 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/600 
+#EXTINF:0,DISCOVER CH TR 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/601 
+#EXTINF:0,FIL TV 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/603 
+#EXTINF:0,TV 2 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/604 
+#EXTINF:0,TRT 1 HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/605 
+#EXTINF:0,BEYAZ TV HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/606 
+#EXTINF:0,YABAN TV 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/607 
+#EXTINF:0,FLASH TV 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/608 
+#EXTINF:0,TRT Haber HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/609 
+#EXTINF:0,NTV SPOR HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/610 
+#EXTINF:0,TRT SPOR HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/611 
+#EXTINF:0,POWER TV HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/612 
+#EXTINF:0,KRAL POP 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/613 
+#EXTINF:0,DREAMTURK 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/614 
+#EXTINF:0,ON4 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/615 
+#EXTINF:0,DISNEY TR 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/616 
+#EXTINF:0,CARTOON TR 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/617 
+#EXTINF:0,BJK TV 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/619 
+#EXTINF:0,FENERBAHCE TV 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/620 
+#EXTINF:0,HALK TV 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/621 
+#EXTINF:0,SAMANYOLU TV 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/625 
+#EXTINF:0,KANALTURK HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/626 
+#EXTINF:0,TURKIYEM TV HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/627 
+#EXTINF:0,HABERTURK HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/628 
+#EXTINF:0,TGRT HABER 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/629 
+#EXTINF:0,A HABER HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/630 
+#EXTINF:0,MINIKA COCUK 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/631 
+#EXTINF:0,MINIKA GO 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/632 
+#EXTINF:0,A SPOR HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/633 
+#EXTINF:0,SPORTS TV 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/669 
+#EXTINF:0,PLANET PEMBE 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/670 
+#EXTINF:0,TRT OKUL 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/671 
+#EXTINF:0,PLANET TURK 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/672 
+#EXTINF:0,TRT COCUK 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/673 
+#EXTINF:0,TRT TURK 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/674 
+#EXTINF:0,24TV 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/676 
+#EXTINF:0,ULUSAL TV 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/678 
+#EXTINF:0,SEMERKAND HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/679 
+#EXTINF:0,TRT WORLD HD 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/680 
+#EXTINF:0,TRT KURDI 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/681 
+#EXTINF:0,TRT BELGESEL 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/682 
+#EXTINF:0,TGRT BELGESEL 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/683 
+#EXTINF:0,TRT AVAZ 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/684 
+#EXTINF:0,TRT DIYANET 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/685 
+#EXTINF:0,LIG TV 1 HD ONLY VIP 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/689 
+#EXTINF:0,LIG TV 2 HD ONLY VIP 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/690 
+#EXTINF:0,LIG TV 3 HD ONLY VIP 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/691 
+#EXTINF:0,LIG TV 4 SD ONLY VIP 
+http://paytv.no-ip.biz:8000/live/Skype/cccamaster1/692
