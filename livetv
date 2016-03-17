@@ -3,75 +3,99 @@
 #EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 17.03.2016[/B][/COLOR]
 http://eyeoftv.m3u8
 
-#EXTINF:-1,24 TV m3u8
+#EXTINF:-1,SHOW HD
+http://www.iptvsaga.com/play/tv3/0045.m3u8
+#EXTINF:-1,Star TV
+http://www.iptvsaga.com/play/tv3/0063.m3u8
+#EXTINF:-1,TRT 1 HD
+http://www.iptvsaga.com/play/tv3/0030.m3u8
+#EXTINF:-1,Fox HD
+http://www.iptvsaga.com/play/tv3/0065.m3u8
+#EXTINF:-1,FiL Tv
+http://www.iptvsaga.com/play/tv3/0067.m3u8
+#EXTINF:-1,HABERTÜRK
+http://www.iptvsaga.com/play/tv3/0073.m3u8
+#EXTINF:-1,Kanal D HD
+http://www.iptvsaga.com/play/tv3/0038.m3u8
+#EXTINF:-1,Number One HD
+http://www.iptvsaga.com/play/tv3/0068.m3u8
+#EXTINF:-1,POWERTÜRK HD
+http://www.iptvsaga.com/play/tv3/0070.m3u8
+#EXTINF:-1,KANAL D HD
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1,SHOW TV HD
+http://live-ciner.mncdn.net/showtv/showtv2/playlist.m3u8
+#EXTINF:-1,FOX HD
+http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+#EXTINF:-1,SHOW HD 960*546
+http://mn-l.mncdn.com/showtv/showtv2/chunklist_w555123943.m3u8
+#EXTINF:-1,Show Tv 816*610
+http://188.72.131.226/show.m3u8
+#EXTINF:-1,TV 24 HD
 http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
-#EXTINF:-1,BENGÜ TÜRK 864*482
+#EXTINF:-1,BENGÜ TÜRK HD
 http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=1640816579
-#EXTINF:-1,BEYAZ TV
+#EXTINF:-1,BEYAZ TV HD
 http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
-#EXTINF:-1,BLOOMBERG HT m3u8
+#EXTINF:-1,BLOOMBERG HD
 http://mn-l.mncdn.com/bloomberght/bloomberght2/playlist.m3u8
-#EXTINF:-1,BUGÜN 1280*738
+#EXTINF:-1,BUGÜN HD
 http://buguntv-live.ercdn.com/buguntv1.m3u8
 #EXTINF:-1,CNN TURK HD
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1,FİL TV 1024*578
+#EXTINF:-1,FİL TV HD
 http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
-#EXTINF:-1,FOX HD 1280*738
+#EXTINF:-1,FOX HD
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
-#EXTINF:-1,HABERTÜRK m3u8
+#EXTINF:-1,HABERTÜRK HD
 http://mn-l.mncdn.com/haberturk/haberturk2/playlist.m3u8
-#EXTINF:-1,HİLAL TV m3u8 720*576
+#EXTINF:-1,HİLAL TV HD
 http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/playlist.m3u8
-#EXTINF:-1,IRMAK TV 1280*720
+#EXTINF:-1,IRMAK TV HD
 http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
-#EXTINF:-1,KANAL 7 HD 720*418
+#EXTINF:-1,KANAL 7 HD
 http://livede.gostream.nl/kanal7hq/kanal7hq/playlist.m3u8
-#EXTINF:-1,KANAL D
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1,KANAL TÜRK 1280*720
+#EXTINF:-1,KANAL TÜRK HD
 http://kanalturk-live.ercdn.com/kanalturk1.m3u8
-#EXTINF:-1,MEDENIYET TV 1280*720
+#EXTINF:-1,MEDENIYET TV HD
 http://nl-1-ms-origin.noccdn.com/cdn/53bf0671059c1/playlist.m3u8
-#EXTINF:-1,POWER TV HD 1280*738
+#EXTINF:-1,POWER TV HD
 http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
-#EXTINF:-1,POWERTURK HD 1280*738
+#EXTINF:-1,POWERTURK HD
 http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8
-#EXTINF:-1,SEMERKAND HD m3u8
+#EXTINF:-1,SEMERKAND HD
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/playlist.m3u8
-#EXTINF:-1,SHOW TV HD 960*546
-http://live-ciner.mncdn.net/showtv/showtv2/playlist.m3u8
-#EXTINF:-1,TGRT BELGESEL
+#EXTINF:-1,TGRT BELGESEL HD
 http://tgrtbelgesel.mediatriple.net:1935/tgrtbliveedge/smil:tgrtb.smil/playlist.m3u8
-#EXTINF:-1,TRT 1 HD 1280*738
+#EXTINF:-1,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT ÇOCUK 1024*578
+#EXTINF:-1,TRT ÇOCUK HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT HABER 1280*738
+#EXTINF:-1,TRT HABER HD 
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT TÜRK 1024*578
+#EXTINF:-1,TRT TÜRK HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TRT WORLD 1280*738
+#EXTINF:-1,TRT WORLD HD 
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TV 2
+#EXTINF:-1,TV 2 HD 
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:-1,ÜLKE TV HD m3u8 -720*500
+#EXTINF:-1,ÜLKE TV HD
 http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
-#EXTINF:-1,24 TV
+#EXTINF:-1,24 TV HD
 http://mn-l.mncdn.com:1935/kanal24/kanal243/playlist.m3u8
-#EXTINF:-1,4 Karamel
+#EXTINF:-1,4 Karamel HD
 http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
-#EXTINF:-1,7-24TV.m3u8
+#EXTINF:-1,7-24 TV 
 http://playlistiptv.com/iptv/tr/playlist_7-24TV.m3u8
-#EXTINF:-1,A9 TV rtmp 640*360 rtmp
+#EXTINF:-1,A9 TV 
 rtmp://live.harunyahya.tv/harunyahyalive/hytest1
-#EXTINF:-1,ANC TV rtmp 600*350
+#EXTINF:-1,ANC TV 
 rtmp://212.64.200.238/livepkgr/livestream
 #EXTINF:-1,B TV
 http://stream.taksimbilisim.com:1935/btv/bant1/BTV.m3u8
 #EXTINF:-1,BAHARTURK
 http://stream.taksimbilisim.com:1935/baharturk/bant1/BAHARTURK.m3u8
-#EXTINF:-1,BENGUTURK TV
+#EXTINF:-1,BENGUTURK TV 
 http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8
 #EXTINF:-1,BLOOMBERG HT
 http://mn-l.mncdn.com/bloomberght/bloomberght2/playlist.m3u8
@@ -95,8 +119,6 @@ http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
 http://62.153.171.60:1466
 #EXTINF:-1,FLASH TV
 http://184.173.181.2:1935/8158/8158/chunklist_w1108112917.m3u8
-#EXTINF:-1,FOX HD
-http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 #EXTINF:-1,HABERTURK
 http://live-ciner.mncdn.net/haberturk/haberturk1/playlist.m3u8
 #EXTINF:-1,HILAL TV
@@ -151,10 +173,6 @@ rtmp://yayin5.canliyayin.org:1935/live/rehbertv
 http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_270_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,SEMERKAND HD
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
-#EXTINF:-1,SHOW HD 960*546
-http://mn-l.mncdn.com/showtv/showtv2/chunklist_w555123943.m3u8
-#EXTINF:-1,Show Tv 816*610
-http://188.72.131.226/show.m3u8
 #EXTINF:-1,SPORTS TV
 http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
 #EXTINF:-1,TBMM TV
@@ -211,25 +229,6 @@ http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8
 rtmp://178.254.20.205:2100/yol/yolstream.flv
 #EXTINF:-1,zzz CNN TURK
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-
-#EXTINF:-1,SHOW HD
-http://www.iptvsaga.com/play/tv3/0045.m3u8
-#EXTINF:-1,Star TV
-http://www.iptvsaga.com/play/tv3/0063.m3u8
-#EXTINF:-1,TRT 1 HD
-http://www.iptvsaga.com/play/tv3/0030.m3u8
-#EXTINF:-1,Fox HD
-http://www.iptvsaga.com/play/tv3/0065.m3u8
-#EXTINF:-1,FiL Tv
-http://www.iptvsaga.com/play/tv3/0067.m3u8
-#EXTINF:-1,HABERTÜRK
-http://www.iptvsaga.com/play/tv3/0073.m3u8
-#EXTINF:-1,Kanal D HD
-http://www.iptvsaga.com/play/tv3/0038.m3u8
-#EXTINF:-1,Number One HD
-http://www.iptvsaga.com/play/tv3/0068.m3u8
-#EXTINF:-1,POWERTÜRK HD
-http://www.iptvsaga.com/play/tv3/0070.m3u8
 
 #EXTM3U
 #EXTINF:-1,2000 TV
