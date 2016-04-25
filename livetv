@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]HALB NASE HALB MENSCH[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 22.04.2016[/B][/COLOR]
+#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 25.04.2016[/B][/COLOR]
 http://eyeoftv.m3u8
 
 #EXTINF:-1,TV 2
@@ -11,16 +11,8 @@ http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasession
 http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
 #EXTINF:-1,BLOOMBERG
 http://mn-l.mncdn.com/bloomberght/bloomberght2/playlist.m3u8
-#EXTINF:-1,HABERTÜRK HD
-http://mn-l.mncdn.com/haberturk/haberturk2/playlist.m3u8
-#EXTINF:-1,KANAL 7 HD
-http://livede.gostream.nl/kanal7hq/kanal7hq/playlist.m3u8
 #EXTINF:-1,KANAL D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1,SEMERKAND HD
-http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/playlist.m3u8
-#EXTINF:-1,SHOW TV HD
-http://live-ciner.mncdn.net/showtv/showtv2/playlist.m3u8
 #EXTINF:-1,TGRT BELGESEL
 http://tgrtbelgesel.mediatriple.net:1935/tgrtbliveedge/smil:tgrtb.smil/playlist.m3u8
 #EXTINF:-1,TRT 1 HD
@@ -39,12 +31,6 @@ http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
 http://mn-l.mncdn.com:1935/kanal24/kanal243/playlist.m3u8
 #EXTINF:-1,4 Karamel
 http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
-#EXTINF:-1,BAHARTURK
-http://stream.taksimbilisim.com:1935/baharturk/bant1/BAHARTURK.m3u8
-#EXTINF:-1,BENGUTURK TV
-http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8
-#EXTINF:-1,BLOOMBERG HT
-http://mn-l.mncdn.com/bloomberght/bloomberght2/playlist.m3u8
 #EXTINF:-1,BUGUN TV
 http://buguntv-live.ercdn.com/buguntv.m3u8
 #EXTINF:-1,FLASH TV
@@ -67,54 +53,12 @@ http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
 http://212.174.233.129/hls-live/livepkgr/_definst_/liveevent/mylivestream.m3u8
 #EXTINF:-1,KANAL TEK
 http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
-#EXTINF:-1,KANALTURK
-http://kanalturk-live.ercdn.com/kanalturk.m3u8
-#EXTINF:-1,KAY TV m3u8 canlitv
-http://yayin3.canlitv.com:1935/live/kaytv/playlist.m3u8
-#EXTINF:-1,KÖY TV rtmp
-rtmp://37.75.10.20:80/koytv/koytv
-#EXTINF:-1,Kral Tv
-http://bak01-edge03.itdc.ge/kral/index.m3u8?token=ZiLXpDnUP1U5DRkcY-yDuC15LsXqbvFLu1AZQ5z9yjKAjrh6__VgUWgfLUswBWJwC4P5h74AR96nJ7cgwQjY6w**”
-#EXTINF:-1,KUDUS TV rtmp
-rtmp://yayin8.canliyayin.org/kudustv/kudustv
-#EXTINF:-1,MEDINE TV
-http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
-#EXTINF:-1,MEKKE TV
-http://livede.gostream.nl/mekke/mekke/playlist.m3u8
-#EXTINF:-1,NRT 2
-http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/playlist.m3u8
-#EXTINF:-1,Ntv
-http://bak01-edge03.itdc.ge/ntvtr/index.m3u8?token=ZiLXpDnUP1U5DRkcY-yDuC15LsXqbvFLu1AZQ5z9yjKAjrh6__VgUWgfLUswBWJwC4P5h74AR96nJ7cgwQjY6w**”
-#EXTINF:-1,Ntv spor
-http://bak01-edge03.itdc.ge/ntvspor/index.m3u8?token=ZiLXpDnUP1U5DRkcY-yDuC15LsXqbvFLu1AZQ5z9yjKAjrh6__VgUWgfLUswBWJwC4P5h74AR96nJ7cgwQjY6w**”
-#EXTINF:-1,Ntv spor 816*610
-http://188.72.131.226/ntvspor.m3u8
 #EXTINF:-1,NUMBER ONE HD
 http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
 #EXTINF:-1,NUMBER ONE TURK
 http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
-#EXTINF:-1,PLANET ÇOCUK rtmp
-rtmp://77.223.146.117/live/planetc
-#EXTINF:-1,PLANET PEMBE rtmp
-rtmp://77.223.146.117/live/planetp
-#EXTINF:-1,PLANET TURK rtmp
-rtmp://77.223.146.117/live/planett
-#EXTINF:-1,REHBER TV
-rtmp://yayin5.canliyayin.org:1935/live/rehbertv
-#EXTINF:-1,SAMANYOLU AVRU
-http://vivisolivegrp01-lh.akamaihd.net/i/stveu_1@398191/index_270_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,SEMERKAND HD
-http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
-#EXTINF:-1,SHOW HD 960*546
-http://mn-l.mncdn.com/showtv/showtv2/chunklist_w555123943.m3u8
-#EXTINF:-1,Show Tv 816*610
-http://188.72.131.226/show.m3u8
-#EXTINF:-1,SPORTS TV
-http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
 #EXTINF:-1,TBMM TV
 http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1,TEMPO TV
-rtmp://91.93.118.165/tempotv/livestream
 #EXTINF:-1,TGRT EU
 http://tgrteu.mediatriple.net:1935/tgrteuliveedge/smil:tgrt.smil/playlist.m3u8
 #EXTINF:-1,TRT 1 816*610
