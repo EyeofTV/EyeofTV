@@ -3,6 +3,131 @@
 #EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 25.04.2016[/B][/COLOR]
 http://eyeoftv.m3u8
 
+#EXTINF:-1,24 TV
+http://mn-l.mncdn.com:1935/kanal24/kanal243/playlist.m3u8
+#EXTINF:-1,4 Karamel
+http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w59601545.m3u8
+#EXTINF:-1,A9 TV rtmp 640*360 rtmp
+rtmp://live.harunyahya.tv/harunyahyalive/hytest1
+#EXTINF:-1,BAHARTURK
+http://stream.taksimbilisim.com:1935/baharturk/bant1/BAHARTURK.m3u8
+#EXTINF:-1,BEYAZ TV
+http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
+#EXTINF:-1,BLOOMBERG HT m3u8
+http://mn-l.mncdn.com/bloomberght/bloomberght2/HasBahCa.m3u8
+#EXTINF:-1,CNN TURK HD
+http://212.224.108.80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1,DHA
+http://live.netd.com.tr/S1/HLS_LIVE/dha1/index.m3u8
+#EXTINF:-1,DOCUMANTARY TR http
+http://188.165.239.200:7088/
+#EXTINF:-1,DREAM TÜRK TV m3u8 -720*576
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1,DREAM TV m3u8 -720*576
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1,FINEST TV
+http://62.153.171.60:1466
+#EXTINF:-1,FLASH TV
+http://184.173.181.2:1935/8158/8158/chunklist_w1108112917.m3u8
+#EXTINF:-1,FOX HD 1280*738
+rtmp://37.187.164.118:1938/live//webtvplay_test
+#EXTINF:-1,HABERTÜRK m3u8
+http://mn-l.mncdn.com/haberturk/haberturk2/HasBahCa.m3u8
+#EXTINF:-1,HALK TV
+http://yayin3.canlitv.com:1935/live/halktv/playlist.m3u8
+#EXTINF:-1,HiLAL TV m3u8 720*576
+http://yayin8.canliyayin.org:1935/hilaltv/hilaltv/HasBahCa.m3u8
+#EXTINF:-1,IRMAK TV 1280*720
+http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
+#EXTINF:-1,Kanal 12 TEST
+http://yayin.netradyom.com:1935/live/kanal12/playist.m3u8
+#EXTINF:-1,KANAL 7 AVRUPA
+http://livetr.gostream.nl/kanal7int/kanal7int/playlist.m3u8
+#EXTINF:-1,KANAL 7 HD
+http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
+#EXTINF:-1,MEDENIYET TV 1280*720
+http://nl-1-ms-origin.noccdn.com/cdn/53bf0671059c1/playlist.m3u8
+#EXTINF:-1,PLANET ÇOCUK rtmp
+rtmp://77.223.146.117/live/planetc
+#EXTINF:-1,PLANET PEMBE rtmp
+rtmp://77.223.146.117/live/planetp
+#EXTINF:-1,PLANET TURK rtmp
+rtmp://77.223.146.117/live/planett
+#EXTINF:-1,POWER TV HD 1280*738
+http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/chunklist_w29105981_b1328000.m3u8
+#EXTINF:-1,POWERTURK HD 1280*738
+http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/chunklist_w274236643_b1328000.m3u8
+#EXTINF:-1,REHBER TV
+rtmp://yayin5.canliyayin.org:1935/live/rehbertv
+#EXTINF:-1,SEMERKAND HD m3u8
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/HasBahCa.m3u8
+#EXTINF:-1,SHOW TV HD 960*546
+http://live-ciner.mncdn.net/showtv/showtv2/HasBahCa.m3u8
+#EXTINF:-1,SPORTS TV
+http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
+#EXTINF:-1,TGRT BELGESEL
+http://tgrtbelgesel.mediatriple.net:1935/tgrtbliveedge/smil:tgrtb.smil/HasBahCa.m3u8
+#EXTINF:-1,TRT 1 HD 1280*738
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT ARAPCA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT ÇOCUK 1024*578
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT HABER 1280*738
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT MUZIK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT OKUL
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT TÜRK 1024*578
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT WORLD 1280*738
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,TV 100
+http://livetr.gostream.nl/tv100/tv100/radyodelisi.m3u8
+#EXTINF:-1,TV EM m3u8
+http://mn-l.mncdn.com/tvem_live/tvem3/HasBahCa.m3u8
+#EXTINF:-1,TV NET
+http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
+#EXTINF:-1,UCAN KUS
+http://37.77.2.236:1935/ucak/ucak.stream/playlist.m3u8
+#EXTINF:-1,ÜLKE TV HD m3u8 -720*500
+http://livetr.gostream.nl/ulketvhq/ulketvhq/HasBahCa.m3u8
+#EXTINF:-1,VUSLAT TV
+http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
+#EXTINF:-1,WORLD TRAVEL TR
+http://195.12.170.150:8000/play/TR-world-travel-tr
+#EXTINF:-1,Y Akit TV
+http://yayin3.canlitv.com.tr:1935/live/akittv/chunklist_w1526497265.m3u8
+#EXTINF:-1,YASiN TV m3u8
+http://sr1.netmedya.org:1935/yasintv/live.sdp/HasBahCa.m3u8
+#EXTINF:-1,FOX HD 1280*738
+rtmp://37.187.164.118:1938/live//webtvplay_test
+#EXTINF:-1,IRMAK TV 1280*720
+http://cds.z2q7i5m7.hwcdn.net/asset/7uDFqi51/chunklist_720.m3u8
+#EXTINF:-1,MEDENIYET TV 1280*720
+http://nl-1-ms-origin.noccdn.com/cdn/53bf0671059c1/playlist.m3u8
+#EXTINF:-1,POWER TV HD 1280*738
+http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/chunklist_w29105981_b1328000.m3u8
+#EXTINF:-1,POWERTURK HD 1280*738
+http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/chunklist_w274236643_b1328000.m3u8
+#EXTINF:-1,SHOW TV HD 960*546
+http://live-ciner.mncdn.net/showtv/showtv2/HasBahCa.m3u8
+#EXTINF:-1,TRT 1 HD 1280*738
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT ÇOCUK 1024*578
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT HABER 1280*738
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT TÜRK 1024*578
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1,TV 2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
 #EXTINF:-1,BENGÜ TÜRK
