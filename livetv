@@ -11,7 +11,7 @@ http://38.117.88.253:7777/StarTVTurkiye_HD.m3u8
 http://hls01-04.az.myvideo.az/hls-live/livepkgr/startv/startv/startv.m3u8
 #EXTINF:-1,KANAL D HD
 http://38.117.88.253:7777/KanalD_HD.m3u8
-#EXTINF:-1,ATV 
+#EXTINF:-1,ATV HD
 http://38.117.88.253:7777/ATVTurkiye_HD.m3u8
 #EXTINF:-1,SHOW TV HD
 http://38.117.88.253:7777/ShowTV_HD.m3u8
@@ -27,6 +27,8 @@ http://38.117.88.253:7777/BeyazTV_HD.m3u8
 http://38.117.88.253:7777/Flash_HD.m3u8
 #EXTINF‬:-1,NTV HD
 http://38.117.88.253:7777/NTVTurkiye_HD.m3u8
+#EXTINF:-1,HALK TV
+ -http://38.117.88.253:7777/Halk_HD.m3u8
 #EXTINF:-1,HABERTÜRK HD
 http://38.117.88.253:7777/Haberturk_HD.m3u8
 #EXTINF:-1,BENGÜTÜRK TV
