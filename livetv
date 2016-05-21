@@ -3,49 +3,8 @@
 #EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 21.05.2016[/B][/COLOR]
 http://eyeoftv.m3u8
 
-#EXTM3U
-#‎EXTINF‬:-1,NTV 
-http://38.117.88.253:7777/NTVTurkiye_HD.m3u8
-#EXTINF:-1,HABER TüRK 
-http://38.117.88.253:7777/Haberturk_HD.m3u8
-#EXTINF:-1,A Haber 
-http://38.117.88.253:7777/AHaber_HD.m3u8
-#EXTINF:-1,CNN TÜRK 
-http://38.117.88.253:7777/CNNTurk_HD.m3u8
-#EXTINF:-1,24 TV 
-http://38.117.88.253:7777/24_HD.m3u8
-#EXTINF:-1,Bugün TV 
-http://38.117.88.253:7777/Bugun_HD.m3u8
-#EXTINF:-1,TGRT HABER 
-http://38.117.88.253:7777/TGRTHaber_HD.m3u8
-#EXTINF:-1,Bengü Türk TV 
-http://38.117.88.253:7777/BenguTurk_HD.m3u8
-#EXTINF:-1,SHaber 
-http://38.117.88.253:7777/SamanyoluHaber_HD.m3u8
-#EXTINF:-1,Ülke TV 
-http://38.117.88.253:7777/UlkeTV_HD.m3u8
-#EXTINF:-1,TVNet 
-http://38.117.88.253:7777/TVNet_HD.m3u8
-#EXTINF:-1,TRT 1 
-http://38.117.88.253:7777/TRT1_HD.m3u8
-#EXTINF:-1,TRT Haber 
-http://38.117.88.253:7777/TRTHaber_HD.m3u8
-#EXTINF:-1,TRT Türk 
-http://38.117.88.253:7777/TRTTurk_HD.m3u8
-#EXTINF:-1,TRT Çocuk 
-http://38.117.88.253:7777/TRTCocuk_HD.m3u8
-#EXTINF:-1,TRT Müzik 
-http://38.117.88.253:7777/TRTMuzik_HD.m3u8
-#EXTINF:-1,TRT Diyanet TV 
-http://38.117.88.253:7777/TRTDiyanet_HD.m3u8
-#EXTINF:-1,TRT Belgesel 
-http://38.117.88.253:7777/TRTBelgesel_HD.m3u8
-#EXTINF:-1,TRT Okul 
-http://38.117.88.253:7777/TRTOkul_HD.m3u8
-#EXTINF:-1,FOX TV 
-http://38.117.88.253:7777/FoxTurkiye_HD.m3u8
-#EXTINF:-1,STAR TV 
-http://38.117.88.253:7777/StarTVTurkiye_HD.m3u8
+#EXTINF:-1,EURO STAR
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/startv/startv/startv.m3u8
 #EXTINF:-1,Kanal D 
 http://38.117.88.253:7777/KanalD_HD.m3u8
 #EXTINF:-1,SHOW TV 
@@ -54,40 +13,39 @@ http://38.117.88.253:7777/ShowTV_HD.m3u8
 http://38.117.88.253:7777/ATVTurkiye_HD.m3u8
 #EXTINF:-1,TV 8 
 http://38.117.88.253:7777/TV8_HD.m3u8
-#EXTINF:-1,Kanal 7 
+#EXTINF:-1,KANAL 7 HD
 http://38.117.88.253:7777/Kanal7_HD.m3u8
 #EXTINF:-1,Beyaz TV 
 http://38.117.88.253:7777/BeyazTV_HD.m3u8
-#EXTINF:-1,Kanal A 
+
+#EXTINF‬:-1,NTV HD
+http://38.117.88.253:7777/NTVTurkiye_HD.m3u8
+#EXTINF:-1,HABERTÜRK HD
+http://38.117.88.253:7777/Haberturk_HD.m3u8
+#EXTINF:-1,CNN TÜRK HD
+http://38.117.88.253:7777/CNNTurk_HD.m3u8
+#EXTINF:-1,24 TV HD
+http://38.117.88.253:7777/24_HD.m3u8
+#EXTINF:-1,TGRT HABER HD
+http://38.117.88.253:7777/TGRTHaber_HD.m3u8
+#EXTINF:-1,BENGÜ TÜRK HD
+http://38.117.88.253:7777/BenguTurk_HD.m3u8
+#EXTINF:-1,ÜLKE TV HD
+http://38.117.88.253:7777/UlkeTV_HD.m3u8
+#EXTINF:-1,TVNET HD
+http://38.117.88.253:7777/TVNet_HD.m3u8
+#EXTINF:-1,TRT 1 HD
+http://38.117.88.253:7777/TRT1_HD.m3u8
+#EXTINF:-1,TRT TÜRK HD
+http://38.117.88.253:7777/TRTTurk_HD.m3u8
+#EXTINF:-1,TRT BELGESEL HD
+http://38.117.88.253:7777/TRTBelgesel_HD.m3u8
+#EXTINF:-1,Kanal A  HD
 http://38.117.88.253:7777/KanalA_HD.m3u8
-#EXTINF:-1,Minika Cocuk 
-http://38.117.88.253:7777/MinikaCocuk_HD.m3u8
-#EXTINF:-1,Minika GO 
-http://38.117.88.253:7777/MinikaGo_HD.m3u8
-#EXTINF:-1,Yumurcak TV 
-http://38.117.88.253:7777/Yumurcak_HD.m3u8
-#EXTINF:-1,Yumurcak TV (LR)
- http://38.99.146.100:7777/Yumurcak_LR.m3u8
-#EXTINF:-1,Cartoon Network 
-http://38.117.88.253:7777/CartoonNetwork_HD.m3u8
-#EXTINF:-1,Planet Çocuk 
-http://38.117.88.253:7777/PlanetCocuk_HD.m3u8
-#EXTINF:-1,TV 4 
-http://38.117.88.253:7777/TV4_HD.m3u8
-#EXTINF:-1,KRAL TV 
-http://38.117.88.253:7777/KralTV_HD.m3u8
-#EXTINF:-1,SUPER POP 
-http://38.117.88.253:7777/KralPopTV_HD.m3u8
-#EXTINF:-1,Planet Türk 
-http://38.117.88.253:7777/PlanetTurk_HD.m3u8
-#EXTINF:-1,TV2 
-http://38.117.88.253:7777/TV2_HD.m3u8
-#EXTINF:-1,TV2 (LR) 
-http://38.99.146.100:7777/TV2_LR.m3u8
+
 #EXTINF:-1,CNBC-e 
 http://38.117.88.253:7777/CNBCE_HD.m3u8
-#EXTINF:-1,CNBC-e (LR) 
-http://38.99.146.100:7777/CNBCE_LR.m3u8
+
 #EXTINF:-1,e2 
 http://38.117.88.253:7777/E2_HD.m3u8
 #EXTINF:-1,e2 (LR) 
@@ -193,164 +151,95 @@ http://38.117.88.253:7777/GencTV_HD.m3u8
 http://38.117.88.253:7777/Bereket_HD.m3u8
 #EXTINF:-1,Düğün TV 
 http://38.117.88.253:7777/DugunTV_HD.m3u8
-
 #EXTINF:-1,TRT 1
-
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-
 #EXTINF:-1,ATV 
 http://38.117.88.253:7777/ATVTurkiye_HD.m3u8
-
 #EXTINF:-1,Kanal D
 http://37.48.83.9/S2/HLS_LIVE/kanald/1000/prog_index.m3u8?key=fee70ff1f3e3f203e52bd3eee9b0f124&live=true&app=com.kanald&min=0&max=1250
-
 #EXTINF:-1,STAR TV 
 http://38.117.88.253:7777/StarTVTurkiye_HD.m3u8
-
 #EXTINF:-1,SHOW TV HD
 http://mn-l.mncdn.com:1935/showtv/showtv2/chunklist_w727213756.m3u8
-
 #EXTINF:-1,FOX TV 
 http://38.117.88.253:7777/FoxTurkiye_HD.m3u8
-
 #EXTINF:-1,KANAL 7 HD
 http://livetr.gostream.nl/kanal7hq/kanal7hq/chunklist_w86568291.m3u8
-
 #EXTINF:-1,TV 8 
 http://38.117.88.253:7777/TV8_HD.m3u8
-
 #EXTINF:-1,FiL TV
 http://live4.cdn.web.tv/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
-
 #EXTINF:-1,Best TV
 http://yayin3.canlitv.com:1935/live/besttv/chunklist_w1645914754.m3u8
-
 #EXTINF:-1,TRT HABER
-
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-
-
 #EXTINF:-1,NTV
 http://38.117.88.253:7777/NTVTurkiye_HD.m3u8
-
 #EXTINF:-1,A Haber 
 http://38.117.88.253:7777/AHaber_HD.m3u8
-
 #EXTINF:-1,24 yirmidort TV
 http://mn-l.mncdn.com/kanal24/kanal243/chunklist_w1542967589.m3u8
-
 #EXTINF:-1,CNNTURK
 http://37.48.83.10/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?key=fee70ff1f3e3f203e52bd3eee9b0f124&live=true&app=com.cnnturk
-
 #EXTINF:-1,HABERTURK
 http://live-ciner.mncdn.net/haberturk/haberturk3/chunklist_w1278435642.m3u8
-
 #EXTINF:-1,tvnet
 http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
-
 #EXTINF:-1,ULKE TV
 http://livetr.gostream.nl/ulketvhq/ulketvhq/chunklist_w648620058.m3u8
-
 #EXTINF:-1,KanalA
 http://stream.n3.noc.com.tr/kanala/kanala/chunklist_w1082384770.m3u8
-
 #EXTINF:-1,TGRT Haber
 http://188.138.1.243:1935/tgrtliveedge/smil:tgrt.smil/chunklist_w1847413602.m3u8
-
 #EXTINF:-1,Euronews
 http://live01.tvnet.doracdn.com/live/smil:euronews.smil/chunklist_b850000.m3u8
-
 #EXTINF:-1,BLOOMBERG HT
 http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/chunklist_w668226506_b848000.m3u8
-
 #EXTINF:-1,360
 http://31.210.157.109/360tv/360tvlive2/chunks.m3u8?nimblesessionid=25138492
-
 EXTINF:-1,TV 2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
-
 #EXTINF:-1,BENGÜTÜRK TV
 http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=379483538
-
 #EXTINF:-1,TRT SPOR
-
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 
 #EXTINF:-1,a spor
 http://178.162.205.71:8081/live_hd/a_spor/live_hd/a_spor_hi/chunks.m3u8?nimblesessionid=63826048&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDE2IDExOjQ5OjIwIEFNJmhhc2hfdmFsdWU9eTF2M3gxSEdHYmc4VFgyNVQ0Z3FvUT09JnZhbGlkbWludXRlcz0xMCZpcD04OS4xNDQuMjExLjI0
-
 #EXTINF:-1,NTV Spor 
 http://38.117.88.253:7777/NTVSpor_HD.m3u8
-
 #EXTINF:-1,Sports tv
 http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w708638919_b800000.m3u8
-
 #EXTINF:-1,BEYAZ TV
 http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
-
 #EXTINF:-1,TV EM
 http://169.50.87.22/kesintisiz/tvem.m3u8?token=cRbAE74Q7cIvk-Zyb_NXXw&e=1462444466
-
 #EXTINF:-1,TRT AVAZ
-
 http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-
-
 #EXTINF:-1,TRT COCUK
-
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-
-
 #EXTINF:-1,TRT BELGESEL
-
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-
-
 #EXTINF:-1,TRT DIYANET
-
 http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
-
-
 #EXTINF:-1,TRT TURK
-
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-
-
 #EXTINF:-1,TRT OKUL
-
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
-
 #EXTINF:-1,TRT MUZIK
-
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-
-
-#EXTINF:-1,TRT3 TBMM TV
-
+#EXTINF:-1,TRT3 TBMM T
 http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
-
-
 #EXTINF:-1,TRT WORLD
-
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-
 #EXTINF:-1,TRT EL ARABIA
-
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-
-
 #EXTINF:-1,TRT KURDI
-
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-
-
 #EXTINF:-1,Eurosport
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-
 #EXTINF:-1,PLANET TURK
 http://77.223.146.117:1935/live/planett/chunklist.m3u8
-
 #EXTINF:-1,idmantv
 http://149.255.152.72/hls-live/livepkgr/idman/idman/idman.m3u8
 
@@ -372,13 +261,10 @@ http://38.117.88.253:7777/TV4_HD.m3u8
 
 #EXTINF:-1,tv4
 http://trt-i.mncdn.com:1935/karamel/karamel/chunklist_w872557066.m3u8
-
 #EXTINF:-1,Disney Channel
 http://yayin3.canlitv.com:1935/live/disney/chunklist_w953136283.m3u8
-
 #EXTINF:-1,AV TV
 http://www.arkumedia.com:1935/avtv/avtv/chunklist_w2024763528.m3u8
-
 #EXTINF:-1,Bein Sport HD1
 http://149.202.198.114:8000/play/beins1hd
 #EXTINF:-1,Bein Sport HD2
@@ -407,6 +293,37 @@ http://149.202.198.114:8000/play/beins13hd
 http://149.202.198.114:8000/play/arbeinmovie1hd
 #EXTINF:-1,AR-BeIN_Movies_2HD
 http://149.202.198.114:8000/play/arbeinmovie2hd
+
+#EXTINF:-1,LIG TV HD
+http://iptvfannansat.dyndns.tv/vachel5532/6756446/200.ch
+#EXTINF:-1,LİG TV 2 HD
+http://iptvfannansat.dyndns.tv/vachel5532/6756446/201.ch
+#EXTINF:-1,LİG TV 3 HD
+http://iptvfannansat.dyndns.tv/vachel5532/6756446/202.ch
+#EXTINF:-1,SMART SPORT HD
+http://iptvfannansat.dyndns.tv/vachel5532/6756446/43.ch
+#EXTINF:-1,MOVİE SMART HD
+http://iptvfannansat.dyndns.tv/vachel5532/6756446/44.ch
+#EXTINF:-1,ONS SPORT1 HD
+http://iptvfannansat.dyndns.tv/vachel5532/6756446/203.ch
+#EXTINF:-1,ONS SPOER2 HD
+http://iptvfannansat.dyndns.tv/vachel5532/6756446/204.ch
+#EXTINF:-1,ONS SPORT 3
+http://iptvfannansat.dyndns.tv/vachel5532/6756446/205.ch
+#EXTINF:-1,ONS SPORT 4
+http://iptvfannansat.dyndns.tv/vachel5532/6756446/206.ch
+#EXTINF:-1,SKY SPORTS NEWS HD
+http://iptvfannansat.dyndns.tv/vachel5532/6756446/200.ch
+#EXTINF:-1,SKY SPORT1 HD
+http://iptvfannansat.dyndns.tv/vachel5532/6756446/192.ch
+#EXTINF:-1,SKY SPORT2 HD
+http://iptvfannansat.dyndns.tv/vachel5532/6756446/193.ch
+#EXTINF:-1,SKY SPORT3 HD
+http://iptvfannansat.dyndns.tv/vachel5532/6756446/194.ch
+#EXTINF:-1,SKY SPORT4 HD
+http://iptvfannansat.dyndns.tv/vachel5532/6756446/195.ch
+#EXTINF:-1,SKY SPORT NEWS HD
+http://iptvfannansat.dyndns.tv/vachel5532/6756446/197.ch
 
 
 
