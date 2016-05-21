@@ -7,7 +7,7 @@ http://eyeoftv.m3u8
 http://38.117.88.253:7777/TV8_HD.m3u8
 #EXTINF:-1,EURO STAR HD
 http://38.117.88.253:7777/StarTVTurkiye_HD.m3u8
-#EXTINF:-1,EURO STAR HD [/B][COLOR green][B]2[/B][/COLOR]
+#EXTINF:-1,EURO STAR HD [COLOR green][B]2[/B][/COLOR]
 http://hls01-04.az.myvideo.az/hls-live/livepkgr/startv/startv/startv.m3u8
 #EXTINF:-1,KANAL D HD
 http://38.117.88.253:7777/KanalD_HD.m3u8
@@ -15,7 +15,7 @@ http://38.117.88.253:7777/KanalD_HD.m3u8
 http://38.117.88.253:7777/ATVTurkiye_HD.m3u8
 #EXTINF:-1,SHOW TV HD
 http://38.117.88.253:7777/ShowTV_HD.m3u8
-#EXTINF:-1,SHOW TV HD [/B][COLOR green][B]2[/B][/COLOR]
+#EXTINF:-1,SHOW TV HD [COLOR green][B]2[/B][/COLOR]
 http://mn-l.mncdn.com:1935/showtv/showtv2/chunklist_w727213756.m3u8
 #EXTINF:-1,FOX TV HD
 http://38.117.88.253:7777/FoxTurkiye_HD.m3u8
