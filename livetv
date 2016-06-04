@@ -3,73 +3,54 @@
 #EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 21.05.2016[/B][/COLOR]
 http://eyeoftv.m3u8
 
-#EXTINF:-1,TV 8 HD
-http://38.117.88.253:7777/TV8_HD.m3u8
-#EXTINF:-1,EURO STAR HD
-http://38.117.88.253:7777/StarTVTurkiye_HD.m3u8
-#EXTINF:-1,EURO STAR HD [COLOR green][B]2[/B][/COLOR]
-http://hls01-04.az.myvideo.az/hls-live/livepkgr/startv/startv/startv.m3u8
-#EXTINF:-1,KANAL D HD
-http://38.117.88.253:7777/KanalD_HD.m3u8
-#EXTINF:-1,ATV HD
-http://38.117.88.253:7777/ATVTurkiye_HD.m3u8
-#EXTINF:-1,SHOW TV HD
-http://38.117.88.253:7777/ShowTV_HD.m3u8
-#EXTINF:-1,SHOW TV HD [COLOR green][B]2[/B][/COLOR]
-http://mn-l.mncdn.com:1935/showtv/showtv2/chunklist_w727213756.m3u8
-#EXTINF:-1,FOX TV HD
-http://38.117.88.253:7777/FoxTurkiye_HD.m3u8
-#EXTINF:-1,KANAL 7 HD
-http://38.117.88.253:7777/Kanal7_HD.m3u8
-#EXTINF:-1,BEYAZ TV HD
-http://38.117.88.253:7777/BeyazTV_HD.m3u8
-#EXTINF:-1,FLASH TV HD
-http://38.117.88.253:7777/Flash_HD.m3u8
-#EXTINF‬:-1,NTV HD
-http://38.117.88.253:7777/NTVTurkiye_HD.m3u8
-#EXTINF:-1,HALK TV
- -http://38.117.88.253:7777/Halk_HD.m3u8
-#EXTINF:-1,HABERTÜRK HD
-http://38.117.88.253:7777/Haberturk_HD.m3u8
-#EXTINF:-1,BENGÜTÜRK TV
-http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=379483538
-#EXTINF:-1,TBMM HD
-http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1,CNN TÜRK HD
-http://38.117.88.253:7777/CNNTurk_HD.m3u8
-#EXTINF:-1,CNBC-e 
-http://38.117.88.253:7777/CNBCE_HD.m3u8
-#EXTINF:-1,24 TV HD
-http://38.117.88.253:7777/24_HD.m3u8
-#EXTINF:-1,TGRT HABER HD
-http://38.117.88.253:7777/TGRTHaber_HD.m3u8
-#EXTINF:-1,BENGÜ TÜRK HD
-http://38.117.88.253:7777/BenguTurk_HD.m3u8
-#EXTINF:-1,ÜLKE TV HD
-http://38.117.88.253:7777/UlkeTV_HD.m3u8
-#EXTINF:-1,TVNET HD
-http://38.117.88.253:7777/TVNet_HD.m3u8
-#EXTINF:-1,NTV Spor 
-http://38.117.88.253:7777/NTVSpor_HD.m3u8
-#EXTINF:-1,BEYAZ TV
-http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,TRT HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
 #EXTINF:-1,TRT 1 HD
-http://38.117.88.253:7777/TRT1_HD.m3u8
-#EXTINF:-1,TRT AVAZ HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:-1,TRT BELGESEL HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1,TRT HABER HD News
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1,TRT BELGESEL HD Documentary
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-#EXTINF:-1,TRT DIYANET HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
-#EXTINF:-1,TRT TÜRK HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-#EXTINF:-1,TRT MUZIK HD
+#EXTINF:-1,TRT Muzik Music
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1,TRT WORLD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1,TRT cocuk Kid
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1,TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 #EXTINF:-1,TRT EL ARABIA
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1,TRT KURDI
-http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-#EXTINF:-1,TRT SPOR
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1,KANAL D HD
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1,SHOW TV HD
+http://live-ciner.mncdn.net/showtv/showtv2/master.m3u8
+#EXTINF:-1,ATV HD
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1,TV8 HD Entertainment
+http://ls.viviso.tv/i/tv8sdi_1@349694/master.m3u8
+#EXTINF:-1,Star TV
+http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179
+fc45f18506125345f_live_0_0/index.m3u8
+#EXTINF:-1,CNN TuRK HD News
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1,FOX HD
+http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+#EXTINF:-1,KANALTuRK HD News
+http://kanalturk-live.ercdn.com/kanalturk1.m3u8
+#EXTINF:-1,HABERTuRKNews
+http://live-ciner.mncdn.net/haberturk/haberturk2/master.m3u8
+#EXTINF:-1,uLKE TV HD
+http://livetr.gostream.nl/ulketvhq/ulketvhq/master.m3u8
+#EXTINF:-1,KANAL 7 HD
+http://livetr.gostream.nl/kanal7hq/kanal7hq/ratus42.m3u8
+#EXTINF:-1,NTV Spor Sport
+http://bak01-edge03.itdc.ge/ntvspor/index.m3u8
+#EXTINF:-1,TV2 Movie-Entertainment
+http://212.224.80.84/S2/HLS_LIVE/tv2/track_4_1000/playlist.m3u8
+#EXTINF:-1,Fil TV Movie
+http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b9
+8a7ab51ddd48663a474_live_0_0/chunklist.m3u8
+#EXTINF:-1,POWER TV HD Music
+http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
+#EXTINF:-1,POWERTuRK TV HD Music
+http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8
