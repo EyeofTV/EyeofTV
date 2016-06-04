@@ -1,6 +1,6 @@
-#EXTM3U
+#EXTM3U6
 
-#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 21.05.2016[/B][/COLOR]
+#EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATE 04.06.2016[/B][/COLOR]
 http://eyeoftv.m3u8
 
 #EXTM3U
