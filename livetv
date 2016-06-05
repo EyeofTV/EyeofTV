@@ -3,327 +3,109 @@
 #EXTINF:-1 tvg-logo="eyeoftv.png",[COLOR turquoise][B]EYE OF TV[/B][/COLOR][B] - [/B][COLOR red][B]UPDATED 05.06.2016[/B][/COLOR]
 http://eyeoftv.m3u8
 
-#EXTINF:-1,TURKISH | ATV HD
-http://iptvbox.noip.us:9998/live/atik/atik/984.ts
-#EXTINF:-1,TURKISH | TV8 HD
-http://iptvbox.noip.us:9998/live/atik/atik/990.ts
-#EXTINF:-1,TURKISH | TRT HABER
-http://iptvbox.noip.us:9998/live/atik/atik/988.ts
-#EXTINF:-1,TURKISH | TRT COCUK
-http://iptvbox.noip.us:9998/live/atik/atik/999.ts
-#EXTINF:-1,TURKISH | TRT1
-http://iptvbox.noip.us:9998/live/atik/atik/983.ts
-#EXTINF:-1,TURKISH | MINIKA COCUK HD
-http://iptvbox.noip.us:9998/live/atik/atik/981.ts
-#EXTINF:-1,TURKISH | SINEMA 3D
-http://iptvbox.noip.us:9998/live/atik/atik/1589.ts
-#EXTINF:-1,TURKISH | NAT GEO WILD
-http://iptvbox.noip.us:9998/live/atik/atik/1581.ts
-#EXTINF:-1,TURKISH | NAT GEO
-http://iptvbox.noip.us:9998/live/atik/atik/1580.ts
-#EXTINF:-1,TURKISH | MOVIE SMART GOLD 2 HD
-http://iptvbox.noip.us:9998/live/atik/atik/1583.ts
-#EXTINF:-1,TURKISH | MOVIE MAX FESTIVAL
-http://iptvbox.noip.us:9998/live/atik/atik/1587.ts
-#EXTINF:-1,TURKISH | KRAL POP
-http://iptvbox.noip.us:9998/live/atik/atik/1582.ts
-#EXTINF:-1,TURKISH | CINEBOX 3
-http://iptvbox.noip.us:9998/live/atik/atik/1586.ts
-#EXTINF:-1,TURKISH | CINEBOX 2
-http://iptvbox.noip.us:9998/live/atik/atik/1585.ts
-#EXTINF:-1,TURKISH | CINEBOX
-http://iptvbox.noip.us:9998/live/atik/atik/1584.ts
-#EXTINF:-1,TURKISH | STAR TV HD
-http://iptvbox.noip.us:9998/live/atik/atik/980.ts
-#EXTINF:-1,TURKISH | SHOW TV
-http://iptvbox.noip.us:9998/live/atik/atik/982.ts
-#EXTINF:-1,TURKISH | POWER TURK
-http://iptvbox.noip.us:9998/live/atik/atik/997.ts
-#EXTINF:-1,TURKISH | PLANET COCUK
-http://iptvbox.noip.us:9998/live/atik/atik/996.ts
-#EXTINF:-1,TURKISH | NTV
-http://iptvbox.noip.us:9998/live/atik/atik/992.ts
-#EXTINF:-1,TURKISH | MINIKA GO
-http://iptvbox.noip.us:9998/live/atik/atik/994.ts
-#EXTINF:-1,TURKISH | MINIKA COCUK
-http://iptvbox.noip.us:9998/live/atik/atik/995.ts
-#EXTINF:-1,TURKISH | KRAL TV
-http://iptvbox.noip.us:9998/live/atik/atik/998.ts
-#EXTINF:-1,TURKISH | KANAL A
-http://iptvbox.noip.us:9998/live/atik/atik/993.ts
-#EXTINF:-1,TURKISH | KANAL D
-http://iptvbox.noip.us:9998/live/atik/atik/985.ts
-#EXTINF:-1,TURKISH | KANAL 7
-http://iptvbox.noip.us:9998/live/atik/atik/991.ts
-#EXTINF:-1,TURKISH | KANALD HD
-http://iptvbox.noip.us:9998/live/atik/atik/1577.ts
-#EXTINF:-1,TURKISH | KANAL TURK
-http://iptvbox.noip.us:9998/live/atik/atik/986.ts
-#EXTINF:-1,TURKISH | FOX TV HD
-http://iptvbox.noip.us:9998/live/atik/atik/1403.ts
-#EXTINF:-1,TURKISH | BEYAZ TV
-http://iptvbox.noip.us:9998/live/atik/atik/987.ts
-#EXTINF:-1,TURKISH | TRIVIBU SPOR 1 HD
-http://iptvbox.noip.us:9998/live/atik/atik/1367.ts
-#EXTINF:-1,TURKISH | DISNEY CHANNEL
-http://iptvbox.noip.us:9998/live/atik/atik/1373.ts
-#EXTINF:-1,TURKISH | CNN 4 TR
-http://iptvbox.noip.us:9998/live/atik/atik/1374.ts
-#EXTINF:-1,AL: Top Kanal
-http://iptvbox.noip.us:9998/live/atik/atik/1412.ts
-#EXTINF:-1,TURKISH | TRT SPOR
-http://iptvbox.noip.us:9998/live/atik/atik/879.ts
-#EXTINF:-1,TURKISH | TIVIBUSPOR-SMART SPOR DONUSUMLU
-http://iptvbox.noip.us:9998/live/atik/atik/877.ts
-#EXTINF:-1,TURKISH | TIVIBUSPOR 2
-http://iptvbox.noip.us:9998/live/atik/atik/878.ts
-#EXTINF:-1,TURKISH | SPORTS TV
-http://iptvbox.noip.us:9998/live/atik/atik/881.ts
-#EXTINF:-1,TURKISH | SINEMA TV
-http://iptvbox.noip.us:9998/live/atik/atik/887.ts
-#EXTINF:-1,TURKISH | SINEMA KORKU 2
-http://iptvbox.noip.us:9998/live/atik/atik/895.ts
-#EXTINF:-1,TURKISH | SINEMA KORKU 1
-http://iptvbox.noip.us:9998/live/atik/atik/894.ts
-#EXTINF:-1,TURKISH | SINEMA KOMEDI 2
-http://iptvbox.noip.us:9998/live/atik/atik/901.ts
-#EXTINF:-1,TURKISH | SINEMA KOMEDI 1
-http://iptvbox.noip.us:9998/live/atik/atik/900.ts
-#EXTINF:-1,TURKISH | BLOOMBERG
-http://iptvbox.noip.us:9998/live/atik/atik/903.ts
-#EXTINF:-1,TURKISH | DISCOVERY SCIENCE
-http://iptvbox.noip.us:9998/live/atik/atik/902.ts
-#EXTINF:-1,TURKISH | SINEMA AKSIYON 2
-http://iptvbox.noip.us:9998/live/atik/atik/899.ts
-#EXTINF:-1,TURKISH | SINEMA AKSIYON 1
-http://iptvbox.noip.us:9998/live/atik/atik/898.ts
-#EXTINF:-1,TURKISH | SINEMA AILE 2
-http://iptvbox.noip.us:9998/live/atik/atik/897.ts
-#EXTINF:-1,TURKISH | SINEMA AILE 1
-http://iptvbox.noip.us:9998/live/atik/atik/896.ts
-#EXTINF:-1,TURKISH | Salon 3 HD
-http://iptvbox.noip.us:9998/live/atik/atik/890.ts
-#EXTINF:-1,TURKISH | Salon 2 HD
-http://iptvbox.noip.us:9998/live/atik/atik/889.ts
-#EXTINF:-1,TURKISH | SALON 1 HD
-http://iptvbox.noip.us:9998/live/atik/atik/888.ts
-#EXTINF:-1,TURKISH | NTV SPOR
-http://iptvbox.noip.us:9998/live/atik/atik/880.ts
-#EXTINF:-1,TURKISH | MOVIESMART PREMIUM
-http://iptvbox.noip.us:9998/live/atik/atik/886.ts
-#EXTINF:-1,TURKISH | MOVIESMART FEST
-http://iptvbox.noip.us:9998/live/atik/atik/885.ts
-#EXTINF:-1,TURKISH | MOVIEMAX FAMILY HD
-http://iptvbox.noip.us:9998/live/atik/atik/884.ts
-#EXTINF:-1,TURKISH | LOCA 3
-http://iptvbox.noip.us:9998/live/atik/atik/893.ts
-#EXTINF:-1,TURKISH | LOCA 2
-http://iptvbox.noip.us:9998/live/atik/atik/892.ts
-#EXTINF:-1,TURKISH | LOCA 1
-http://iptvbox.noip.us:9998/live/atik/atik/891.ts
-#EXTINF:-1,TURKISH | LIGTV 2
-http://iptvbox.noip.us:9998/live/atik/atik/875.ts
-#EXTINF:-1,TURKISH | LIGTV 3
-http://iptvbox.noip.us:9998/live/atik/atik/876.ts
-#EXTINF:-1,TURKISH | LIGTV4 HD
-http://iptvbox.noip.us:9998/live/atik/atik/1551.ts
-#EXTINF:-1,TURKISH | A SPOR
-http://iptvbox.noip.us:9998/live/atik/atik/882.ts
-#EXTINF:-1,TURKISH | 7/24 TV
-http://iptvbox.noip.us:9998/live/atik/atik/883.ts
-#EXTINF:-1,TURKISH | LIGTV1 HD
-http://iptvbox.noip.us:9998/live/atik/atik/826.ts
-#EXTINF:-1,TR:Kral TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/2481.ts
-#EXTINF:-1,TR: Bursa Spor
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1245.ts
-#EXTINF:-1,TR: TRT World
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1220.ts
-#EXTINF:-1,TR: TRT HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1215.ts
-#EXTINF:-1,TR: Haber HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1222.ts
-#EXTINF:-1,TR: ULKE TV HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1704.ts
-#EXTINF:-1,TR: TV 8 HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1709.ts
-#EXTINF:-1,TR: TRT TBMM
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1395.ts
-#EXTINF:-1,TR: TRT TÜRK HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1391.ts
-#EXTINF:-1,TR: TRT SPOR
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1703.ts
-#EXTINF:-1,TR: TRT Okul
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1393.ts
-#EXTINF:-1,TR: TRT MUZIK
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1416.ts
-#EXTINF:-1,TR: TRT Kurdi
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1392.ts
-#EXTINF:-1,TR: TRT Diyanet
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1398.ts
-#EXTINF:-1,TR: TRT COCUK
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1412.ts
-#EXTINF:-1,TR: TRT ArapÃ§a
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1394.ts
-#EXTINF:-1,TR: TRT 1 HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1390.ts
-#EXTINF:-1,TR: STAR TV YEDEK
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1707.ts
-#EXTINF:-1,TR: SHOW TV HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1710.ts
-#EXTINF:-1,TR: SHOW HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1399.ts
-#EXTINF:-1,TR: Samanyolu TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1233.ts
-#EXTINF:-1,TR: Salon 1
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1368.ts
-#EXTINF:-1,TR: Salon 2
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1367.ts
-#EXTINF:-1,TR: NTV Spor
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1667.ts
-#EXTINF:-1,TR: NTV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1714.ts
-#EXTINF:-1,TR: MovieSmart Family HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1666.ts
-#EXTINF:-1,TR: Kral Pop
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1663.ts
-#EXTINF:-1,TR: KENT DE HA
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1715.ts
-#EXTINF:-1,TR: KANAL D HD YEDEK
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1732.ts
-#EXTINF:-1,TR: Kanal D HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1238.ts
-#EXTINF:-1,TR: Kanal 7 HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1403.ts
-#EXTINF:-1,TR: KANAL 7 AVRUPA
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1708.ts
-#EXTINF:-1,TR: Kanal 24
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1240.ts
-#EXTINF:-1,TR: ISTANBUL TV 1
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1712.ts
-#EXTINF:-1,TR: FOX TV HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1711.ts
-#EXTINF:-1,TR: Flash TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1242.ts
-#EXTINF:-1,TR: Filma X Premier HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1371.ts
-#EXTINF:-1,TR: Fanatik TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1244.ts
-#EXTINF:-1,TR: DREAM TURK
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1417.ts
-#EXTINF:-1,TR: Dream TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1418.ts
-#EXTINF:-1,TR: CNN TURK HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1408.ts
-#EXTINF:-1,TR: Bugun TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1662.ts
-#EXTINF:-1,TR: Beyaz TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1247.ts
-#EXTINF:-1,TR: ATV HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1248.ts
-#EXTINF:-1,TR: A Spor HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1661.ts
-#EXTINF:-1,TR: TRT Belgesel
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1217.ts
-#EXTINF:-1,TR: TRT Avaz
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1224.ts
-#EXTINF:-1,TR: Lig TV 2 HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/982.ts
-#EXTINF:-1,TR: Lig TV 1 HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/981.ts
-#EXTINF:-1,TR: Yumorcak TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1669.ts
-#EXTINF:-1,TR: YOL TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1906.ts
-#EXTINF:-1,TR: TV2
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1899.ts
-#EXTINF:-1,TR: Tv EM
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1372.ts
-#EXTINF:-1,TR: TRT Sport HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1374.ts
-#EXTINF:-1,TR: TRT HABER HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1232.ts
-#EXTINF:-1,TR: TRT COCUK HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1898.ts
-#EXTINF:-1,TR: TRT 6
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1375.ts
-#EXTINF:-1,TR: TRT 2000
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1376.ts
-#EXTINF:-1,TR: TIVIBU SPORT 2
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1933.ts
-#EXTINF:-1,TR: TIVIBU SPOR 1
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1932.ts
-#EXTINF:-1,TR: Star HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1378.ts
-#EXTINF:-1,TR: Sports TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1379.ts
-#EXTINF:-1,TR: SKYTURK 360
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1909.ts
-#EXTINF:-1,TR: Sinema Platin
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1380.ts
-#EXTINF:-1,TR: Sinema Korku
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1363.ts
-#EXTINF:-1,TR: Sinema Gold
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1381.ts
-#EXTINF:-1,TR: Sinema ASK
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1364.ts
-#EXTINF:-1,TR: Sinema Animasyon
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1365.ts
-#EXTINF:-1,TR: Sinema 2 HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1231.ts
-#EXTINF:-1,TR: Sinema 1
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1230.ts
-#EXTINF:-1,TR: SEMERKAND TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1904.ts
-#EXTINF:-1,TR: Salon 3
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1366.ts
-#EXTINF:-1,TR: PowerTurk
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1234.ts
-#EXTINF:-1,TR: Minka GO
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1414.ts
-#EXTINF:-1,TR: Minka Cocuk
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1413.ts
-#EXTINF:-1,TR: MINIKA COCUK
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1914.ts
-#EXTINF:-1,TR: LOCA 3
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1369.ts
-#EXTINF:-1,TR: LOCA 2
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1370.ts
-#EXTINF:-1,TR: Lig TV 3
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1360.ts
-#EXTINF:-1,TR: Lig TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1664.ts
-#EXTINF:-1,TR: Kanal TÃ¼rk
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1236.ts
-#EXTINF:-1,TR: KANAL T HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1900.ts
-#EXTINF:-1,TR: KANAL A HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1901.ts
-#EXTINF:-1,TR: Kanal 28
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1239.ts
-#EXTINF:-1,TR: KABE LIVE
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1903.ts
-#EXTINF:-1,TR: HALK TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1910.ts
-#EXTINF:-1,TR: HABER TURK HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1907.ts
-#EXTINF:-1,TR: FOX HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1241.ts
-#EXTINF:-1,TR: FIL TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1243.ts
-#EXTINF:-1,TR: DSmart 2
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1361.ts
-#EXTINF:-1,TR: DSmart 1
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1362.ts
-#EXTINF:-1,TR: Disney Channel HD
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1911.ts
-#EXTINF:-1,TR: CARTONNETWORK
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1912.ts
-#EXTINF:-1,TR: BENGU TURK
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1908.ts
-#EXTINF:-1,TR: BEN TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1902.ts
-#EXTINF:-1,TR: Ballkan TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/875.ts
-#EXTINF:-1,TR: A9 TV
-http://ksportiptv.com:1557/live/www.iptvshqip.info/iptvshqip/1905.ts
+#EXTINF:0,TR-TRT1HD
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/71.m3u8
+#EXTINF:0,TR-TRT AVAZ
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/72.m3u8
+#EXTINF:0,TR-TRTÇOCUK
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/80.m3u8
+#EXTINF:0,TR-TRTTURK
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/73.m3u8
+#EXTINF:0,TR-TRTHABER
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/74.m3u8
+#EXTINF:0,TR-TRTSPOR
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/75.m3u8
+#EXTINF:0,TR-ATV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/58.m3u8
+#EXTINF:0,TR-ATV-YEDEK
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/59.m3u8
+#EXTINF:0,KANAL D
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/60.m3u8
+#EXTINF:0,TR-KANALD-HD-YEDEK
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/61.m3u8
+#EXTINF:0,TR-STARTV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/330.m3u8
+#EXTINF:0,TR-STARTV-YEDEK
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/271.m3u8
+#EXTINF:0,TR-SHOWTV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/62.m3u8
+#EXTINF:0,TR-SHOWTV-YEDEK
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/63.m3u8
+#EXTINF:0,TR-FOXTV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/56.m3u8
+#EXTINF:0,TR-FOXTV-YEDEK
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/57.m3u8
+#EXTINF:0,TR-TV8
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/66.m3u8
+#EXTINF:0,TR-TV8-YEDEK
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/67.m3u8
+#EXTINF:0,TR-KANAL7
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/65.m3u8
+#EXTINF:0,TR-KANALA
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/68.m3u8
+#EXTINF:0,TR-FLASHTV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/603.m3u8
+#EXTINF:0,TR-ULKETVHD
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/599.m3u8
+#EXTINF:0,TR-KANAL24
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/77.m3u8
+#EXTINF:0,TR-BEYAZTV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/69.m3u8
+#EXTINF:0,TR-SAMANYOLU
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/78.m3u8
+#EXTINF:0,TR-SEMERKANDHD
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/97.m3u8
+#EXTINF:0,TR-AKITTV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/98.m3u8
+#EXTINF:0,TR-LALEGULTV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/81.m3u8
+#EXTINF:0,TR-TV2
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/91.m3u8
+#EXTINF:0,TR-TVEM
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/32.m3u8
+#EXTINF:0,TR-AHABER
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/70.m3u8
+#EXTINF:0,TR-HABERTURK
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/90.m3u8
+#EXTINF:0,TR-NTV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/16.m3u8
+#EXTINF:0,TR-CNNTURK
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/96.m3u8
+#EXTINF:0,TR-360TV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/95.m3u8
+#EXTINF:0,TR-BLOOMBERGHT
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/86.m3u8
+#EXTINF:0,TGRT HABER
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/693.m3u8
+#EXTINF:0,TR-TJK
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/601.m3u8
+#EXTINF:0,TR-FANATIKTV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/602.m3u8
+#EXTINF:0,TR-NTVSPOR
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/15.m3u8
+#EXTINF:0,TR-A-SPOR
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/17.m3u8
+#EXTINF:0,FB TV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/695.m3u8
+#EXTINF:0,BJK TV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/696.m3u8
+#EXTINF:0,AZ-IDMANTV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/14.m3u8
+#EXTINF:0,TR-FILTV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/76.m3u8
+#EXTINF:0,TR-DREAMTURK
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/85.m3u8
+#EXTINF:0,TR-POWERTURKHD
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/83.m3u8
+#EXTINF:0,TR-DISNEYCHANNEL
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/94.m3u8
+#EXTINF:0,TR-CARTOONNETWORK
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/92.m3u8
+#EXTINF:0,TR-YUMURCAKTV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/600.m3u8
+#EXTINF:0,TR-TRTBELGESEL
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/87.m3u8
+#EXTINF:0,TR-YABANTV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/82.m3u8
+#EXTINF:0,TR-KRALTV
+http://149.202.108.203:7412/live/mesutx82/54wd5641sd2/93.m3u8
