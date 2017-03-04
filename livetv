@@ -123,3 +123,49 @@ http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/392.ts
 http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/391.ts
 #EXTINF:-1,TR:LIG_TV_3HD
 http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/390.ts
+#EXTINF:-1,Bein Sports
+http://pro.satlover.com:58080/live/fredd/JaxX27M8YP/2632.ts
+#EXTINF:-1,Bein Sport HD1
+http://pro.satlover.com:58080/live/fredd/JaxX27M8YP/1833.ts
+#EXTINF:-1,Bein Sport HD2
+http://pro.satlover.com:58080/live/fredd/JaxX27M8YP/1829.ts
+#EXTINF:-1,Bein Sport HD3
+http://pro.satlover.com:58080/live/fredd/JaxX27M8YP/1828.ts
+#EXTINF:-1,Bein Sport HD4
+http://pro.satlover.com:58080/live/fredd/JaxX27M8YP/1827.ts
+#EXTINF:-1,Bein Sport HD5
+http://pro.satlover.com:58080/live/fredd/JaxX27M8YP/1826.ts
+#EXTINF:-1,Bein Sport HD6
+http://pro.satlover.com:58080/live/fredd/JaxX27M8YP/1825.ts
+#EXTINF:-1,Bein Sport HD7
+http://pro.satlover.com:58080/live/fredd/JaxX27M8YP/1824.ts
+#EXTINF:-1,Bein Sport HD8
+http://pro.satlover.com:58080/live/fredd/JaxX27M8YP/1823.ts
+#EXTINF:-1,Bein Sport HD9
+http://pro.satlover.com:58080/live/fredd/JaxX27M8YP/1822.ts
+#EXTINF:-1,Bein Sport HD10
+http://pro.satlover.com:58080/live/fredd/JaxX27M8YP/1832.ts
+#EXTINF:-1,Bein Sport HD11
+http://pro.satlover.com:58080/live/fredd/JaxX27M8YP/1831.ts
+#EXTINF:-1,Bein Sport HD12
+http://pro.satlover.com:58080/live/fredd/JaxX27M8YP/1830.ts
+#EXTINF:-1,aHD
+http://84.22.63.214:9002
+#EXTINF:-1,STAR
+http://84.22.63.214:9001
+#EXTINF:-1,BEYAZ HD
+http://84.22.63.214:9000
+#EXTINF:-1,FOX HD
+http://84.22.63.214:9003
+#EXTINF:-1,NTV
+http://84.22.63.214:9005
+#EXTINF:-1,7 HD
+http://84.22.63.214:9004
+#EXTINF:-1,KRAL
+http://84.22.63.214:9006
+#EXTINF:-1,TV 8 HD
+http://84.22.63.214:9007
+#EXTINF:-1,SHOW TV
+http://84.22.63.214:9008
+#EXTINF:-1,aTV
+http://84.22.63.214:9010
